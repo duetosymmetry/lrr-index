@@ -40,8 +40,25 @@ def papersFromXMLTree(root):
 
 ######################################################################
 
+def supersededList():
+    """TODO Document this"""
+    supersededFilename = "superseded.txt"
+    f = open(supersededFilename, 'r')
+    lines = f.readlines()
+    f.close()
+
+    superseded = [line.strip() for line in lines]
+    
+    return superseded
+
+superseded = supersededList()
+
+######################################################################
+
 def LRRIndexFromXMLTree(root):
-    papers = papersFromXMLTree(root)
+    """TODO Document this"""
+    allPapers = papersFromXMLTree(root)
+    papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
     # for paper in papers:
     #     if paper.doi is None:
     #         print("Living Rev. Rel. {0}, {1} ({2}), "
@@ -57,9 +74,20 @@ def LRRIndexFromXMLTree(root):
     # authors.
     authsPaps = [(author, paper) for paper in papers for author in paper.authorsLasts]
     authsPaps.sort(key=lambda pair: "".join(pair[0].lower().split()))
-    
-    for _, paper in authsPaps:
-        print("{}, {}".format("/".join(paper.authors),paper.title))
+
+    # List of first initials that appear
+    fstInits = [author[0].upper() for paper in papers for author in paper.authorsLasts]
+    fstInits = list(set(fstInits))
+    fstInits.sort()
+    print(fstInits)
+
+    lastInit = ""
+    for author, paper in authsPaps:
+        curInit = author[0].upper()
+        if curInit != lastInit:
+            print("-- {} --".format(curInit))
+            lastInit = curInit
+        print("{}: {}, {}".format(paper.doi,"/".join(paper.authors),paper.title))
 
     return papers
 
@@ -71,6 +99,7 @@ defaultURL      = ('http://inspirehep.net/search'
                    '&of=xe&rg=1000')
 
 def xmlStringFromFile(filename):
+    """TODO Document this"""
     f = open(filename, 'r')
     xmlString = f.read()
     f.close()
@@ -78,14 +107,17 @@ def xmlStringFromFile(filename):
     return xmlString
 
 def xmlStringFromURL(url):
+    """TODO Document this"""
     return urlopen(url).read().decode('utf-8')
 
 def LRRIndexURL(url):
+    """TODO Document this"""
     root = ET.fromstring(xmlStringFromURL(url))
     LRRIndexFromXMLTree(root)
     return root
 
 def LRRIndexFile(filename):
+    """TODO Document this"""
     tree = ET.parse(filename)
     root = tree.getroot()
     LRRIndexFromXMLTree(root)
