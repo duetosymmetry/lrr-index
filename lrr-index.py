@@ -41,12 +41,10 @@ def papersFromXMLTree(root):
 
 ######################################################################
 
-def supersededList():
+def supersededList(filename):
     """TODO Document this"""
-    supersededFilename = "superseded.txt"
-    f = open(supersededFilename, 'r')
-    lines = f.readlines()
-    f.close()
+    with open(filename, 'r') as f:
+        lines = f.readlines()
 
     superseded = [line.strip() for line in lines]
     
@@ -107,9 +105,8 @@ defaultURL      = ('http://inspirehep.net/search'
 
 def xmlStringFromFile(filename):
     """TODO Document this"""
-    f = open(filename, 'r')
-    xmlString = f.read()
-    f.close()
+    with open(filename, 'r') as f:
+        xmlString = f.read()
 
     return xmlString
 
