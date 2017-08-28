@@ -47,14 +47,12 @@ def supersededList(filename):
         lines = f.readlines()
 
     superseded = [line.strip() for line in lines]
-    
-    return superseded
 
-superseded = supersededList()
+    return superseded
 
 ######################################################################
 
-def LRRIndexFromXMLTree(root):
+def LRRIndexFromXMLTree(root, superseded):
     """TODO Document this"""
     allPapers = papersFromXMLTree(root)
     papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
@@ -98,11 +96,6 @@ def LRRIndexFromXMLTree(root):
 
 ######################################################################
 
-defaultFilename = 'lrr.xml'
-defaultURL      = ('http://inspirehep.net/search'
-                   '?p=find+j+%22Living+Rev.Rel.%22'
-                   '&of=xe&rg=1000')
-
 def xmlStringFromFile(filename):
     """TODO Document this"""
     with open(filename, 'r') as f:
@@ -129,6 +122,12 @@ def LRRIndexFile(filename):
 
 ######################################################################
 
+defaultFilename = 'lrr.xml'
+defaultURL      = ('http://inspirehep.net/search'
+                   '?p=find+j+%22Living+Rev.Rel.%22'
+                   '&of=xe&rg=1000')
+supersededFilename = "superseded.txt"
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='lrr-index', description=__doc__)
 
@@ -138,10 +137,20 @@ if __name__ == '__main__':
     fileOrUrl.add_argument('--url',  nargs='?', const=defaultURL,
                            help='URL of INSPIRE query')
 
+    parser.add_argument('--superseded', default=supersededFilename,
+                        help=('Name of file containing list of DOIs'
+                              ' which have been superseded, one per'
+                              ' line.'))
+
     args = parser.parse_args()
 
-    xmlString = ''
+    root = [];
     if args.file is not None:
-        LRRIndexFile(args.file)
+        tree = ET.parse(args.file)
+        root = tree.getroot()
     else:
-        LRRIndexURL(args.url)
+        root = ET.fromstring(xmlStringFromURL(args.url))
+
+    superseded = supersededList(args.superseded)
+
+    papers = LRRIndexFromXMLTree(root, superseded)
