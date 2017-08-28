@@ -32,7 +32,8 @@ class Paper:
             self.authors      = [self.authors[0], 'et al.']
             self.authorsLasts = [self.authors[0].split(',')[0]]
         else:
-            self.authorsLasts = [author.split(',')[0] for author in self.authors]
+            self.authorsLasts = [author.split(',')[0]
+                                 for author in self.authors]
 
 def papersFromXMLTree(root):
     """TODO Document this. Depends on INSPIRE XML format"""
@@ -72,11 +73,15 @@ def LRRIndexFromXMLTree(root):
     # Make a list of all of the (author, paper) pairs, for *every*
     # author of a paper. Sort this list by the last names of the
     # authors.
-    authsPaps = [(author, paper) for paper in papers for author in paper.authorsLasts]
+    authsPaps = [(author, paper)
+                 for paper in papers
+                 for author in paper.authorsLasts]
     authsPaps.sort(key=lambda pair: "".join(pair[0].lower().split()))
 
     # List of first initials that appear
-    fstInits = [author[0].upper() for paper in papers for author in paper.authorsLasts]
+    fstInits = [author[0].upper()
+                for paper in papers
+                for author in paper.authorsLasts]
     fstInits = list(set(fstInits))
     fstInits.sort()
     print(fstInits)
@@ -87,7 +92,9 @@ def LRRIndexFromXMLTree(root):
         if curInit != lastInit:
             print("-- {} --".format(curInit))
             lastInit = curInit
-        print("{}: {}, {}".format(paper.doi,"/".join(paper.authors),paper.title))
+        print("{}: {}, {}".format(paper.doi,
+                                  "/".join(paper.authors),
+                                  paper.title))
 
     return papers
 
@@ -127,11 +134,13 @@ def LRRIndexFile(filename):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='lrr-index', description=__doc__)
+
     fileOrUrl = parser.add_mutually_exclusive_group(required=True)
     fileOrUrl.add_argument('--file', nargs='?', const=defaultFilename,
                            help='Name of XML file to read')
     fileOrUrl.add_argument('--url',  nargs='?', const=defaultURL,
                            help='URL of INSPIRE query')
+
     args = parser.parse_args()
 
     xmlString = ''
