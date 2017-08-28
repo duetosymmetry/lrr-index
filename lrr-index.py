@@ -36,13 +36,14 @@ class Paper:
                                  for author in self.authors]
 
 def papersFromXMLTree(root):
-    """TODO Document this. Depends on INSPIRE XML format"""
+    """Parse the records in an INSPIRE search response into a list of
+    class Paper. Depends on INSPIRE XML format"""
     return [Paper(record) for record in root.findall("records/record")]
 
 ######################################################################
 
 def supersededList(filename):
-    """TODO Document this"""
+    """Read a plain text file where each line is one DOI"""
     with open(filename, 'r') as f:
         lines = f.readlines()
 
@@ -84,7 +85,7 @@ def formatLetters(letters):
 ######################################################################
 
 def LRRIndexFromXMLTree(root, superseded, preamble):
-    """TODO Document this"""
+    """Build the actual author index web page"""
     allPapers = papersFromXMLTree(root)
     papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
 
@@ -124,24 +125,20 @@ def LRRIndexFromXMLTree(root, superseded, preamble):
 ######################################################################
 
 def stringFromFile(filename):
-    """TODO Document this"""
     with open(filename, 'r') as f:
         string = f.read()
 
     return string
 
 def xmlStringFromURL(url):
-    """TODO Document this"""
     return urlopen(url).read().decode('utf-8')
 
 def LRRIndexURL(url):
-    """TODO Document this"""
     root = ET.fromstring(xmlStringFromURL(url))
     LRRIndexFromXMLTree(root)
     return root
 
 def LRRIndexFile(filename):
-    """TODO Document this"""
     tree = ET.parse(filename)
     root = tree.getroot()
     LRRIndexFromXMLTree(root)
