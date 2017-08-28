@@ -52,19 +52,41 @@ def supersededList(filename):
 
 ######################################################################
 
-def LRRIndexFromXMLTree(root, superseded):
+def formatPaper(paper):
+    paperTemplate = """<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title" itemprop="title">
+      <a href="http://dx.doi.org/{paper.doi}" rel="permalink">{paper.title}</a>
+    </h2>
+    <p class="lrr-author" itemprop="author">{authorList}</p>
+    <p class="lrr-jref"   itemprop="jref"><i>Living Rev. Rel.</i>, <b>{paper.volume}</b>, ({paper.year}), {paper.number}.</p>
+    <p class="trigger"><a href="?"> Show/hide abstract</a></p>
+    <p class="archive__item-excerpt" itemprop="abstract">{paper.abstract}</p>
+  </article>
+</div>
+"""
+    return paperTemplate.format(paper=paper, authorList="/".join(paper.authors))
+
+def formatLetter(letter):
+    letterTemplate = """  <a href="#{0}" class="page__taxonomy-item" rel="initial">{0}</a>
+"""
+    return letterTemplate.format(letter)
+
+def formatLetters(letters):
+    lettersTemplate = """
+<p class="page__taxonomy page__meta">
+{}</p>
+<hr>
+"""
+    innerLinks = "".join(map(formatLetter, letters))
+    return lettersTemplate.format(innerLinks)
+
+######################################################################
+
+def LRRIndexFromXMLTree(root, superseded, preamble):
     """TODO Document this"""
     allPapers = papersFromXMLTree(root)
     papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
-    # for paper in papers:
-    #     if paper.doi is None:
-    #         print("Living Rev. Rel. {0}, {1} ({2}), "
-    #               "{3}".format(paper.volume, paper.number, paper.year,
-    #                            paper.authorsLasts))
-
-    # for paper in papers:
-    #     if paper.doi is None:
-    #         print("{}, {}".format("/".join(paper.authorsLasts), paper.title))
 
     # Make a list of all of the (author, paper) pairs, for *every*
     # author of a paper. Sort this list by the last names of the
@@ -80,28 +102,33 @@ def LRRIndexFromXMLTree(root, superseded):
                 for author in paper.authorsLasts]
     fstInits = list(set(fstInits))
     fstInits.sort()
-    print(fstInits)
+
+    outputPage = preamble
+
+    outputPage += formatLetters(fstInits)
 
     lastInit = ""
     for author, paper in authsPaps:
+
         curInit = author[0].upper()
         if curInit != lastInit:
-            print("-- {} --".format(curInit))
+            # The <i></i> here is to insert an extra DOM element,
+            # to keep the coloring even/odd
+            outputPage += '<i></i><a name="{}"></a>\n'.format(curInit)
             lastInit = curInit
-        print("{}: {}, {}".format(paper.doi,
-                                  "/".join(paper.authors),
-                                  paper.title))
 
-    return papers
+        outputPage += formatPaper(paper)
+
+    return outputPage
 
 ######################################################################
 
-def xmlStringFromFile(filename):
+def stringFromFile(filename):
     """TODO Document this"""
     with open(filename, 'r') as f:
-        xmlString = f.read()
+        string = f.read()
 
-    return xmlString
+    return string
 
 def xmlStringFromURL(url):
     """TODO Document this"""
@@ -126,7 +153,8 @@ defaultFilename = 'lrr.xml'
 defaultURL      = ('http://inspirehep.net/search'
                    '?p=find+j+%22Living+Rev.Rel.%22'
                    '&of=xe&rg=1000')
-supersededFilename = "superseded.txt"
+supersededFilename = 'superseded.txt'
+preambleFilename = 'preamble.txt'
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='lrr-index', description=__doc__)
@@ -142,6 +170,10 @@ if __name__ == '__main__':
                               ' which have been superseded, one per'
                               ' line.'))
 
+    parser.add_argument('--preamble', default=preambleFilename,
+                        help=('Name of file containing preamble for'
+                              ' web page to emit.'))
+
     args = parser.parse_args()
 
     root = [];
@@ -152,5 +184,6 @@ if __name__ == '__main__':
         root = ET.fromstring(xmlStringFromURL(args.url))
 
     superseded = supersededList(args.superseded)
+    preamble = stringFromFile(args.preamble)
 
-    papers = LRRIndexFromXMLTree(root, superseded)
+    print(LRRIndexFromXMLTree(root, superseded, preamble))

@@ -1,0 +1,42 @@
+---
+layout: archive
+permalink: /lrr-index/
+title: "Living Reviews in Relativity author index"
+author_profile: true
+scripts: |
+  <script type="text/javascript">
+  <!--
+    $(document).ready(function() {
+      $(".trigger").click(function(){
+        $(this).toggleClass("active").next(".archive__item-excerpt").toggle();
+        return false;
+      });	
+    });
+  -->
+  </script>
+---
+
+<style>
+  .list__item:nth-child(even)>article {
+  background-color: #dddddd;
+  }
+  .lrr-author, .lrr-jref, .lrr-abstract, .trigger {
+  margin-top:    0em;
+  margin-bottom: 0.25em;
+  }
+  .lrr-jref, .trigger {
+  font-size: 75%;
+  }
+  .archive__item-excerpt {
+  display: none;
+  }
+  .trigger:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: inherit;
+  content: "\f06e";
+  }
+  .trigger.active:before {
+  content: "\f070";
+  }
+</style>
