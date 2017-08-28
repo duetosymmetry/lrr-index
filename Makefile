@@ -1,6 +1,6 @@
 .PHONY: lrr.xml
 
-index.html: lrr-massaged.xml
+index.html: lrr-massaged.xml preamble.txt superseded.txt
 	./lrr-index.py --file $< > $@
 
 lrr.xml:
