@@ -39,14 +39,14 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   margin-top: 0.25em;
   }
   input.toggleCheck { display: none; }
-  input.toggleCheck + label { font-size: 75%; }
-  input.toggleCheck + label:before {
+  label.toggleLabel { font-size: 75%; }
+  label.toggleLabel:before {
   display: inline-block;
   font-family: FontAwesome;
   font-size: inherit;
   content: "\f06e";
   }
-  input.toggleCheck:checked + label:before { content: "\f070"; }
+  input.toggleCheck:checked + label.toggleLabel:before { content: "\f070"; }
   input.toggleCheck + label + p.archive__item-excerpt { display:none; }
   input.toggleCheck:checked + label + p.archive__item-excerpt { display:block; }
 </style>
