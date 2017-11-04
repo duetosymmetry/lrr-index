@@ -3,17 +3,6 @@ layout: archive
 permalink: /lrr-index/
 title: "Living Reviews in Relativity author index"
 author_profile: true
-scripts: |
-  <script type="text/javascript">
-  <!--
-    $(document).ready(function() {
-      $(".trigger").click(function(){
-        $(this).toggleClass("active").next(".archive__item-excerpt").toggle();
-        return false;
-      });	
-    });
-  -->
-  </script>
 ---
 
 <p>
@@ -49,13 +38,15 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   .archive__item-title {
   margin-top: 0.25em;
   }
-  .trigger:before {
+  input.toggleCheck { display: none; }
+  input.toggleCheck + label { font-size: 75%; }
+  input.toggleCheck + label:before {
   display: inline-block;
   font-family: FontAwesome;
   font-size: inherit;
   content: "\f06e";
   }
-  .trigger.active:before {
-  content: "\f070";
-  }
+  input.toggleCheck:checked + label:before { content: "\f070"; }
+  input.toggleCheck + label + p.archive__item-excerpt { display:none; }
+  input.toggleCheck:checked + label + p.archive__item-excerpt { display:block; }
 </style>

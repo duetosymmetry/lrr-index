@@ -53,7 +53,7 @@ def supersededList(filename):
 
 ######################################################################
 
-def formatPaper(paper):
+def formatPaper(paper, number):
     paperTemplate = """<div class="list__item">
   <article class="archive__item">
     <h2 class="archive__item-title" itemprop="title">
@@ -61,12 +61,12 @@ def formatPaper(paper):
     </h2>
     <p class="lrr-author" itemprop="author">{authorList}</p>
     <p class="lrr-jref"   itemprop="jref"><i>Living Rev. Rel.</i>, <b>{paper.volume}</b>, ({paper.year}), {paper.number}.</p>
-    <p class="trigger"><a href="?"> Show/hide abstract</a></p>
+    <input type="checkbox" class="toggleCheck" id="ch{number}"><label class="toggleLabel" for="ch{number}"> Show/hide abstract</label>
     <p class="archive__item-excerpt" itemprop="abstract">{paper.abstract}</p>
   </article>
 </div>
 """
-    return paperTemplate.format(paper=paper, authorList="/".join(paper.authors))
+    return paperTemplate.format(paper=paper, authorList="/".join(paper.authors), number=number)
 
 def formatLetter(letter):
     letterTemplate = """  <a href="#{0}" class="page__taxonomy-item" rel="initial">{0}</a>
@@ -109,6 +109,7 @@ def LRRIndexFromXMLTree(root, superseded, preamble):
     outputPage += formatLetters(fstInits)
 
     lastInit = ""
+    number = 0
     for author, paper in authsPaps:
 
         curInit = author[0].upper()
@@ -118,7 +119,8 @@ def LRRIndexFromXMLTree(root, superseded, preamble):
             outputPage += '<i></i><a name="{}"></a>\n'.format(curInit)
             lastInit = curInit
 
-        outputPage += formatPaper(paper)
+        outputPage += formatPaper(paper, number)
+        number += 1
 
     return outputPage
 
