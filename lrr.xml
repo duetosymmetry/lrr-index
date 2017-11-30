@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 132 -->
+<!-- Search-Engine-Total-Number-Of-Results: 133 -->
 <xml>
 <records>
 <record>
@@ -23,6 +23,41 @@
     </pub-dates>
   </dates>
   <abstract>characteristic initial-value problem. Progress in characteristic evolution is traced from the early stage of 1D feasibility studies to 2D-axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black-hole spacetime. Cauchy codes have now been successful at simulating all aspects of the binary black-hole problem inside an artificially constructed outer boundary. A prime application of characteristic evolution is to extend such simulations to null infinity where the waveform from the binary inspiral and merger can be unambiguously computed. This has now been accomplished by Cauchy-characteristic extraction, where data for the characteristic evolution is supplied by Cauchy data on an extraction worldtube inside the artificial outer boundary. The ultimate application of characteristic evolution is to eliminate the role of this outer boundary by constructing a global solution via Cauchy-characteristic matching. Progress in this direction is discussed.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Frolov, Valeri</author>
+      <author>Krtous, Pavel</author>
+      <author>Kubiznak, David</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Black holes, hidden symmetries, and complete integrability</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-017-0009-9</electronic-resource-num>
+  <pages>6</pages>
+  <volume>20</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>General relativity</keyword>
+    <keyword>Higher dimensions</keyword>
+    <keyword>Black holes</keyword>
+    <keyword>Kerr–NUT–(A)dS</keyword>
+    <keyword>Hidden symmetries</keyword>
+    <keyword>Principal tensor</keyword>
+    <keyword>Complete integrability</keyword>
+    <keyword>Separability</keyword>
+  </keywords>
+  <dates>
+    <year>2017</year>
+    <pub-dates>
+      <date>2017-11-22</date>
+    </pub-dates>
+  </dates>
+  <abstract>The study of higher-dimensional black holes is a subject which has recently attracted a vast interest. Perhaps one of the most surprising discoveries is a realization that the properties of higher-dimensional black holes with the spherical horizon topology and described by the Kerr-NUT-(A)dS metrics are very similar to the properties of the well known four-dimensional Kerr metric. This remarkable result stems from the existence of a single object called the principal tensor. In our review we discuss explicit and hidden symmetries of higher-dimensional black holes. We start with the overview of the Liouville theory of completely integrable systems and introduce Killing and Killing-Yano objects representing explicit and hidden symmetries. We demonstrate that the principal tensor can be used as a `seed object' which generates all these symmetries. It determines the form of the black hole geometry, as well as guarantees its remarkable properties, such as special algebraic type of the spacetime, complete integrability of geodesic motion, and separability of the Hamilton-Jacobi, Klein-Gordon, and Dirac equations. The review also contains a discussion of different applications of the developed formalism and its possible generalizations.</abstract>
 </record>
 
 <record>
@@ -2682,14 +2717,14 @@
     <title>The post-Newtonian approximation for relativistic compact binaries</title>
     <secondary-title>Living Rev.Rel.</secondary-title>
   </titles>
-  <electronic-resource-num/>
+  <electronic-resource-num>10.12942/lrr-2007-2</electronic-resource-num>
   <pages>2</pages>
   <volume>10</volume>
   <number/>
   <dates>
     <year>2007</year>
   </dates>
-  <abstract/>
+  <abstract>We discuss various aspects of the post-Newtonian approximation in general relativity. After presenting the foundation based on the Newtonian limit, we show a method to derive post-Newtonian equations of motion for relativistic compact binaries based on a surface integral approach and the strong field point particle limit. As an application we derive third post-Newtonian equations of motion for relativistic compact binaries which respect the Lorentz invariance in the post-Newtonian perturbative sense, admit a conserved energy, and are free from any ambiguity.</abstract>
 </record>
 
 <record>
