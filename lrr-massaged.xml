@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 133 -->
+<!-- Search-Engine-Total-Number-Of-Results: 134 -->
 <xml>
 <records>
 <record>
@@ -98,6 +98,35 @@
     <year>2009</year>
   </dates>
   <abstract>I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress in characteristic evolution is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black hole spacetime. Cauchy codes have now been successful at simulating all aspects of the binary black hole problem inside an artificially constructed outer boundary. A prime application of characteristic evolution is to extend such simulations to null infinity where the waveform from the binary inspiral and merger can be unambiguously computed. This has now been accomplished by Cauchy-characteristic extraction, where data for the characteristic evolution is supplied by Cauchy data on an extraction worldtube inside the artificial outer boundary. The ultimate application of characteristic evolution is to eliminate the role of this outer boundary by constructing a global solution via Cauchy-characteristic matching. Progress in this direction is discussed.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Paschalidis, Vasileios</author>
+      <author>Stergioulas, Nikolaos</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Rotating Stars in Relativity</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-017-0008-x</electronic-resource-num>
+  <pages>7</pages>
+  <volume>20</volume>
+  <number/>
+  <keywords>
+    <keyword>Relativistic stars</keyword>
+    <keyword>Rotation</keyword>
+    <keyword>Stability</keyword>
+    <keyword>Oscillations</keyword>
+    <keyword>Magnetic fields</keyword>
+    <keyword>Numerical relativity</keyword>
+  </keywords>
+  <dates>
+    <year>2017</year>
+  </dates>
+  <abstract>Rotating relativistic stars have been studied extensively in recent years, both theoretically and observationally, because of the information they might yield about the equation of state of matter at extremely high densities and because they are considered to be promising sources of gravitational waves. The latest theoretical understanding of rotating stars in relativity is reviewed in this updated article. The sections on equilibrium properties and on nonaxisymmetric oscillations and instabilities in $f$-modes and $r$-modes have been updated. Several new sections have been added on equilibria in modified theories of gravity, approximate universal relationships, the one-arm spiral instability, on analytic solutions for the exterior spacetime, rotating stars in LMXBs, rotating strange stars, and on rotating stars in numerical relativity including both hydrodynamic and magnetohydrodynamic studies of these objects.</abstract>
 </record>
 
 <record>
