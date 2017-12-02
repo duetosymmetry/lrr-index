@@ -33,7 +33,10 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   padding: 8px;
   }
   .archive__item-excerpt {
-  display: none;
+  overflow:hidden;
+  transition: max-height 0.3s ease-out;
+  max-height:1000px;
+  margin-bottom:0;
   }
   .archive__item-title {
   margin-top: 0.25em;
@@ -47,8 +50,8 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   content: "\f06e";
   }
   input.toggleCheck:checked + label.toggleLabel:before { content: "\f070"; }
-  input.toggleCheck + label + p.archive__item-excerpt { display:none; }
-  input.toggleCheck:checked + label + p.archive__item-excerpt { display:block; }
+  input.toggleCheck + label + p.archive__item-excerpt { max-height:0; }
+  input.toggleCheck:checked + label + p.archive__item-excerpt { max-height:1000px; }
 </style>
 
 <p class="page__taxonomy page__meta">
