@@ -114,7 +114,7 @@
   <electronic-resource-num>10.1007/s41114-017-0008-x</electronic-resource-num>
   <pages>7</pages>
   <volume>20</volume>
-  <number/>
+  <number>1</number>
   <keywords>
     <keyword>Relativistic stars</keyword>
     <keyword>Rotation</keyword>
@@ -125,6 +125,9 @@
   </keywords>
   <dates>
     <year>2017</year>
+    <pub-dates>
+      <date>2017-11-29</date>
+    </pub-dates>
   </dates>
   <abstract>Rotating relativistic stars have been studied extensively in recent years, both theoretically and observationally, because of the information they might yield about the equation of state of matter at extremely high densities and because they are considered to be promising sources of gravitational waves. The latest theoretical understanding of rotating stars in relativity is reviewed in this updated article. The sections on equilibrium properties and on nonaxisymmetric oscillations and instabilities in $f$-modes and $r$-modes have been updated. Several new sections have been added on equilibria in modified theories of gravity, approximate universal relationships, the one-arm spiral instability, on analytic solutions for the exterior spacetime, rotating stars in LMXBs, rotating strange stars, and on rotating stars in numerical relativity including both hydrodynamic and magnetohydrodynamic studies of these objects.</abstract>
 </record>
