@@ -5,6 +5,35 @@
 <record>
   <contributors>
     <authors>
+      <author>Burrage, Clare</author>
+      <author>Sakstein, Jeremy</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Tests of Chameleon Gravity</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-018-0011-x</electronic-resource-num>
+  <pages>1</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Scalar-tensor theories</keyword>
+    <keyword>Modified gravity</keyword>
+    <keyword>Tests of gravity</keyword>
+  </keywords>
+  <dates>
+    <year>2018</year>
+    <pub-dates>
+      <date>2018-03-16</date>
+    </pub-dates>
+  </dates>
+  <abstract>Theories of modified gravity where light scalars with non-trivial self-interactions and non-minimal couplings to matter-chameleon and symmetron theories-dynamically suppress deviations from general relativity in the solar system. On other scales, the environmental nature of the screening means that such scalars may be relevant. The highly-nonlinear nature of screening mechanisms means that they evade classical fifth-force searches, and there has been an intense effort towards designing new and novel tests to probe them, both in the laboratory and using astrophysical objects, and by reinterpreting existing datasets. The results of these searches are often presented using different parametrizations, which can make it difficult to compare constraints coming from different probes. The purpose of this review is to summarize the present state-of-the-art searches for screened scalars coupled to matter, and to translate the current bounds into a single parametrization to survey the state of the models. Presently, commonly studied chameleon models are well-constrained but less commonly studied models have large regions of parameter space that are still viable. Symmetron models are constrained well by astrophysical and laboratory tests, but there is a desert separating the two scales where the model is unconstrained. The coupling of chameleons to photons is tightly constrained but the symmetron coupling has yet to be explored. We also summarize the current bounds on $f(R)$ models that exhibit the chameleon mechanism (Hu \&amp; Sawicki models). The simplest of these are well constrained by astrophysical probes, but there are currently few reported bounds for theories with higher powers of $R$. The review ends by discussing the future prospects for constraining screened modified gravity models further using upcoming and planned experiments.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
       <author>Winicour, Jeffrey</author>
     </authors>
   </contributors>
@@ -58,26 +87,6 @@
     </pub-dates>
   </dates>
   <abstract>The study of higher-dimensional black holes is a subject which has recently attracted a vast interest. Perhaps one of the most surprising discoveries is a realization that the properties of higher-dimensional black holes with the spherical horizon topology and described by the Kerr-NUT-(A)dS metrics are very similar to the properties of the well known four-dimensional Kerr metric. This remarkable result stems from the existence of a single object called the principal tensor. In our review we discuss explicit and hidden symmetries of higher-dimensional black holes. We start with the overview of the Liouville theory of completely integrable systems and introduce Killing and Killing-Yano objects representing explicit and hidden symmetries. We demonstrate that the principal tensor can be used as a `seed object' which generates all these symmetries. It determines the form of the black hole geometry, as well as guarantees its remarkable properties, such as special algebraic type of the spacetime, complete integrability of geodesic motion, and separability of the Hamilton-Jacobi, Klein-Gordon, and Dirac equations. The review also contains a discussion of different applications of the developed formalism and its possible generalizations.</abstract>
-</record>
-
-<record>
-  <contributors>
-    <authors>
-      <author>Szabados, László B.</author>
-    </authors>
-  </contributors>
-  <titles>
-    <title>Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article</title>
-    <secondary-title>Living Rev.Rel.</secondary-title>
-  </titles>
-  <electronic-resource-num>10.12942/lrr-2004-4</electronic-resource-num>
-  <pages>4</pages>
-  <volume>7</volume>
-  <number>1</number>
-  <dates>
-    <year>2004</year>
-  </dates>
-  <abstract>The present status of the quasi-local mass-energy-momentum and angular momentum constructions in general relativity is reviewed. First the general ideas, concepts, and strategies, as well as the necessary tools to construct and analyze the quasi-local quantities are recalled. Then the various specific constructions and their properties (both successes and defects) are discussed. Finally, some of the (actual and potential) applications of the quasi-local concepts and specific constructions are briefly mentioned.</abstract>
 </record>
 
 <record>
@@ -165,9 +174,19 @@
   <electronic-resource-num>10.1007/s41114-017-0006-z</electronic-resource-num>
   <pages>3</pages>
   <volume>20</volume>
-  <number/>
+  <number>1</number>
+  <keywords>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Neutron stars</keyword>
+    <keyword>Nucleosynthesis</keyword>
+    <keyword>Black holes</keyword>
+    <keyword>Radiative transfer</keyword>
+  </keywords>
   <dates>
     <year>2017</year>
+    <pub-dates>
+      <date>2017-05-16</date>
+    </pub-dates>
   </dates>
   <abstract>The mergers of double neutron star (NS-NS) and black hole (BH)-NS binaries are promising gravitational wave (GW) sources for Advanced LIGO and future GW detectors. The neutron-rich ejecta from such merger events undergoes rapid neutron capture (r-process) nucleosynthesis, enriching our Galaxy with rare heavy elements like gold and platinum. The radioactive decay of these unstable nuclei also powers a rapidly evolving, supernova-like transient known as a "kilonova". Kilonovae provide an approximately isotropic electromagnetic counterpart to the GW signal, which also provides a unique and direct probe of an important, if not dominant, r-process site. This handbook reviews the history and physics of kilonovae, leading to the current paradigm of week-long emission with a spectral peak at near-infrared wavelengths. Using a simple light curve model to illustrate the basic physics, I introduce potentially important variations on this canonical picture, including: ~day-long optical ("blue") emission from lanthanide-free components of the ejecta; ~hours-long precursor UV/blue emission, powered by the decay of free neutrons in the outermost ejecta layers; and enhanced emission due to energy input from a long-lived central engine, such as an accreting BH or millisecond magnetar. I assess the prospects of detecting kilonovae following future GW detections of NS-NS/BH-NS mergers in light of the recent follow-up campaign of the LIGO binary BH-BH mergers.</abstract>
 </record>
@@ -186,9 +205,17 @@
   <electronic-resource-num>10.1007/s41114-017-0004-1</electronic-resource-num>
   <pages>2</pages>
   <volume>20</volume>
-  <number/>
+  <number>1</number>
+  <keywords>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Data analysis</keyword>
+    <keyword>Stochastic backgrounds</keyword>
+  </keywords>
   <dates>
     <year>2017</year>
+    <pub-dates>
+      <date>2017-04-04</date>
+    </pub-dates>
   </dates>
   <abstract>We review detection methods that are currently in use or have been proposed to search for a stochastic background of gravitational radiation. We consider both Bayesian and frequentist searches using ground-based and space-based laser interferometers, spacecraft Doppler tracking, and pulsar timing arrays; and we allow for anisotropy, non-Gaussianity, and non-standard polarization states. Our focus is on relevant data analysis issues, and not on the particular astrophysical or early Universe sources that might give rise to such backgrounds. We provide a unified treatment of these searches at the level of detector response functions, detection sensitivity curves, and, more generally, at the level of the likelihood function, since the choice of signal and noise models and prior probability distributions are actually what define the search. Pedagogical examples are given whenever possible to compare and contrast different approaches. We have tried to make the article as self-contained and comprehensive as possible, targeting graduate students and new researchers looking to enter this field.</abstract>
 </record>
@@ -1756,7 +1783,7 @@
   <dates>
     <year>2016</year>
   </dates>
-  <abstract>We present possible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next decade, with the intention of providing information to the astronomy community to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals, and study the capability of the network to determine the sky location of the source. We report our findings for gravitational-wave transients, with particular focus on gravitational-wave signals from the inspiral of binary neutron star systems, which are considered the most promising for multi-messenger astronomy. The ability to localize the sources of the detected signals depends on the geographical distribution of the detectors and their relative sensitivity, and 90% credible regions can be as large as thousands of square degrees when only two sensitive detectors are operational. Determining the sky position of a significant fraction of detected signals to areas of 5 square degrees to 20 square degees requires at least three detectors of sensitivity within a factor of ~2 of each other and with a broad frequency bandwidth. When all detectors, including KAGRA and the third LIGO detector in India, reach design sensitivity, a significant fraction of gravitational-wave signals will be localized to a few square degrees by gravitational-wave observations alone.</abstract>
+  <abstract>We present possible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next decade, with the intention of providing information to the astronomy community to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals, and study the capability of the network to determine the sky location of the source. We report our findings for gravitational-wave transients, with particular focus on gravitational-wave signals from the inspiral of binary neutron star systems, which are the most promising targets for multi-messenger astronomy. The ability to localize the sources of the detected signals depends on the geographical distribution of the detectors and their relative sensitivity, and 90% credible regions can be as large as thousands of square degrees when only two sensitive detectors are operational. Determining the sky position of a significant fraction of detected signals to areas of 5 square degrees to 20 square degrees requires at least three detectors of sensitivity within a factor of ~2 of each other and with a broad frequency bandwidth.</abstract>
 </record>
 
 <record>
@@ -2021,25 +2048,30 @@
 <record>
   <contributors>
     <authors>
-      <author>Compere, Geoffrey</author>
+      <author>Compère, Geoffrey</author>
     </authors>
   </contributors>
   <titles>
-    <title>The Kerr/CFT correspondence and its extensions: a comprehensive review</title>
+    <title>The Kerr/CFT correspondence and its extensions</title>
     <secondary-title>Living Rev.Rel.</secondary-title>
   </titles>
-  <electronic-resource-num/>
+  <electronic-resource-num>10.1007/s41114-017-0003-2</electronic-resource-num>
   <pages>11</pages>
   <volume>15</volume>
-  <number/>
+  <number>1</number>
   <keywords>
     <keyword>holography</keyword>
     <keyword>Black holes</keyword>
     <keyword>AdS/CFT</keyword>
     <keyword>conformal field theory</keyword>
+    <keyword>Holography</keyword>
+    <keyword>Conformal field theory</keyword>
   </keywords>
   <dates>
     <year>2012</year>
+    <pub-dates>
+      <date>2017-02-27</date>
+    </pub-dates>
   </dates>
   <abstract>We present a first-principles derivation of the main results of the Kerr/CFT correspondence and its extensions using only tools from gravity and quantum field theory. Firstly, we review properties of extremal black holes with in particular the construction of an asymptotic Virasoro symmetry in the near-horizon limit. The entropy of extremal spinning or charged black holes is shown to match with a chiral half of Cardy's formula. Secondly, we show how a thermal 2-dimensional conformal field theory (CFT) is relevant to reproduce the dynamics of near-superradiant probes around near-extremal black holes in the semi-classical limit. Thirdly, we review the hidden conformal symmetries of asymptotically-flat black holes away from extremality and present how the non-extremal entropy can be matched with Cardy's formula. We follow an effective field theory approach and consider the Kerr-Newman black hole and its generalizations in various supergravity theories. The interpretation of these results by deformed dual conformal field theories is discussed and contrasted with properties of standard 2-dimensional CFTs. We conclude with a list of open problems.</abstract>
 </record>
@@ -2091,13 +2123,17 @@
   <electronic-resource-num>10.12942/lrr-2012-6</electronic-resource-num>
   <pages>6</pages>
   <volume>15</volume>
-  <number/>
+  <number>1</number>
   <keywords>
     <keyword>Boson stars</keyword>
     <keyword>Numerical relativity</keyword>
+    <keyword>Solitons</keyword>
   </keywords>
   <dates>
     <year>2012</year>
+    <pub-dates>
+      <date>2017-11-13</date>
+    </pub-dates>
   </dates>
   <abstract>The idea of stable, localized bundles of energy has strong appeal as a model for particles. In the 1950s John Wheeler envisioned such bundles as smooth configurations of electromagnetic energy that he called {\em geons}, but none were found. Instead, particle-like solutions were found in the late 1960s with the addition of a scalar field, and these were given the name {\em boson stars}. Since then, boson stars find use in a wide variety of models as sources of dark matter, as black hole mimickers, in simple models of binary systems, and as a tool in finding black holes in higher dimensions with only a single killing vector. We discuss important varieties of boson stars, their dynamic properties, and some of their uses, concentrating on recent efforts.</abstract>
 </record>
@@ -2500,6 +2536,9 @@
   <number/>
   <dates>
     <year>2010</year>
+    <pub-dates>
+      <date>2017-08-15</date>
+    </pub-dates>
   </dates>
   <abstract>Several km-scale gravitational-wave detectors have been constructed world wide. These instruments combine a number of advanced technologies to push the limits of precision length measurement. The core devices are laser interferometers of a new kind; developed from the classical Michelson topology these interferometers integrate additional optical elements, which significantly change the properties of the optical system. Much of the design and analysis of these laser interferometers can be performed using well-known classical optical techniques; however, the complex optical layouts provide a new challenge. In this review we give a textbook-style introduction to the optical science required for the understanding of modern gravitational wave detectors, as well as other high-precision laser interferometers. In addition, we provide a number of examples for a freely available interferometer simulation software and encourage the reader to use these examples to gain hands-on experience with the discussed optical methods.</abstract>
 </record>
@@ -3226,14 +3265,14 @@
     <title>Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article</title>
     <secondary-title>Living Rev.Rel.</secondary-title>
   </titles>
-  <electronic-resource-num/>
+  <electronic-resource-num>10.12942/lrr-2004-4</electronic-resource-num>
   <pages>4</pages>
   <volume>7</volume>
   <number/>
   <dates>
     <year>2004</year>
   </dates>
-  <abstract/>
+  <abstract>The present status of the quasi-local mass-energy-momentum and angular momentum constructions in general relativity is reviewed. First the general ideas, concepts, and strategies, as well as the necessary tools to construct and analyze the quasi-local quantities are recalled. Then the various specific constructions and their properties (both successes and defects) are discussed. Finally, some of the (actual and potential) applications of the quasi-local concepts and specific constructions are briefly mentioned.</abstract>
 </record>
 
 <record>
