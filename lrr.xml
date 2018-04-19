@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 134 -->
+<!-- Search-Engine-Total-Number-Of-Results: 135 -->
 <xml>
 <records>
 <record>
@@ -239,6 +239,105 @@
     <year>2016</year>
   </dates>
   <abstract>A numerical-relativity calculation yields in general a solution of the Einstein equations including also a radiative part, which is in practice computed in a region of finite extent. Since gravitational radiation is properly defined only at null infinity and in an appropriate coordinate system, the accurate estimation of the emitted gravitational waves represents an old and non-trivial problem in numerical relativity. A number of methods have been developed over the years to "extract" the radiative part of the solution from a numerical simulation and these include: quadrupole formulas, gauge-invariant metric perturbations, Weyl scalars, and characteristic extraction. We review and discuss each method, in terms of both its theoretical background as well as its implementation. Finally, we provide a brief comparison of the various methods in terms of their inherent advantages and disadvantages.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Amendola, Luca</author>
+      <author>Appleby, Stephen</author>
+      <author>Avgoustidis, Anastasios</author>
+      <author>Bacon, David</author>
+      <author>Baker, Tessa</author>
+      <author>Baldi, Marco</author>
+      <author>Bartolo, Nicola</author>
+      <author>Blanchard, Alain</author>
+      <author>Bonvin, Camille</author>
+      <author>Borgani, Stefano</author>
+      <author>Branchini, Enzo</author>
+      <author>Burrage, Clare</author>
+      <author>Camera, Stefano</author>
+      <author>Carbone, Carmelita</author>
+      <author>Casarini, Luciano</author>
+      <author>Cropper, Mark</author>
+      <author>de Rham, Claudia</author>
+      <author>Dietrich, Joerg P.</author>
+      <author>Di Porto, Cinzia</author>
+      <author>Durrer, Ruth</author>
+      <author>Ealet, Anne</author>
+      <author>Ferreira, Pedro G.</author>
+      <author>Finelli, Fabio</author>
+      <author>Garcia-Bellido, Juan</author>
+      <author>Giannantonio, Tommaso</author>
+      <author>Guzzo, Luigi</author>
+      <author>Heavens, Alan</author>
+      <author>Heisenberg, Lavinia</author>
+      <author>Heymans, Catherine</author>
+      <author>Hoekstra, Henk</author>
+      <author>Hollenstein, Lukas</author>
+      <author>Holmes, Rory</author>
+      <author>Horst, Ole</author>
+      <author>Hwang, Zhiqi</author>
+      <author>Jahnke, Knud</author>
+      <author>Kitching, Thomas D.</author>
+      <author>Koivisto, Tomi</author>
+      <author>Kunz, Martin</author>
+      <author>La Vacca, Giuseppe</author>
+      <author>Linder, Eric</author>
+      <author>March, Marisa</author>
+      <author>Marra, Valerio</author>
+      <author>Martins, Carlos</author>
+      <author>Majerotto, Elisabetta</author>
+      <author>Markovic, Dida</author>
+      <author>Marsh, David</author>
+      <author>Marulli, Federico</author>
+      <author>Massey, Richard</author>
+      <author>Mellier, Yannick</author>
+      <author>Montanari, Francesco</author>
+      <author>Mota, David F.</author>
+      <author>Nunes, Nelson J.</author>
+      <author>Percival, Will</author>
+      <author>Pettorino, Valeria</author>
+      <author>Porciani, Cristiano</author>
+      <author>Quercellini, Claudia</author>
+      <author>Read, Justin</author>
+      <author>Rinaldi, Massimiliano</author>
+      <author>Sapone, Domenico</author>
+      <author>Sawicki, Ignacy</author>
+      <author>Scaramella, Roberto</author>
+      <author>Skordis, Constantinos</author>
+      <author>Simpson, Fergus</author>
+      <author>Taylor, Andy</author>
+      <author>Thomas, Shaun</author>
+      <author>Trotta, Roberto</author>
+      <author>Verde, Licia</author>
+      <author>Vernizzi, Filippo</author>
+      <author>Vollmer, Adrian</author>
+      <author>Wang, Yun</author>
+      <author>Weller, Jochen</author>
+      <author>Zlosnik, Tom</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Cosmology and fundamental physics with the Euclid satellite</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-017-0010-3</electronic-resource-num>
+  <pages>2</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Dark energy</keyword>
+    <keyword>Cosmology</keyword>
+    <keyword>Galaxy evolution</keyword>
+  </keywords>
+  <dates>
+    <year>2018</year>
+    <pub-dates>
+      <date>2018-04-12</date>
+    </pub-dates>
+  </dates>
+  <abstract>Euclid is a European Space Agency medium class mission selected for launch in 2020 within the Cosmic Vision 2015 2025 program. The main goal of Euclid is to understand the origin of the accelerated expansion of the universe. Euclid will explore the expansion history of the universe and the evolution of cosmic structures by measuring shapes and redshifts of galaxies as well as the distribution of clusters of galaxies over a large fraction of the sky. Although the main driver for Euclid is the nature of dark energy, Euclid science covers a vast range of topics, from cosmology to galaxy evolution to planetary research. In this review we focus on cosmology and fundamental physics, with a strong emphasis on science beyond the current standard models. We discuss five broad topics: dark energy and modified gravity, dark matter, initial conditions, basic assumptions and questions of methodology in the data analysis. This review has been planned and carried out within Euclid's Theory Working Group and is meant to provide a guide to the scientific themes that will underlie the activity of the group during the preparation of the Euclid mission.</abstract>
 </record>
 
 <record>
