@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 135 -->
+<!-- Search-Engine-Total-Number-Of-Results: 136 -->
 <xml>
 <records>
 <record>
@@ -86,7 +86,7 @@
       <date>2017-11-22</date>
     </pub-dates>
   </dates>
-  <abstract>The study of higher-dimensional black holes is a subject which has recently attracted a vast interest. Perhaps one of the most surprising discoveries is a realization that the properties of higher-dimensional black holes with the spherical horizon topology and described by the Kerr-NUT-(A)dS metrics are very similar to the properties of the well known four-dimensional Kerr metric. This remarkable result stems from the existence of a single object called the principal tensor. In our review we discuss explicit and hidden symmetries of higher-dimensional black holes. We start with the overview of the Liouville theory of completely integrable systems and introduce Killing and Killing-Yano objects representing explicit and hidden symmetries. We demonstrate that the principal tensor can be used as a `seed object' which generates all these symmetries. It determines the form of the black hole geometry, as well as guarantees its remarkable properties, such as special algebraic type of the spacetime, complete integrability of geodesic motion, and separability of the Hamilton-Jacobi, Klein-Gordon, and Dirac equations. The review also contains a discussion of different applications of the developed formalism and its possible generalizations.</abstract>
+  <abstract>The study of higher-dimensional black holes is a subject which has recently attracted vast interest. Perhaps one of the most surprising discoveries is a realization that the properties of higher-dimensional black holes with the spherical horizon topology and described by the Kerr–NUT–(A)dS metrics are very similar to the properties of the well known four-dimensional Kerr metric. This remarkable result stems from the existence of a single object called the principal tensor. In our review we discuss explicit and hidden symmetries of higher-dimensional Kerr–NUT–(A)dS black hole spacetimes. We start with discussion of the Killing and Killing–Yano objects representing explicit and hidden symmetries. We demonstrate that the principal tensor can be used as a “seed object” which generates all these symmetries. It determines the form of the geometry, as well as guarantees its remarkable properties, such as special algebraic type of the spacetime, complete integrability of geodesic motion, and separability of the Hamilton–Jacobi, Klein–Gordon, and Dirac equations. The review also contains a discussion of different applications of the developed formalism and its possible generalizations.</abstract>
 </record>
 
 <record>
@@ -337,7 +337,7 @@
       <date>2018-04-12</date>
     </pub-dates>
   </dates>
-  <abstract>Euclid is a European Space Agency medium class mission selected for launch in 2020 within the Cosmic Vision 2015 2025 program. The main goal of Euclid is to understand the origin of the accelerated expansion of the universe. Euclid will explore the expansion history of the universe and the evolution of cosmic structures by measuring shapes and redshifts of galaxies as well as the distribution of clusters of galaxies over a large fraction of the sky. Although the main driver for Euclid is the nature of dark energy, Euclid science covers a vast range of topics, from cosmology to galaxy evolution to planetary research. In this review we focus on cosmology and fundamental physics, with a strong emphasis on science beyond the current standard models. We discuss five broad topics: dark energy and modified gravity, dark matter, initial conditions, basic assumptions and questions of methodology in the data analysis. This review has been planned and carried out within Euclid's Theory Working Group and is meant to provide a guide to the scientific themes that will underlie the activity of the group during the preparation of the Euclid mission.</abstract>
+  <abstract>Euclid is a European Space Agency medium-class mission selected for launch in 2020 within the cosmic vision 2015–2025 program. The main goal of Euclid is to understand the origin of the accelerated expansion of the universe. Euclid will explore the expansion history of the universe and the evolution of cosmic structures by measuring shapes and red-shifts of galaxies as well as the distribution of clusters of galaxies over a large fraction of the sky. Although the main driver for Euclid is the nature of dark energy, Euclid science covers a vast range of topics, from cosmology to galaxy evolution to planetary research. In this review we focus on cosmology and fundamental physics, with a strong emphasis on science beyond the current standard models. We discuss five broad topics: dark energy and modified gravity, dark matter, initial conditions, basic assumptions and questions of methodology in the data analysis. This review has been planned and carried out within Euclid’s Theory Working Group and is meant to provide a guide to the scientific themes that will underlie the activity of the group during the preparation of the Euclid mission.</abstract>
 </record>
 
 <record>
@@ -1875,12 +1875,12 @@
     <title>Prospects for Observing and Localizing Gravitational-Wave Transients with Advanced LIGO, Advanced Virgo and KAGRA</title>
     <secondary-title>Living Rev.Rel.</secondary-title>
   </titles>
-  <electronic-resource-num>10.1007/lrr-2016-1</electronic-resource-num>
-  <pages>1</pages>
-  <volume>19</volume>
+  <electronic-resource-num>10.1007/s41114-018-0012-9</electronic-resource-num>
+  <pages>3</pages>
+  <volume>21</volume>
   <number/>
   <dates>
-    <year>2016</year>
+    <year>2018</year>
   </dates>
   <abstract>We present possible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next decade, with the intention of providing information to the astronomy community to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals, and study the capability of the network to determine the sky location of the source. We report our findings for gravitational-wave transients, with particular focus on gravitational-wave signals from the inspiral of binary neutron star systems, which are the most promising targets for multi-messenger astronomy. The ability to localize the sources of the detected signals depends on the geographical distribution of the detectors and their relative sensitivity, and 90% credible regions can be as large as thousands of square degrees when only two sensitive detectors are operational. Determining the sky position of a significant fraction of detected signals to areas of 5-20 square degrees requires at least three detectors of sensitivity within a factor of ~2 of each other and with a broad frequency bandwidth. When all detectors, including KAGRA and the third LIGO detector in India, reach design sensitivity, a significant fraction of gravitational-wave signals will be localized to a few square degrees by gravitational-wave observations alone.</abstract>
 </record>
@@ -2035,6 +2035,34 @@
     <year>2012</year>
   </dates>
   <abstract>The spectrum of known black-hole solutions to the stationary Einstein equations has been steadily increasing, sometimes in unexpected ways. In particular, it has turned out that not all black-hole-equilibrium configurations are characterized by their mass, angular momentum and global charges. Moreover, the high degree of symmetry displayed by vacuum and electro-vacuum black-hole spacetimes ceases to exist in self-gravitating non-linear field theories. This text aims to review some developments in the subject and to discuss them in light of the uniqueness theorem for the Einstein-Maxwell system.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Amaro-Seoane, Pau</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Stellar dynamics and extreme-mass ratio inspirals</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-018-0013-8</electronic-resource-num>
+  <pages>4</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Black holes</keyword>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Stellar dynamics</keyword>
+  </keywords>
+  <dates>
+    <year>2018</year>
+    <pub-dates>
+      <date>2018-05-15</date>
+    </pub-dates>
+  </dates>
+  <abstract>It is now well-established that a dark, compact object (DCO), very likely a massive black hole (MBH) of around four million solar masses is lurking at the centre of the Milky Way. While a consensus is emerging about the origin and growth of supermassive black holes (with masses larger than a billion solar masses), MBHs with smaller masses, such as the one in our galactic centre, remain understudied and enigmatic. The key to understanding these holes - how some of them grow by orders of magnitude in mass - lies in understanding the dynamics of the stars in the galactic neighbourhood. Stars interact with the central MBH primarily through their gradual inspiral due to the emission of gravitational radiation. Also stars produce gases which will subsequently be accreted by the MBH through collisions and disruptions brought about by the strong central tidal field. Such processes can contribute significantly to the mass of the MBH and progress in understanding them requires theoretical work in preparation for future gravitational radiation millihertz missions and X-ray observatories. In particular, a unique probe of these regions is the gravitational radiation that is emitted by some compact stars very close to the black holes and which could be surveyed by a millihertz gravitational wave interferometer scrutinizing the range of masses fundamental to understanding the origin and growth of supermassive black holes. By extracting the information carried by the gravitational radiation, we can determine the mass and spin of the central MBH with unprecedented precision and we can determine how the holes "eat" stars that happen to be near them.</abstract>
 </record>
 
 <record>
