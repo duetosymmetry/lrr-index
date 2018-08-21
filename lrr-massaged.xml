@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 136 -->
+<!-- Search-Engine-Total-Number-Of-Results: 137 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Dain, Sergio</author>
+      <author>Gabach-Clement, María Eugenia</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Geometrical inequalities bounding angular momentum and charges in General Relativity</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-018-0014-7</electronic-resource-num>
+  <pages>5</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Geometrical inequalities</keyword>
+    <keyword>Black holes</keyword>
+    <keyword>Ordinary objects</keyword>
+  </keywords>
+  <dates>
+    <year>2018</year>
+    <pub-dates>
+      <date>2018-07-05</date>
+    </pub-dates>
+  </dates>
+  <abstract>Geometrical inequalities show how certain parameters of a physical system set restrictions on other parameters. For instance, a black hole of given mass can not rotate too fast, or an ordinary object of given size can not have too much electric charge. In this article, we are interested in bounds on the angular momentum and electromagnetic charges, in terms of total mass and size. We are mainly concerned with inequalities for black holes and ordinary objects. The former are the most studied systems in this context in General Relativity, and where most results have been found. Ordinary objects, on the other hand, present numerous challenges and many basic questions concerning geometrical estimates for them are still unanswered. We present the many results in these areas. We make emphasis in identifying the mathematical conditions that lead to such estimates, both for black holes and ordinary objects.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
@@ -2044,7 +2073,7 @@
     </authors>
   </contributors>
   <titles>
-    <title>Stellar dynamics and extreme-mass ratio inspirals</title>
+    <title>Relativistic dynamics and extreme mass ratio inspirals</title>
     <secondary-title>Living Rev.Rel.</secondary-title>
   </titles>
   <electronic-resource-num>10.1007/s41114-018-0013-8</electronic-resource-num>
