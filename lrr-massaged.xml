@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 137 -->
+<!-- Search-Engine-Total-Number-Of-Results: 138 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>MacCallum, Malcolm A.H.</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Computer algebra in gravity research</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-018-0015-6</electronic-resource-num>
+  <pages>6</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <dates>
+    <year>2018</year>
+  </dates>
+  <abstract>The complicated nature of calculations in general relativity was one of the driving forces in the early development of computer algebra (CA). CA has become widely used in gravity research (GR) and its use can be expected to grow further. Here the general nature of computer algebra is discussed, along with some aspects of CA system design; features particular to GR’s requirements are considered; information on packages for CA in GR is provided, both for those packages currently available and for their predecessors; and applications of CA in GR are outlined.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
