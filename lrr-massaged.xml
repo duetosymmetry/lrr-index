@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 138 -->
+<!-- Search-Engine-Total-Number-Of-Results: 139 -->
 <xml>
 <records>
 <record>
@@ -16,10 +16,54 @@
   <pages>6</pages>
   <volume>21</volume>
   <number>1</number>
+  <keywords>
+    <keyword>Computer algebra</keyword>
+    <keyword>General relativity</keyword>
+    <keyword>Gravitation theory</keyword>
+    <keyword>Algorithms</keyword>
+    <keyword>Exact solutions</keyword>
+    <keyword>Programs</keyword>
+  </keywords>
   <dates>
     <year>2018</year>
+    <pub-dates>
+      <date>2018-08-20</date>
+    </pub-dates>
   </dates>
   <abstract>The complicated nature of calculations in general relativity was one of the driving forces in the early development of computer algebra (CA). CA has become widely used in gravity research (GR) and its use can be expected to grow further. Here the general nature of computer algebra is discussed, along with some aspects of CA system design; features particular to GR’s requirements are considered; information on packages for CA in GR is provided, both for those packages currently available and for their predecessors; and applications of CA in GR are outlined.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Schäfer, Gerhard</author>
+      <author>Jaranowski, Piotr</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Hamiltonian formulation of general relativity and post-Newtonian dynamics of compact binaries</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-018-0016-5</electronic-resource-num>
+  <pages>7</pages>
+  <volume>21</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>General relativity</keyword>
+    <keyword>Classical spin and gravity</keyword>
+    <keyword>Hamiltonian formalism</keyword>
+    <keyword>Compact binary systems</keyword>
+    <keyword>Canonical equations of motion</keyword>
+    <keyword>Radiation reaction and emission</keyword>
+    <keyword>Analytical and dimensional regularization</keyword>
+  </keywords>
+  <dates>
+    <year>2018</year>
+    <pub-dates>
+      <date>2018-08-31</date>
+    </pub-dates>
+  </dates>
+  <abstract>Hamiltonian formalisms provide powerful tools for the computation of approximate analytic solutions of the Einstein field equations; particularly, applications to the post-Newtonian (PN) framework have proved very powerful. The three most important Hamiltonian formalisms of general relativity, the Dirac, the Arnowitt-Deser-Misner (ADM), and the Schwinger one, are presented. The PN computations of the explicit analytic dynamics and motion of compact binaries are discussed within the most often applied ADM formalism. The obtention of autonomous Hamiltonians is achieved by the transition to Routhians. Order reduction of higher derivative Hamiltonians results in standard Hamiltonians. Tetrad representation of general relativity is introduced for the tackling of compact binaries with spinning components. Configurations are treated where the absolute values of the spin vectors can be considered constant. Compact objects are modeled by use of Dirac delta functions and their derivatives. Consistency is achieved through transition to d-dimensional space and application of dimensional regularization. Global Lorentz symmetry applies because of motion of the binaries in space-asymptotic flat spacetimes. The validity of Poincare algebra supplies efficient checks for the correctness of the results. At the 4PN level, tail contributions to the binding energy show up, resembling the Lamb shift in quantum electrodynamics. The conservative spin-dependent dynamics finds explicit presentation in Hamiltonian form through next-to-next-to-leading-order spin-orbit and spin1-spin2 couplings and to leading-order in the cubic and quartic in spin interactions. The radiation reaction dynamics is presented explicitly through the 3.5PN order for spinless objects, and, for spinning bodies, to leading-order in the spin-orbit and spin1-spin2 couplings. The most important historical issues get pointed out.</abstract>
 </record>
 
 <record>
