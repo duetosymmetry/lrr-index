@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 140 -->
+<!-- Search-Engine-Total-Number-Of-Results: 141 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Danilishin, Stefan L.</author>
+      <author>Khalili, Farid Ya.</author>
+      <author>Miao, Haixing</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Advanced quantum techniques for future gravitational-wave detectors</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0018-y</electronic-resource-num>
+  <pages>2</pages>
+  <volume>22</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Gravitational-wave detectors</keyword>
+    <keyword>Optomechanics</keyword>
+    <keyword>Quantum measurement theory</keyword>
+    <keyword>Quantum noise</keyword>
+    <keyword>Standard quantum limit</keyword>
+    <keyword>Fundamental quantum limit</keyword>
+    <keyword>Optical rigidity</keyword>
+    <keyword>Quantum speed meter</keyword>
+    <keyword>Squeezed light</keyword>
+    <keyword>Back-action evasion</keyword>
+    <keyword>Atomic spin ensemble</keyword>
+    <keyword>White-light cavity</keyword>
+  </keywords>
+  <dates>
+    <year>2019</year>
+    <pub-dates>
+      <date>2019-04-29</date>
+    </pub-dates>
+  </dates>
+  <abstract>Quantum fluctuation of light limits the sensitivity of advanced laser interferometric gravitational-wave detectors. It is one of the principal obstacles on the way towards the next-generation gravitational-wave observatories. The envisioned significant improvement of the detector sensitivity requires using quantum non-demolition measurement and back-action evasion techniques, which allow us to circumvent the sensitivity limit imposed by the Heisenberg uncertainty principle. In our previous review article: "Quantum measurement theory in gravitational-wave detectors"' [Living Rev. Relativity 15, 5 (2012)], we laid down the basic principles of quantum measurement theory and provided the framework for analysing the quantum noise of interferometers. The scope of this paper is to review novel techniques for quantum noise suppression proposed in the recent years and put them in the same framework. Our delineation of interferometry schemes and topologies is intended as an aid in the process of selecting the design for the next-generation gravitational-wave observatories.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
