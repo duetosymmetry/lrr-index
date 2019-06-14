@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 141 -->
+<!-- Search-Engine-Total-Number-Of-Results: 142 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Minguzzi, E.</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Lorentzian causality theory</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0019-x</electronic-resource-num>
+  <pages>3</pages>
+  <volume>22</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Lorentzian geometry</keyword>
+    <keyword>Cone structures</keyword>
+    <keyword>Singularity theorems</keyword>
+  </keywords>
+  <dates>
+    <year>2019</year>
+    <pub-dates>
+      <date>2019-06-03</date>
+    </pub-dates>
+  </dates>
+  <abstract>I review Lorentzian causality theory paying particular attention to the optimality and generality of the presented results. I include complete proofs of some foundational results that are otherwise difficult to find in the literature (e.g. equivalence of some Lorentzian length definitions, upper semi-continuity of the length functional, corner regularization, etc.). The paper is almost self-contained thanks to a systematic logical exposition of the many different topics that compose the theory. It contains new results on classical concepts such as maximizing curves, achronal sets, edges, horismos, domains of dependence, Lorentzian distance. The treatment of causally pathological spacetimes requires the development of some new versatile causality notions, among which I found particularly convenient to introduce: biviability, chronal equivalence, araying sets, and causal versions of horismos and trapped sets. Their usefulness becomes apparent in the treatment of the classical singularity theorems, which is here considerably expanded in the exploration of some variations and alternatives.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
