@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 142 -->
+<!-- Search-Engine-Total-Number-Of-Results: 143 -->
 <xml>
 <records>
 <record>
@@ -28,6 +28,37 @@
     </pub-dates>
   </dates>
   <abstract>I review Lorentzian causality theory paying particular attention to the optimality and generality of the presented results. I include complete proofs of some foundational results that are otherwise difficult to find in the literature (e.g. equivalence of some Lorentzian length definitions, upper semi-continuity of the length functional, corner regularization, etc.). The paper is almost self-contained thanks to a systematic logical exposition of the many different topics that compose the theory. It contains new results on classical concepts such as maximizing curves, achronal sets, edges, horismos, domains of dependence, Lorentzian distance. The treatment of causally pathological spacetimes requires the development of some new versatile causality notions, among which I found particularly convenient to introduce: biviability, chronal equivalence, araying sets, and causal versions of horismos and trapped sets. Their usefulness becomes apparent in the treatment of the classical singularity theorems, which is here considerably expanded in the exploration of some variations and alternatives.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Cardoso, Vitor</author>
+      <author>Pani, Paolo</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Testing the nature of dark compact objects: a status report</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0020-4</electronic-resource-num>
+  <pages>4</pages>
+  <volume>22</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Black holes</keyword>
+    <keyword>Event horizon</keyword>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Quantum gravity</keyword>
+    <keyword>Singularities</keyword>
+  </keywords>
+  <dates>
+    <year>2019</year>
+    <pub-dates>
+      <date>2019-07-08</date>
+    </pub-dates>
+  </dates>
+  <abstract>Very compact objects probe extreme gravitational fields and may be the key to understand outstanding puzzles in fundamental physics. These include the nature of dark matter, the fate of spacetime singularities, or the loss of unitarity in Hawking evaporation. The standard astrophysical description of collapsing objects tells us that massive, dark and compact objects are black holes. Any observation suggesting otherwise would be an indication of beyond-the-standard-model physics. Null results strengthen and quantify the Kerr black hole paradigm. The advent of gravitational-wave astronomy and precise measurements with very long baseline interferometry allow one to finally probe into such foundational issues. We overview the physics of exotic dark compact objects and their observational status, including the observational evidence for black holes with current and future experiments.</abstract>
 </record>
 
 <record>
