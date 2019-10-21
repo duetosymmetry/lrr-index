@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 143 -->
+<!-- Search-Engine-Total-Number-Of-Results: 145 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Harms, Jan</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Terrestrial gravity fluctuations</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0022-2</electronic-resource-num>
+  <pages>6</pages>
+  <volume>22</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Terrestrial gravity</keyword>
+    <keyword>Newtonian noise</keyword>
+    <keyword>Wiener filter</keyword>
+    <keyword>Mitigation</keyword>
+  </keywords>
+  <dates>
+    <year>2019</year>
+    <pub-dates>
+      <date>2019-10-14</date>
+    </pub-dates>
+  </dates>
+  <abstract>Terrestrial gravity fluctuations are a target of scientific studies in a variety of fields within geophysics and fundamental-physics experiments involving gravity such as the observation of gravitational waves. In geophysics, these fluctuations are typically considered as signal that carries information about processes such as fault ruptures and atmospheric density perturbations. In fundamental-physics experiments, it appears as environmental noise, which needs to be avoided or mitigated. This article reviews the current state-of-the-art of modeling high-frequency terrestrial gravity fluctuations and of gravity-noise mitigation strategies. It hereby focuses on frequencies above about 50 mHz, which allows us to simplify models of atmospheric gravity perturbations (beyond Brunt–Väisälä regime) and it guarantees as well that gravitational forces on elastic media can be treated as perturbation. Extensive studies have been carried out over the past two decades to model contributions from seismic and atmospheric fields especially by the gravitational-wave community. While terrestrial gravity fluctuations above 50 mHz have not been observed conclusively yet, sensitivity of instruments for geophysical observations and of gravitational-wave detectors is improving, and we can expect first observations in the coming years. The next challenges include the design of gravity-noise mitigation systems to be implemented in current gravitational-wave detectors, and further improvement of models for future gravitational-wave detectors where terrestrial gravity noise will play a more important role. Also, many aspects of the recent proposition to use a new generation of gravity sensors to improve real-time earthquake early-warning systems still require detailed analyses.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
@@ -59,6 +88,36 @@
     </pub-dates>
   </dates>
   <abstract>Very compact objects probe extreme gravitational fields and may be the key to understand outstanding puzzles in fundamental physics. These include the nature of dark matter, the fate of spacetime singularities, or the loss of unitarity in Hawking evaporation. The standard astrophysical description of collapsing objects tells us that massive, dark and compact objects are black holes. Any observation suggesting otherwise would be an indication of beyond-the-standard-model physics. Null results strengthen and quantify the Kerr black hole paradigm. The advent of gravitational-wave astronomy and precise measurements with very long baseline interferometry allow one to finally probe into such foundational issues. We overview the physics of exotic dark compact objects and their observational status, including the observational evidence for black holes with current and future experiments.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Surya, Sumati</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>The causal set approach to quantum gravity</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0023-1</electronic-resource-num>
+  <pages>5</pages>
+  <volume>22</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Causal set theory</keyword>
+    <keyword>Quantum gravity</keyword>
+    <keyword>Discreteness</keyword>
+    <keyword>Causality</keyword>
+    <keyword>Poset theory</keyword>
+  </keywords>
+  <dates>
+    <year>2019</year>
+    <pub-dates>
+      <date>2019-09-27</date>
+    </pub-dates>
+  </dates>
+  <abstract>The causal set theory (CST) approach to quantum gravity postulates that at the most fundamental level, spacetime is discrete, with the spacetime continuum replaced by locally finite posets or “causal sets”. The partial order on a causal set represents a proto-causality relation while local finiteness encodes an intrinsic discreteness. In the continuum approximation the former corresponds to the spacetime causality relation and the latter to a fundamental spacetime atomicity, so that finite volume regions in the continuum contain only a finite number of causal set elements. CST is deeply rooted in the Lorentzian character of spacetime, where a primary role is played by the causal structure poset. Importantly, the assumption of a fundamental discreteness in CST does not violate local Lorentz invariance in the continuum approximation. On the other hand, the combination of discreteness and Lorentz invariance gives rise to a characteristic non-locality which distinguishes CST from most other approaches to quantum gravity. In this review we give a broad, semi-pedagogical introduction to CST, highlighting key results as well as some of the key open questions. This review is intended both for the beginner student in quantum gravity as well as more seasoned researchers in the field.</abstract>
 </record>
 
 <record>
@@ -2113,7 +2172,7 @@
       <date>2018-04-26</date>
     </pub-dates>
   </dates>
-  <abstract>We present possible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next decade, with the intention of providing information to the astronomy community to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals, and study the capability of the network to determine the sky location of the source. We report our findings for gravitational-wave transients, with particular focus on gravitational-wave signals from the inspiral of binary neutron star systems, which are the most promising targets for multi-messenger astronomy. The ability to localize the sources of the detected signals depends on the geographical distribution of the detectors and their relative sensitivity, and 90% credible regions can be as large as thousands of square degrees when only two sensitive detectors are operational. Determining the sky position of a significant fraction of detected signals to areas of 5-20 square degrees requires at least three detectors of sensitivity within a factor of ~2 of each other and with a broad frequency bandwidth. When all detectors, including KAGRA and the third LIGO detector in India, reach design sensitivity, a significant fraction of gravitational-wave signals will be localized to a few square degrees by gravitational-wave observations alone.</abstract>
+  <abstract>We present a possible observing scenario for the Advanced LIGO and Advanced Virgo gravitational-wave detectors over the next decade, with the intention of providing information to the astronomy community to facilitate planning for multi-messenger astronomy with gravitational waves. We determine the expected sensitivity of the network to transient gravitational-wave signals, and study the capability of the network to determine the sky location of the source. We report our findings for gravitational-wave transients, with particular focus on gravitational-wave signals from the inspiral of binary neutron-star systems, which are considered the most promising for multi-messenger astronomy. The ability to localize the sources of the detected signals depends on the geographical distribution of the detectors and their relative sensitivity, and 90% credible regions can be as large as thousands of square degrees when only two sensitive detectors are operational. Determining the sky position of a significant fraction of detected signals to areas of 5 deg$^{2}$ to 20 deg$^{2}$ will require at least three detectors of sensitivity within a factor of ∼ 2 of each other and with a broad frequency bandwidth. Should the third LIGO detector be relocated to India as expected, a significant fraction of gravitational-wave signals will be localized to a few square degrees by gravitational-wave observations alone.</abstract>
 </record>
 
 <record>
