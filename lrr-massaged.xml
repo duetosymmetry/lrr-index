@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 145 -->
+<!-- Search-Engine-Total-Number-Of-Results: 146 -->
 <xml>
 <records>
 <record>
@@ -29,6 +29,36 @@
     </pub-dates>
   </dates>
   <abstract>Terrestrial gravity fluctuations are a target of scientific studies in a variety of fields within geophysics and fundamental-physics experiments involving gravity such as the observation of gravitational waves. In geophysics, these fluctuations are typically considered as signal that carries information about processes such as fault ruptures and atmospheric density perturbations. In fundamental-physics experiments, it appears as environmental noise, which needs to be avoided or mitigated. This article reviews the current state-of-the-art of modeling high-frequency terrestrial gravity fluctuations and of gravity-noise mitigation strategies. It hereby focuses on frequencies above about 50 mHz, which allows us to simplify models of atmospheric gravity perturbations (beyond Brunt–Väisälä regime) and it guarantees as well that gravitational forces on elastic media can be treated as perturbation. Extensive studies have been carried out over the past two decades to model contributions from seismic and atmospheric fields especially by the gravitational-wave community. While terrestrial gravity fluctuations above 50 mHz have not been observed conclusively yet, sensitivity of instruments for geophysical observations and of gravitational-wave detectors is improving, and we can expect first observations in the coming years. The next challenges include the design of gravity-noise mitigation systems to be implemented in current gravitational-wave detectors, and further improvement of models for future gravitational-wave detectors where terrestrial gravity noise will play a more important role. Also, many aspects of the recent proposition to use a new generation of gravity sensors to improve real-time earthquake early-warning systems still require detailed analyses.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Metzger, Brian D.</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Kilonovae</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-019-0024-0</electronic-resource-num>
+  <pages>1</pages>
+  <volume>23</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Neutron stars</keyword>
+    <keyword>Nucleosynthesis</keyword>
+    <keyword>Black holes</keyword>
+    <keyword>Radiative transfer</keyword>
+  </keywords>
+  <dates>
+    <year>2020</year>
+    <pub-dates>
+      <date>2019-12-16</date>
+    </pub-dates>
+  </dates>
+  <abstract>The coalescence of double neutron star (NS–NS) and black hole (BH)–NS binaries are prime sources of gravitational waves (GW) for Advanced LIGO/Virgo and future ground-based detectors. Neutron-rich matter released from such events undergoes rapid neutron capture (r-process) nucleosynthesis as it decompresses into space, enriching our universe with rare heavy elements like gold and platinum. Radioactive decay of these unstable nuclei powers a rapidly evolving, approximately isotropic thermal transient known as a “kilonova”, which probes the physical conditions during the merger and its aftermath. Here I review the history and physics of kilonovae, leading to the current paradigm of day-timescale emission at optical wavelengths from lanthanide-free components of the ejecta, followed by week-long emission with a spectral peak in the near-infrared (NIR). These theoretical predictions, as compiled in the original version of this review, were largely confirmed by the transient optical/NIR counterpart discovered to the first NS–NS merger, GW170817, discovered by LIGO/Virgo. Using a simple light curve model to illustrate the essential physical processes and their application to GW170817, I then introduce important variations about the standard picture which may be observable in future mergers. These include $\sim $hour-long UV precursor emission, powered by the decay of free neutrons in the outermost ejecta layers or shock-heating of the ejecta by a delayed ultra-relativistic outflow, and enhancement of the luminosity from a long-lived central engine, such as an accreting BH or millisecond magnetar. Joint GW and kilonova observations of GW170817 and future events provide a new avenue to constrain the astrophysical origin of the r-process elements and the equation of state of dense nuclear matter.</abstract>
 </record>
 
 <record>
