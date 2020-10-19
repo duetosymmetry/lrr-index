@@ -1,7 +1,1355 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 146 -->
+<!-- Search-Engine-Total-Number-Of-Results: 147 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Abbott, B.P.</author>
+      <author>Abbott, R.</author>
+      <author>Abbott, T.D.</author>
+      <author>Abraham, S.</author>
+      <author>Acernese, F.</author>
+      <author>Ackley, K.</author>
+      <author>Adams, C.</author>
+      <author>Adya, V.B.</author>
+      <author>Affeldt, C.</author>
+      <author>Agathos, M.</author>
+      <author>Agatsuma, K.</author>
+      <author>Aggarwal, N.</author>
+      <author>Aguiar, O.D.</author>
+      <author>Aiello, L.</author>
+      <author>Ain, A.</author>
+      <author>Ajith, P.</author>
+      <author>Akutsu, T.</author>
+      <author>Allen, G.</author>
+      <author>Allocca, A.</author>
+      <author>Aloy, M.A.</author>
+      <author>Altin, P.A.</author>
+      <author>Amato, A.</author>
+      <author>Ananyeva, A.</author>
+      <author>Anderson, S.B.</author>
+      <author>Anderson, W.G.</author>
+      <author>Ando, M.</author>
+      <author>Angelova, S.V.</author>
+      <author>Antier, S.</author>
+      <author>Appert, S.</author>
+      <author>Arai, K.</author>
+      <author>Arai, Koya</author>
+      <author>Arai, Y.</author>
+      <author>Araki, S.</author>
+      <author>Araya, A.</author>
+      <author>Araya, M.C.</author>
+      <author>Areeda, J.S.</author>
+      <author>Arène, M.</author>
+      <author>Aritomi, N.</author>
+      <author>Arnaud, N.</author>
+      <author>Arun, K.G.</author>
+      <author>Ascenzi, S.</author>
+      <author>Ashton, G.</author>
+      <author>Aso, Y.</author>
+      <author>Aston, S.M.</author>
+      <author>Astone, P.</author>
+      <author>Aubin, F.</author>
+      <author>Aufmuth, P.</author>
+      <author>AultONeal, K.</author>
+      <author>Austin, C.</author>
+      <author>Avendano, V.</author>
+      <author>Avila-Alvarez, A.</author>
+      <author>Babak, S.</author>
+      <author>Bacon, P.</author>
+      <author>Badaracco, F.</author>
+      <author>Bader, M.K.M.</author>
+      <author>Bae, S.W.</author>
+      <author>Bae, Y.B.</author>
+      <author>Baiotti, L.</author>
+      <author>Bajpai, R.</author>
+      <author>Baker, P.T.</author>
+      <author>Baldaccini, F.</author>
+      <author>Ballardin, G.</author>
+      <author>Ballmer, S.W.</author>
+      <author>Banagiri, S.</author>
+      <author>Barayoga, J.C.</author>
+      <author>Barclay, S.E.</author>
+      <author>Barish, B.C.</author>
+      <author>Barker, D.</author>
+      <author>Barkett, K.</author>
+      <author>Barnum, S.</author>
+      <author>Barone, F.</author>
+      <author>Barr, B.</author>
+      <author>Barsotti, L.</author>
+      <author>Barsuglia, M.</author>
+      <author>Barta, D.</author>
+      <author>Bartlett, J.</author>
+      <author>Barton, M.A.</author>
+      <author>Bartos, I.</author>
+      <author>Bassiri, R.</author>
+      <author>Basti, A.</author>
+      <author>Bawaj, M.</author>
+      <author>Bayley, J.C.</author>
+      <author>Bazzan, M.</author>
+      <author>Bécsy, B.</author>
+      <author>Bejger, M.</author>
+      <author>Belahcene, I.</author>
+      <author>Bell, A.S.</author>
+      <author>Beniwal, D.</author>
+      <author>Berger, B.K.</author>
+      <author>Bergmann, G.</author>
+      <author>Bernuzzi, S.</author>
+      <author>Bero, J.J.</author>
+      <author>Berry, C.P.L.</author>
+      <author>Bersanetti, D.</author>
+      <author>Bertolini, A.</author>
+      <author>Betzwieser, J.</author>
+      <author>Bhandare, R.</author>
+      <author>Bidler, J.</author>
+      <author>Bilenko, I.A.</author>
+      <author>Bilgili, S.A.</author>
+      <author>Billingsley, G.</author>
+      <author>Birch, J.</author>
+      <author>Birney, R.</author>
+      <author>Birnholtz, O.</author>
+      <author>Biscans, S.</author>
+      <author>Biscoveanu, S.</author>
+      <author>Bisht, A.</author>
+      <author>Bitossi, M.</author>
+      <author>Bizouard, M.A.</author>
+      <author>Blackburn, J.K.</author>
+      <author>Blair, C.D.</author>
+      <author>Blair, D.G.</author>
+      <author>Blair, R.M.</author>
+      <author>Bloemen, S.</author>
+      <author>Bode, N.</author>
+      <author>Boer, M.</author>
+      <author>Boetzel, Y.</author>
+      <author>Bogaert, G.</author>
+      <author>Bondu, F.</author>
+      <author>Bonilla, E.</author>
+      <author>Bonnand, R.</author>
+      <author>Booker, P.</author>
+      <author>Boom, B.A.</author>
+      <author>Booth, C.D.</author>
+      <author>Bork, R.</author>
+      <author>Boschi, V.</author>
+      <author>Bose, S.</author>
+      <author>Bossie, K.</author>
+      <author>Bossilkov, V.</author>
+      <author>Bosveld, J.</author>
+      <author>Bouffanais, Y.</author>
+      <author>Bozzi, A.</author>
+      <author>Bradaschia, C.</author>
+      <author>Brady, P.R.</author>
+      <author>Bramley, A.</author>
+      <author>Branchesi, M.</author>
+      <author>Brau, J.E.</author>
+      <author>Briant, T.</author>
+      <author>Briggs, J.H.</author>
+      <author>Brighenti, F.</author>
+      <author>Brillet, A.</author>
+      <author>Brinkmann, M.</author>
+      <author>Brisson, V.</author>
+      <author>Brockill, P.</author>
+      <author>Brooks, A.F.</author>
+      <author>Brown, D.A.</author>
+      <author>Brown, D.D.</author>
+      <author>Brunett, S.</author>
+      <author>Buikema, A.</author>
+      <author>Bulik, T.</author>
+      <author>Bulten, H.J.</author>
+      <author>Buonanno, A.</author>
+      <author>Buskulic, D.</author>
+      <author>Buy, C.</author>
+      <author>Byer, R.L.</author>
+      <author>Cabero, M.</author>
+      <author>Cadonati, L.</author>
+      <author>Cagnoli, G.</author>
+      <author>Cahillane, C.</author>
+      <author>Bustillo, J.Calderón</author>
+      <author>Callister, T.A.</author>
+      <author>Calloni, E.</author>
+      <author>Camp, J.B.</author>
+      <author>Campbell, W.A.</author>
+      <author>Canepa, M.</author>
+      <author>Cannon, K.</author>
+      <author>Cannon, K.C.</author>
+      <author>Cao, H.</author>
+      <author>Cao, J.</author>
+      <author>Capocasa, E.</author>
+      <author>Carbognani, F.</author>
+      <author>Caride, S.</author>
+      <author>Carney, M.F.</author>
+      <author>Carullo, G.</author>
+      <author>Diaz, J.Casanueva</author>
+      <author>Casentini, C.</author>
+      <author>Caudill, S.</author>
+      <author>Cavaglià, M.</author>
+      <author>Cavalier, F.</author>
+      <author>Cavalieri, R.</author>
+      <author>Cella, G.</author>
+      <author>Cerdá-Durán, P.</author>
+      <author>Cerretani, G.</author>
+      <author>Cesarini, E.</author>
+      <author>Chaibi, O.</author>
+      <author>Chakravarti, K.</author>
+      <author>Chamberlin, S.J.</author>
+      <author>Chan, M.</author>
+      <author>Chan, M.L.</author>
+      <author>Chao, S.</author>
+      <author>Charlton, P.</author>
+      <author>Chase, E.A.</author>
+      <author>Chassande-Mottin, E.</author>
+      <author>Chatterjee, D.</author>
+      <author>Chaturvedi, M.</author>
+      <author>Chatziioannou, K.</author>
+      <author>Cheeseboro, B.D.</author>
+      <author>Chen, C.S.</author>
+      <author>Chen, H.Y.</author>
+      <author>Chen, K.H.</author>
+      <author>Chen, X.</author>
+      <author>Chen, Y.</author>
+      <author>Chen, Y.R.</author>
+      <author>Cheng, H.P.</author>
+      <author>Cheong, C.K.</author>
+      <author>Chia, H.Y.</author>
+      <author>Chincarini, A.</author>
+      <author>Chiummo, A.</author>
+      <author>Cho, G.</author>
+      <author>Cho, H.S.</author>
+      <author>Cho, M.</author>
+      <author>Christensen, N.</author>
+      <author>Chu, H.Y.</author>
+      <author>Chu, Q.</author>
+      <author>Chu, Y.K.</author>
+      <author>Chua, S.</author>
+      <author>Chung, K.W.</author>
+      <author>Chung, S.</author>
+      <author>Ciani, G.</author>
+      <author>Ciobanu, A.A.</author>
+      <author>Ciolfi, R.</author>
+      <author>Cipriano, F.</author>
+      <author>Cirone, A.</author>
+      <author>Clara, F.</author>
+      <author>Clark, J.A.</author>
+      <author>Clearwater, P.</author>
+      <author>Cleva, F.</author>
+      <author>Cocchieri, C.</author>
+      <author>Coccia, E.</author>
+      <author>Cohadon, P.F.</author>
+      <author>Cohen, D.</author>
+      <author>Colgan, R.</author>
+      <author>Colleoni, M.</author>
+      <author>Collette, C.G.</author>
+      <author>Collins, C.</author>
+      <author>Cominsky, L.R.</author>
+      <author>Constancio, M.</author>
+      <author>Conti, L.</author>
+      <author>Cooper, S.J.</author>
+      <author>Corban, P.</author>
+      <author>Corbitt, T.R.</author>
+      <author>Cordero-Carrión, I.</author>
+      <author>Corley, K.R.</author>
+      <author>Cornish, N.</author>
+      <author>Corsi, A.</author>
+      <author>Cortese, S.</author>
+      <author>Costa, C.A.</author>
+      <author>Cotesta, R.</author>
+      <author>Coughlin, M.W.</author>
+      <author>Coughlin, S.B.</author>
+      <author>Coulon, J.P.</author>
+      <author>Countryman, S.T.</author>
+      <author>Couvares, P.</author>
+      <author>Covas, P.B.</author>
+      <author>Cowan, E.E.</author>
+      <author>Coward, D.M.</author>
+      <author>Cowart, M.J.</author>
+      <author>Coyne, D.C.</author>
+      <author>Coyne, R.</author>
+      <author>Creighton, J.D.E.</author>
+      <author>Creighton, T.D.</author>
+      <author>Cripe, J.</author>
+      <author>Croquette, M.</author>
+      <author>Crowder, S.G.</author>
+      <author>Cullen, T.J.</author>
+      <author>Cumming, A.</author>
+      <author>Cunningham, L.</author>
+      <author>Cuoco, E.</author>
+      <author>Canton, T.Dal</author>
+      <author>Dálya, G.</author>
+      <author>Danilishin, S.L.</author>
+      <author>D'Antonio, S.</author>
+      <author>Danzmann, K.</author>
+      <author>Dasgupta, A.</author>
+      <author>Da Silva Costa, C.F.</author>
+      <author>Datrier, L.E.H.</author>
+      <author>Dattilo, V.</author>
+      <author>Dave, I.</author>
+      <author>Davier, M.</author>
+      <author>Davis, D.</author>
+      <author>Daw, E.J.</author>
+      <author>DeBra, D.</author>
+      <author>Deenadayalan, M.</author>
+      <author>Degallaix, J.</author>
+      <author>De Laurentis, M.</author>
+      <author>Deléglise, S.</author>
+      <author>Pozzo, W.Del</author>
+      <author>DeMarchi, L.M.</author>
+      <author>Demos, N.</author>
+      <author>Dent, T.</author>
+      <author>De Pietri, R.</author>
+      <author>Derby, J.</author>
+      <author>De Rosa, R.</author>
+      <author>De Rossi, C.</author>
+      <author>DeSalvo, R.</author>
+      <author>de Varona, O.</author>
+      <author>Dhurandhar, S.</author>
+      <author>Díaz, M.C.</author>
+      <author>Dietrich, T.</author>
+      <author>Fiore, L.Di</author>
+      <author>Giovanni, M.Di</author>
+      <author>Girolamo, T.Di</author>
+      <author>Lieto, A.Di</author>
+      <author>Ding, B.</author>
+      <author>Pace, S.Di</author>
+      <author>Palma, I.Di</author>
+      <author>Renzo, F.Di</author>
+      <author>Dmitriev, A.</author>
+      <author>Doctor, Z.</author>
+      <author>Doi, K.</author>
+      <author>Donovan, F.</author>
+      <author>Dooley, K.L.</author>
+      <author>Doravari, S.</author>
+      <author>Dorrington, I.</author>
+      <author>Downes, T.P.</author>
+      <author>Drago, M.</author>
+      <author>Driggers, J.C.</author>
+      <author>Du, Z.</author>
+      <author>Ducoin, J.G.</author>
+      <author>Dupej, P.</author>
+      <author>Dwyer, S.E.</author>
+      <author>Easter, P.J.</author>
+      <author>Edo, T.B.</author>
+      <author>Edwards, M.C.</author>
+      <author>Effler, A.</author>
+      <author>Eguchi, S.</author>
+      <author>Ehrens, P.</author>
+      <author>Eichholz, J.</author>
+      <author>Eikenberry, S.S.</author>
+      <author>Eisenmann, M.</author>
+      <author>Eisenstein, R.A.</author>
+      <author>Enomoto, Y.</author>
+      <author>Essick, R.C.</author>
+      <author>Estelles, H.</author>
+      <author>Estevez, D.</author>
+      <author>Etienne, Z.B.</author>
+      <author>Etzel, T.</author>
+      <author>Evans, M.</author>
+      <author>Evans, T.M.</author>
+      <author>Fafone, V.</author>
+      <author>Fair, H.</author>
+      <author>Fairhurst, S.</author>
+      <author>Fan, X.</author>
+      <author>Farinon, S.</author>
+      <author>Farr, B.</author>
+      <author>Farr, W.M.</author>
+      <author>Fauchon-Jones, E.J.</author>
+      <author>Favata, M.</author>
+      <author>Fays, M.</author>
+      <author>Fazio, M.</author>
+      <author>Fee, C.</author>
+      <author>Feicht, J.</author>
+      <author>Fejer, M.M.</author>
+      <author>Feng, F.</author>
+      <author>Fernandez-Galiana, A.</author>
+      <author>Ferrante, I.</author>
+      <author>Ferreira, E.C.</author>
+      <author>Ferreira, T.A.</author>
+      <author>Ferrini, F.</author>
+      <author>Fidecaro, F.</author>
+      <author>Fiori, I.</author>
+      <author>Fiorucci, D.</author>
+      <author>Fishbach, M.</author>
+      <author>Fisher, R.P.</author>
+      <author>Fishner, J.M.</author>
+      <author>Fitz-Axen, M.</author>
+      <author>Flaminio, R.</author>
+      <author>Fletcher, M.</author>
+      <author>Flynn, E.</author>
+      <author>Fong, H.</author>
+      <author>Font, J.A.</author>
+      <author>Forsyth, P.W.F.</author>
+      <author>Fournier, J.D.</author>
+      <author>Frasca, S.</author>
+      <author>Frasconi, F.</author>
+      <author>Frei, Z.</author>
+      <author>Freise, A.</author>
+      <author>Frey, R.</author>
+      <author>Frey, V.</author>
+      <author>Fritschel, P.</author>
+      <author>Frolov, V.V.</author>
+      <author>Fujii, Y.</author>
+      <author>Fukunaga, M.</author>
+      <author>Fukushima, M.</author>
+      <author>Fulda, P.</author>
+      <author>Fyffe, M.</author>
+      <author>Gabbard, H.A.</author>
+      <author>Gadre, B.U.</author>
+      <author>Gaebel, S.M.</author>
+      <author>Gair, J.R.</author>
+      <author>Gammaitoni, L.</author>
+      <author>Ganija, M.R.</author>
+      <author>Gaonkar, S.G.</author>
+      <author>Garcia, A.</author>
+      <author>García-Quirós, C.</author>
+      <author>Garufi, F.</author>
+      <author>Gateley, B.</author>
+      <author>Gaudio, S.</author>
+      <author>Gaur, G.</author>
+      <author>Gayathri, V.</author>
+      <author>Ge, G.G.</author>
+      <author>Gemme, G.</author>
+      <author>Genin, E.</author>
+      <author>Gennai, A.</author>
+      <author>George, D.</author>
+      <author>George, J.</author>
+      <author>Gergely, L.</author>
+      <author>Germain, V.</author>
+      <author>Ghonge, S.</author>
+      <author>Ghosh, Abhirup</author>
+      <author>Ghosh, Archisman</author>
+      <author>Ghosh, S.</author>
+      <author>Giacomazzo, B.</author>
+      <author>Giaime, J.A.</author>
+      <author>Giardina, K.D.</author>
+      <author>Giazotto, A.</author>
+      <author>Gill, K.</author>
+      <author>Giordano, G.</author>
+      <author>Glover, L.</author>
+      <author>Godwin, P.</author>
+      <author>Goetz, E.</author>
+      <author>Goetz, R.</author>
+      <author>Goncharov, B.</author>
+      <author>González, G.</author>
+      <author>Castro, J.M. Gonzalez</author>
+      <author>Gopakumar, A.</author>
+      <author>Gorodetsky, M.L.</author>
+      <author>Gossan, S.E.</author>
+      <author>Gosselin, M.</author>
+      <author>Gouaty, R.</author>
+      <author>Grado, A.</author>
+      <author>Graef, C.</author>
+      <author>Granata, M.</author>
+      <author>Grant, A.</author>
+      <author>Gras, S.</author>
+      <author>Grassia, P.</author>
+      <author>Gray, C.</author>
+      <author>Gray, R.</author>
+      <author>Greco, G.</author>
+      <author>Green, A.C.</author>
+      <author>Green, R.</author>
+      <author>Gretarsson, E.M.</author>
+      <author>Groot, P.</author>
+      <author>Grote, H.</author>
+      <author>Grunewald, S.</author>
+      <author>Gruning, P.</author>
+      <author>Guidi, G.M.</author>
+      <author>Gulati, H.K.</author>
+      <author>Guo, Y.</author>
+      <author>Gupta, A.</author>
+      <author>Gupta, M.K.</author>
+      <author>Gustafson, E.K.</author>
+      <author>Gustafson, R.</author>
+      <author>Haegel, L.</author>
+      <author>Hagiwara, A.</author>
+      <author>Haino, S.</author>
+      <author>Halim, O.</author>
+      <author>Hall, B.R.</author>
+      <author>Hall, E.D.</author>
+      <author>Hamilton, E.Z.</author>
+      <author>Hammond, G.</author>
+      <author>Haney, M.</author>
+      <author>Hanke, M.M.</author>
+      <author>Hanks, J.</author>
+      <author>Hanna, C.</author>
+      <author>Hannam, M.D.</author>
+      <author>Hannuksela, O.A.</author>
+      <author>Hanson, J.</author>
+      <author>Hardwick, T.</author>
+      <author>Haris, K.</author>
+      <author>Harms, J.</author>
+      <author>Harry, G.M.</author>
+      <author>Harry, I.W.</author>
+      <author>Hasegawa, K.</author>
+      <author>Haster, C.J.</author>
+      <author>Haughian, K.</author>
+      <author>Hayakawa, H.</author>
+      <author>Hayama, K.</author>
+      <author>Hayes, F.J.</author>
+      <author>Healy, J.</author>
+      <author>Heidmann, A.</author>
+      <author>Heintze, M.C.</author>
+      <author>Heitmann, H.</author>
+      <author>Hello, P.</author>
+      <author>Hemming, G.</author>
+      <author>Hendry, M.</author>
+      <author>Heng, I.S.</author>
+      <author>Hennig, J.</author>
+      <author>Heptonstall, A.W.</author>
+      <author>Heurs, M.</author>
+      <author>Hild, S.</author>
+      <author>Himemoto, Y.</author>
+      <author>Hinderer, T.</author>
+      <author>Hiranuma, Y.</author>
+      <author>Hirata, N.</author>
+      <author>Hirose, E.</author>
+      <author>Hoak, D.</author>
+      <author>Hochheim, S.</author>
+      <author>Hofman, D.</author>
+      <author>Holgado, A.M.</author>
+      <author>Holland, N.A.</author>
+      <author>Holt, K.</author>
+      <author>Holz, D.E.</author>
+      <author>Hong, Z.</author>
+      <author>Hopkins, P.</author>
+      <author>Horst, C.</author>
+      <author>Hough, J.</author>
+      <author>Howell, E.J.</author>
+      <author>Hoy, C.G.</author>
+      <author>Hreibi, A.</author>
+      <author>Hsieh, B.H.</author>
+      <author>Huang, G.Z.</author>
+      <author>Huang, P.W.</author>
+      <author>Huang, Y.J.</author>
+      <author>Huerta, E.A.</author>
+      <author>Huet, D.</author>
+      <author>Hughey, B.</author>
+      <author>Hulko, M.</author>
+      <author>Husa, S.</author>
+      <author>Huttner, S.H.</author>
+      <author>Huynh-Dinh, T.</author>
+      <author>Idzkowski, B.</author>
+      <author>Iess, A.</author>
+      <author>Ikenoue, B.</author>
+      <author>Imam, S.</author>
+      <author>Inayoshi, K.</author>
+      <author>Ingram, C.</author>
+      <author>Inoue, Y.</author>
+      <author>Inta, R.</author>
+      <author>Intini, G.</author>
+      <author>Ioka, K.</author>
+      <author>Irwin, B.</author>
+      <author>Isa, H.N.</author>
+      <author>Isac, J.M.</author>
+      <author>Isi, M.</author>
+      <author>Itoh, Y.</author>
+      <author>Iyer, B.R.</author>
+      <author>Izumi, K.</author>
+      <author>Jacqmin, T.</author>
+      <author>Jadhav, S.J.</author>
+      <author>Jani, K.</author>
+      <author>Janthalur, N.N.</author>
+      <author>Jaranowski, P.</author>
+      <author>Jenkins, A.C.</author>
+      <author>Jiang, J.</author>
+      <author>Johnson, D.S.</author>
+      <author>Jones, A.W.</author>
+      <author>Jones, D.I.</author>
+      <author>Jones, R.</author>
+      <author>Jonker, R.J.G.</author>
+      <author>Ju, L.</author>
+      <author>Jung, K.</author>
+      <author>Jung, P.</author>
+      <author>Junker, J.</author>
+      <author>Kajita, T.</author>
+      <author>Kalaghatgi, C.V.</author>
+      <author>Kalogera, V.</author>
+      <author>Kamai, B.</author>
+      <author>Kamiizumi, M.</author>
+      <author>Kanda, N.</author>
+      <author>Kandhasamy, S.</author>
+      <author>Kang, G.W.</author>
+      <author>Kanner, J.B.</author>
+      <author>Kapadia, S.J.</author>
+      <author>Karki, S.</author>
+      <author>Karvinen, K.S.</author>
+      <author>Kashyap, R.</author>
+      <author>Kasprzack, M.</author>
+      <author>Katsanevas, S.</author>
+      <author>Katsavounidis, E.</author>
+      <author>Katzman, W.</author>
+      <author>Kaufer, S.</author>
+      <author>Kawabe, K.</author>
+      <author>Kawaguchi, K.</author>
+      <author>Kawai, N.</author>
+      <author>Kawasaki, T.</author>
+      <author>Keerthana, N.V.</author>
+      <author>Kéfélian, F.</author>
+      <author>Keitel, D.</author>
+      <author>Kennedy, R.</author>
+      <author>Key, J.S.</author>
+      <author>Khalili, F.Y.</author>
+      <author>Khan, H.</author>
+      <author>Khan, I.</author>
+      <author>Khan, S.</author>
+      <author>Khan, Z.</author>
+      <author>Khazanov, E.A.</author>
+      <author>Khursheed, M.</author>
+      <author>Kijbunchoo, N.</author>
+      <author>Kim, Chunglee</author>
+      <author>Kim, C.</author>
+      <author>Kim, J.C.</author>
+      <author>Kim, J.</author>
+      <author>Kim, K.</author>
+      <author>Kim, W.</author>
+      <author>Kim, W.S.</author>
+      <author>Kim, Y.M.</author>
+      <author>Kimball, C.</author>
+      <author>Kimura, N.</author>
+      <author>King, E.J.</author>
+      <author>King, P.J.</author>
+      <author>Kinley-Hanlon, M.</author>
+      <author>Kirchhoff, R.</author>
+      <author>Kissel, J.S.</author>
+      <author>Kita, N.</author>
+      <author>Kitazawa, H.</author>
+      <author>Kleybolte, L.</author>
+      <author>Klika, J.H.</author>
+      <author>Klimenko, S.</author>
+      <author>Knowles, T.D.</author>
+      <author>Knyazev, E.</author>
+      <author>Koch, P.</author>
+      <author>Koehlenbeck, S.M.</author>
+      <author>Koekoek, G.</author>
+      <author>Kojima, Y.</author>
+      <author>Kokeyama, K.</author>
+      <author>Koley, S.</author>
+      <author>Komori, K.</author>
+      <author>Kondrashov, V.</author>
+      <author>Kong, A.K.H.</author>
+      <author>Kontos, A.</author>
+      <author>Koper, N.</author>
+      <author>Korobko, M.</author>
+      <author>Korth, W.Z.</author>
+      <author>Kotake, K.</author>
+      <author>Kowalska, I.</author>
+      <author>Kozak, D.B.</author>
+      <author>Kozakai, C.</author>
+      <author>Kozu, R.</author>
+      <author>Kringel, V.</author>
+      <author>Krishnendu, N.</author>
+      <author>Królak, A.</author>
+      <author>Kuehn, G.</author>
+      <author>Kumar, A.</author>
+      <author>Kumar, P.</author>
+      <author>Kumar, Rahul</author>
+      <author>Kumar, R.</author>
+      <author>Kumar, S.</author>
+      <author>Kume, J.</author>
+      <author>Kuo, C.M.</author>
+      <author>Kuo, H.S.</author>
+      <author>Kuo, L.</author>
+      <author>Kuroyanagi, S.</author>
+      <author>Kusayanagi, K.</author>
+      <author>Kutynia, A.</author>
+      <author>Kwak, K.</author>
+      <author>Kwang, S.</author>
+      <author>Lackey, B.D.</author>
+      <author>Lai, K.H.</author>
+      <author>Lam, T.L.</author>
+      <author>Landry, M.</author>
+      <author>Lane, B.B.</author>
+      <author>Lang, R.N.</author>
+      <author>Lange, J.</author>
+      <author>Lantz, B.</author>
+      <author>Lanza, R.K.</author>
+      <author>Lartaux-Vollard, A.</author>
+      <author>Lasky, P.D.</author>
+      <author>Laxen, M.</author>
+      <author>Lazzarini, A.</author>
+      <author>Lazzaro, C.</author>
+      <author>Leaci, P.</author>
+      <author>Leavey, S.</author>
+      <author>Lecoeuche, Y.K.</author>
+      <author>Lee, C.H.</author>
+      <author>Lee, H.K.</author>
+      <author>Lee, H.M.</author>
+      <author>Lee, H.W.</author>
+      <author>Lee, J.</author>
+      <author>Lee, K.</author>
+      <author>Lee, R.K.</author>
+      <author>Lehmann, J.</author>
+      <author>Lenon, A.</author>
+      <author>Leonardi, M.</author>
+      <author>Leroy, N.</author>
+      <author>Letendre, N.</author>
+      <author>Levin, Y.</author>
+      <author>Li, J.</author>
+      <author>Li, K.J.L.</author>
+      <author>Li, T.G.F.</author>
+      <author>Li, X.</author>
+      <author>Lin, C.Y.</author>
+      <author>Lin, F.</author>
+      <author>Lin, F.L.</author>
+      <author>Lin, L.C.C.</author>
+      <author>Linde, F.</author>
+      <author>Linker, S.D.</author>
+      <author>Littenberg, T.B.</author>
+      <author>Liu, G.C.</author>
+      <author>Liu, J.</author>
+      <author>Liu, X.</author>
+      <author>Lo, R.K.L.</author>
+      <author>Lockerbie, N.A.</author>
+      <author>London, L.T.</author>
+      <author>Longo, A.</author>
+      <author>Lorenzini, M.</author>
+      <author>Loriette, V.</author>
+      <author>Lormand, M.</author>
+      <author>Losurdo, G.</author>
+      <author>Lough, J.D.</author>
+      <author>Lousto, C.O.</author>
+      <author>Lovelace, G.</author>
+      <author>Lower, M.E.</author>
+      <author>Lück, H.</author>
+      <author>Lumaca, D.</author>
+      <author>Lundgren, A.P.</author>
+      <author>Luo, L.W.</author>
+      <author>Lynch, R.</author>
+      <author>Ma, Y.</author>
+      <author>Macas, R.</author>
+      <author>Macfoy, S.</author>
+      <author>MacInnis, M.</author>
+      <author>Macleod, D.M.</author>
+      <author>Macquet, A.</author>
+      <author>Magaña-Sandoval, F.</author>
+      <author>Zertuche, L.Magaña</author>
+      <author>Magee, R.M.</author>
+      <author>Majorana, E.</author>
+      <author>Maksimovic, I.</author>
+      <author>Malik, A.</author>
+      <author>Man, N.</author>
+      <author>Mandic, V.</author>
+      <author>Mangano, V.</author>
+      <author>Mansell, G.L.</author>
+      <author>Manske, M.</author>
+      <author>Mantovani, M.</author>
+      <author>Marchesoni, F.</author>
+      <author>Marchio, M.</author>
+      <author>Marion, F.</author>
+      <author>Márka, S.</author>
+      <author>Márka, Z.</author>
+      <author>Markakis, C.</author>
+      <author>Markosyan, A.S.</author>
+      <author>Markowitz, A.</author>
+      <author>Maros, E.</author>
+      <author>Marquina, A.</author>
+      <author>Marsat, S.</author>
+      <author>Martelli, F.</author>
+      <author>Martin, I.W.</author>
+      <author>Martin, R.M.</author>
+      <author>Martynov, D.V.</author>
+      <author>Mason, K.</author>
+      <author>Massera, E.</author>
+      <author>Masserot, A.</author>
+      <author>Massinger, T.J.</author>
+      <author>Masso-Reid, M.</author>
+      <author>Mastrogiovanni, S.</author>
+      <author>Matas, A.</author>
+      <author>Matichard, F.</author>
+      <author>Matone, L.</author>
+      <author>Mavalvala, N.</author>
+      <author>Mazumder, N.</author>
+      <author>McCann, J.J.</author>
+      <author>McCarthy, R.</author>
+      <author>McClelland, D.E.</author>
+      <author>McCormick, S.</author>
+      <author>McCuller, L.</author>
+      <author>McGuire, S.C.</author>
+      <author>McIver, J.</author>
+      <author>McManus, D.J.</author>
+      <author>McRae, T.</author>
+      <author>McWilliams, S.T.</author>
+      <author>Meacher, D.</author>
+      <author>Meadors, G.D.</author>
+      <author>Mehmet, M.</author>
+      <author>Mehta, A.K.</author>
+      <author>Meidam, J.</author>
+      <author>Melatos, A.</author>
+      <author>Mendell, G.</author>
+      <author>Mercer, R.A.</author>
+      <author>Mereni, L.</author>
+      <author>Merilh, E.L.</author>
+      <author>Merzougui, M.</author>
+      <author>Meshkov, S.</author>
+      <author>Messenger, C.</author>
+      <author>Messick, C.</author>
+      <author>Metzdorff, R.</author>
+      <author>Meyers, P.M.</author>
+      <author>Miao, H.</author>
+      <author>Michel, C.</author>
+      <author>Michimura, Y.</author>
+      <author>Middleton, H.</author>
+      <author>Mikhailov, E.E.</author>
+      <author>Milano, L.</author>
+      <author>Miller, A.L.</author>
+      <author>Miller, A.</author>
+      <author>Millhouse, M.</author>
+      <author>Mills, J.C.</author>
+      <author>Milovich-Goff, M.C.</author>
+      <author>Minazzoli, O.</author>
+      <author>Minenkov, Y.</author>
+      <author>Mio, N.</author>
+      <author>Mishkin, A.</author>
+      <author>Mishra, C.</author>
+      <author>Mistry, T.</author>
+      <author>Mitra, S.</author>
+      <author>Mitrofanov, V.P.</author>
+      <author>Mitselmakher, G.</author>
+      <author>Mittleman, R.</author>
+      <author>Miyakawa, O.</author>
+      <author>Miyamoto, A.</author>
+      <author>Miyazaki, Y.</author>
+      <author>Miyo, K.</author>
+      <author>Miyoki, S.</author>
+      <author>Mo, G.</author>
+      <author>Moffa, D.</author>
+      <author>Mogushi, K.</author>
+      <author>Mohapatra, S.R.P.</author>
+      <author>Montani, M.</author>
+      <author>Moore, C.J.</author>
+      <author>Moraru, D.</author>
+      <author>Moreno, G.</author>
+      <author>Morisaki, S.</author>
+      <author>Moriwaki, Y.</author>
+      <author>Mours, B.</author>
+      <author>Mow-Lowry, C.M.</author>
+      <author>Mukherjee, Arunava</author>
+      <author>Mukherjee, D.</author>
+      <author>Mukherjee, S.</author>
+      <author>Mukund, N.</author>
+      <author>Mullavey, A.</author>
+      <author>Munch, J.</author>
+      <author>Muñiz, E.A.</author>
+      <author>Muratore, M.</author>
+      <author>Murray, P.G.</author>
+      <author>Nagano, K.</author>
+      <author>Nagano, S.</author>
+      <author>Nagar, A.</author>
+      <author>Nakamura, K.</author>
+      <author>Nakano, H.</author>
+      <author>Nakano, M.</author>
+      <author>Nakashima, R.</author>
+      <author>Nardecchia, I.</author>
+      <author>Narikawa, T.</author>
+      <author>Naticchioni, L.</author>
+      <author>Nayak, R.K.</author>
+      <author>Negishi, R.</author>
+      <author>Neilson, J.</author>
+      <author>Nelemans, G.</author>
+      <author>Nelson, T.J.N.</author>
+      <author>Nery, M.</author>
+      <author>Neunzert, A.</author>
+      <author>Ng, K.Y.</author>
+      <author>Ng, S.</author>
+      <author>Nguyen, P.</author>
+      <author>Ni, W.T.</author>
+      <author>Nichols, D.</author>
+      <author>Nishizawa, A.</author>
+      <author>Nissanke, S.</author>
+      <author>Nocera, F.</author>
+      <author>North, C.</author>
+      <author>Nuttall, L.K.</author>
+      <author>Obergaulinger, M.</author>
+      <author>Oberling, J.</author>
+      <author>O'Brien, B.D.</author>
+      <author>Obuchi, Y.</author>
+      <author>O'Dea, G.D.</author>
+      <author>Ogaki, W.</author>
+      <author>Ogin, G.H.</author>
+      <author>Oh, J.J.</author>
+      <author>Oh, S.H.</author>
+      <author>Ohashi, M.</author>
+      <author>Ohishi, N.</author>
+      <author>Ohkawa, M.</author>
+      <author>Ohme, F.</author>
+      <author>Ohta, H.</author>
+      <author>Okada, M.A.</author>
+      <author>Okutomi, K.</author>
+      <author>Oliver, M.</author>
+      <author>Oohara, K.</author>
+      <author>Ooi, C.P.</author>
+      <author>Oppermann, P.</author>
+      <author>Oram, Richard J.</author>
+      <author>O'Reilly, B.</author>
+      <author>Ormiston, R.G.</author>
+      <author>Ortega, L.F.</author>
+      <author>O'Shaughnessy, R.</author>
+      <author>Oshino, S.</author>
+      <author>Ossokine, S.</author>
+      <author>Ottaway, D.J.</author>
+      <author>Overmier, H.</author>
+      <author>Owen, B.J.</author>
+      <author>Pace, A.E.</author>
+      <author>Pagano, G.</author>
+      <author>Page, M.A.</author>
+      <author>Pai, A.</author>
+      <author>Pai, S.A.</author>
+      <author>Palamos, J.R.</author>
+      <author>Palashov, O.</author>
+      <author>Palomba, C.</author>
+      <author>Pal-Singh, A.</author>
+      <author>Pan, Huang-Wei</author>
+      <author>Pan, K.C.</author>
+      <author>Pang, B.</author>
+      <author>Pang, H.F.</author>
+      <author>Pang, P.T.H.</author>
+      <author>Pankow, C.</author>
+      <author>Pannarale, F.</author>
+      <author>Pant, B.C.</author>
+      <author>Paoletti, F.</author>
+      <author>Paoli, A.</author>
+      <author>Papa, M.A.</author>
+      <author>Parida, A.</author>
+      <author>Park, J.</author>
+      <author>Parker, W.</author>
+      <author>Pascucci, D.</author>
+      <author>Pasqualetti, A.</author>
+      <author>Passaquieti, R.</author>
+      <author>Passuello, D.</author>
+      <author>Patil, M.</author>
+      <author>Patricelli, B.</author>
+      <author>Pearlstone, B.L.</author>
+      <author>Pedersen, C.</author>
+      <author>Pedraza, M.</author>
+      <author>Pedurand, R.</author>
+      <author>Pele, A.</author>
+      <author>Arellano, F.E. Peña</author>
+      <author>Penn, S.</author>
+      <author>Perez, C.J.</author>
+      <author>Perreca, A.</author>
+      <author>Pfeiffer, H.P.</author>
+      <author>Phelps, M.</author>
+      <author>Phukon, K.S.</author>
+      <author>Piccinni, O.J.</author>
+      <author>Pichot, M.</author>
+      <author>Piergiovanni, F.</author>
+      <author>Pillant, G.</author>
+      <author>Pinard, L.</author>
+      <author>Pinto, I.</author>
+      <author>Pirello, M.</author>
+      <author>Pitkin, M.</author>
+      <author>Poggiani, R.</author>
+      <author>Pong, D.Y.T.</author>
+      <author>Ponrathnam, S.</author>
+      <author>Popolizio, P.</author>
+      <author>Porter, E.K.</author>
+      <author>Powell, J.</author>
+      <author>Prajapati, A.K.</author>
+      <author>Prasad, J.</author>
+      <author>Prasai, K.</author>
+      <author>Prasanna, R.</author>
+      <author>Pratten, G.</author>
+      <author>Prestegard, T.</author>
+      <author>Privitera, S.</author>
+      <author>Prodi, G.A.</author>
+      <author>Prokhorov, L.G.</author>
+      <author>Puncken, O.</author>
+      <author>Punturo, M.</author>
+      <author>Puppo, P.</author>
+      <author>Pürrer, M.</author>
+      <author>Qi, H.</author>
+      <author>Quetschke, V.</author>
+      <author>Quinonez, P.J.</author>
+      <author>Quintero, E.A.</author>
+      <author>Quitzow-James, R.</author>
+      <author>Raab, F.J.</author>
+      <author>Radkins, H.</author>
+      <author>Radulescu, N.</author>
+      <author>Raffai, P.</author>
+      <author>Raja, S.</author>
+      <author>Rajan, C.</author>
+      <author>Rajbhandari, B.</author>
+      <author>Rakhmanov, M.</author>
+      <author>Ramirez, K.E.</author>
+      <author>Ramos-Buades, A.</author>
+      <author>Rana, Javed</author>
+      <author>Rao, K.</author>
+      <author>Rapagnani, P.</author>
+      <author>Raymond, V.</author>
+      <author>Razzano, M.</author>
+      <author>Read, J.</author>
+      <author>Regimbau, T.</author>
+      <author>Rei, L.</author>
+      <author>Reid, S.</author>
+      <author>Reitze, D.H.</author>
+      <author>Ren, W.</author>
+      <author>Ricci, F.</author>
+      <author>Richardson, C.J.</author>
+      <author>Richardson, J.W.</author>
+      <author>Ricker, P.M.</author>
+      <author>Riles, K.</author>
+      <author>Rizzo, M.</author>
+      <author>Robertson, N.A.</author>
+      <author>Robie, R.</author>
+      <author>Robinet, F.</author>
+      <author>Rocchi, A.</author>
+      <author>Rolland, L.</author>
+      <author>Rollins, J.G.</author>
+      <author>Roma, V.J.</author>
+      <author>Romanelli, M.</author>
+      <author>Romano, R.</author>
+      <author>Romel, C.L.</author>
+      <author>Romie, J.H.</author>
+      <author>Rose, K.</author>
+      <author>Rosińska, D.</author>
+      <author>Rosofsky, S.G.</author>
+      <author>Ross, M.P.</author>
+      <author>Rowan, S.</author>
+      <author>Rüdiger, A.</author>
+      <author>Ruggi, P.</author>
+      <author>Rutins, G.</author>
+      <author>Ryan, K.</author>
+      <author>Sachdev, S.</author>
+      <author>Sadecki, T.</author>
+      <author>Sago, N.</author>
+      <author>Saito, S.</author>
+      <author>Saito, Y.</author>
+      <author>Sakai, K.</author>
+      <author>Sakai, Y.</author>
+      <author>Sakamoto, H.</author>
+      <author>Sakellariadou, M.</author>
+      <author>Sakuno, Y.</author>
+      <author>Salconi, L.</author>
+      <author>Saleem, M.</author>
+      <author>Samajdar, A.</author>
+      <author>Sammut, L.</author>
+      <author>Sanchez, E.J.</author>
+      <author>Sanchez, L.E.</author>
+      <author>Sanchis-Gual, N.</author>
+      <author>Sandberg, V.</author>
+      <author>Sanders, J.R.</author>
+      <author>Santiago, K.A.</author>
+      <author>Sarin, N.</author>
+      <author>Sassolas, B.</author>
+      <author>Sathyaprakash, B.S.</author>
+      <author>Sato, S.</author>
+      <author>Sato, T.</author>
+      <author>Sauter, O.</author>
+      <author>Savage, R.L.</author>
+      <author>Sawada, T.</author>
+      <author>Schale, P.</author>
+      <author>Scheel, M.</author>
+      <author>Scheuer, J.</author>
+      <author>Schmidt, P.</author>
+      <author>Schnabel, R.</author>
+      <author>Schofield, R.M.S.</author>
+      <author>Schönbeck, A.</author>
+      <author>Schreiber, E.</author>
+      <author>Schulte, B.W.</author>
+      <author>Schutz, B.F.</author>
+      <author>Schwalbe, S.G.</author>
+      <author>Scott, J.</author>
+      <author>Scott, S.M.</author>
+      <author>Seidel, E.</author>
+      <author>Sekiguchi, T.</author>
+      <author>Sekiguchi, Y.</author>
+      <author>Sellers, D.</author>
+      <author>Sengupta, A.S.</author>
+      <author>Sennett, N.</author>
+      <author>Sentenac, D.</author>
+      <author>Sequino, V.</author>
+      <author>Sergeev, A.</author>
+      <author>Setyawati, Y.</author>
+      <author>Shaddock, D.A.</author>
+      <author>Shaffer, T.</author>
+      <author>Shahriar, M.S.</author>
+      <author>Shaner, M.B.</author>
+      <author>Shao, L.</author>
+      <author>Sharma, P.</author>
+      <author>Shawhan, P.</author>
+      <author>Shen, H.</author>
+      <author>Shibagaki, S.</author>
+      <author>Shimizu, R.</author>
+      <author>Shimoda, T.</author>
+      <author>Shimode, K.</author>
+      <author>Shink, R.</author>
+      <author>Shinkai, H.</author>
+      <author>Shishido, T.</author>
+      <author>Shoda, A.</author>
+      <author>Shoemaker, D.H.</author>
+      <author>Shoemaker, D.M.</author>
+      <author>ShyamSundar, S.</author>
+      <author>Siellez, K.</author>
+      <author>Sieniawska, M.</author>
+      <author>Sigg, D.</author>
+      <author>Silva, A.D.</author>
+      <author>Singer, L.P.</author>
+      <author>Singh, N.</author>
+      <author>Singhal, A.</author>
+      <author>Sintes, A.M.</author>
+      <author>Sitmukhambetov, S.</author>
+      <author>Skliris, V.</author>
+      <author>Slagmolen, B.J.J.</author>
+      <author>Slaven-Blair, T.J.</author>
+      <author>Smith, J.R.</author>
+      <author>Smith, R.J.E.</author>
+      <author>Somala, S.</author>
+      <author>Somiya, K.</author>
+      <author>Son, E.J.</author>
+      <author>Sorazu, B.</author>
+      <author>Sorrentino, F.</author>
+      <author>Sotani, H.</author>
+      <author>Souradeep, T.</author>
+      <author>Sowell, E.</author>
+      <author>Spencer, A.P.</author>
+      <author>Srivastava, A.K.</author>
+      <author>Srivastava, V.</author>
+      <author>Staats, K.</author>
+      <author>Stachie, C.</author>
+      <author>Standke, M.</author>
+      <author>Steer, D.A.</author>
+      <author>Steinke, M.</author>
+      <author>Steinlechner, J.</author>
+      <author>Steinlechner, S.</author>
+      <author>Steinmeyer, D.</author>
+      <author>Stevenson, S.P.</author>
+      <author>Stocks, D.</author>
+      <author>Stone, R.</author>
+      <author>Stops, D.J.</author>
+      <author>Strain, K.A.</author>
+      <author>Stratta, G.</author>
+      <author>Strigin, S.E.</author>
+      <author>Strunk, A.</author>
+      <author>Sturani, R.</author>
+      <author>Stuver, A.L.</author>
+      <author>Sudhir, V.</author>
+      <author>Sugimoto, R.</author>
+      <author>Summerscales, T.Z.</author>
+      <author>Sun, L.</author>
+      <author>Sunil, S.</author>
+      <author>Suresh, J.</author>
+      <author>Sutton, P.J.</author>
+      <author>Suzuki, Takamasa</author>
+      <author>Suzuki, Toshikazu</author>
+      <author>Swinkels, B.L.</author>
+      <author>Szczepańczyk, M.J.</author>
+      <author>Tacca, M.</author>
+      <author>Tagoshi, H.</author>
+      <author>Tait, S.C.</author>
+      <author>Takahashi, H.</author>
+      <author>Takahashi, R.</author>
+      <author>Takamori, A.</author>
+      <author>Takano, S.</author>
+      <author>Takeda, H.</author>
+      <author>Takeda, M.</author>
+      <author>Talbot, C.</author>
+      <author>Talukder, D.</author>
+      <author>Tanaka, H.</author>
+      <author>Tanaka, Kazuyuki</author>
+      <author>Tanaka, Kenta</author>
+      <author>Tanaka, Taiki</author>
+      <author>Tanaka, Takahiro</author>
+      <author>Tanioka, S.</author>
+      <author>Tanner, D.B.</author>
+      <author>Tápai, M.</author>
+      <author>Martin, E.N. Tapia San</author>
+      <author>Taracchini, A.</author>
+      <author>Tasson, J.D.</author>
+      <author>Taylor, R.</author>
+      <author>Telada, S.</author>
+      <author>Thies, F.</author>
+      <author>Thomas, M.</author>
+      <author>Thomas, P.</author>
+      <author>Thondapu, S.R.</author>
+      <author>Thorne, K.A.</author>
+      <author>Thrane, E.</author>
+      <author>Tiwari, Shubhanshu</author>
+      <author>Tiwari, Srishti</author>
+      <author>Tiwari, V.</author>
+      <author>Toland, K.</author>
+      <author>Tomaru, T.</author>
+      <author>Tomigami, Y.</author>
+      <author>Tomura, T.</author>
+      <author>Tonelli, M.</author>
+      <author>Tornasi, Z.</author>
+      <author>Torres-Forné, A.</author>
+      <author>Torrie, C.I.</author>
+      <author>Töyrä, D.</author>
+      <author>Travasso, F.</author>
+      <author>Traylor, G.</author>
+      <author>Tringali, M.C.</author>
+      <author>Trovato, A.</author>
+      <author>Trozzo, L.</author>
+      <author>Trudeau, R.</author>
+      <author>Tsang, K.W.</author>
+      <author>Tsang, T.T.L.</author>
+      <author>Tse, M.</author>
+      <author>Tso, R.</author>
+      <author>Tsubono, K.</author>
+      <author>Tsuchida, S.</author>
+      <author>Tsukada, L.</author>
+      <author>Tsuna, D.</author>
+      <author>Tsuzuki, T.</author>
+      <author>Tuyenbayev, D.</author>
+      <author>Uchikata, N.</author>
+      <author>Uchiyama, T.</author>
+      <author>Ueda, A.</author>
+      <author>Uehara, T.</author>
+      <author>Ueno, K.</author>
+      <author>Ueshima, G.</author>
+      <author>Ugolini, D.</author>
+      <author>Unnikrishnan, C.S.</author>
+      <author>Uraguchi, F.</author>
+      <author>Urban, A.L.</author>
+      <author>Ushiba, T.</author>
+      <author>Usman, S.A.</author>
+      <author>Vahlbruch, H.</author>
+      <author>Vajente, G.</author>
+      <author>Valdes, G.</author>
+      <author>van Bakel, N.</author>
+      <author>van Beuzekom, M.</author>
+      <author>van den Brand, J.F.J.</author>
+      <author>Broeck, C.Van Den</author>
+      <author>Vander-Hyde, D.C.</author>
+      <author>van der Schaaf, L.</author>
+      <author>van Heijningen, J.V.</author>
+      <author>van Putten, M.H.P.M.</author>
+      <author>van Veggel, A.A.</author>
+      <author>Vardaro, M.</author>
+      <author>Varma, V.</author>
+      <author>Vass, S.</author>
+      <author>Vasúth, M.</author>
+      <author>Vecchio, A.</author>
+      <author>Vedovato, G.</author>
+      <author>Veitch, J.</author>
+      <author>Veitch, P.J.</author>
+      <author>Venkateswara, K.</author>
+      <author>Venugopalan, G.</author>
+      <author>Verkindt, D.</author>
+      <author>Vetrano, F.</author>
+      <author>Viceré, A.</author>
+      <author>Viets, A.D.</author>
+      <author>Vine, D.J.</author>
+      <author>Vinet, J.Y.</author>
+      <author>Vitale, S.</author>
+      <author>Vivanco, Francisco Hernandez</author>
+      <author>Vo, T.</author>
+      <author>Vocca, H.</author>
+      <author>Vorvick, C.</author>
+      <author>Vyatchanin, S.P.</author>
+      <author>Wade, A.R.</author>
+      <author>Wade, L.E.</author>
+      <author>Wade, M.</author>
+      <author>Walet, R.</author>
+      <author>Walker, M.</author>
+      <author>Wallace, L.</author>
+      <author>Walsh, S.</author>
+      <author>Wang, G.</author>
+      <author>Wang, H.</author>
+      <author>Wang, J.</author>
+      <author>Wang, J.Z.</author>
+      <author>Wang, W.H.</author>
+      <author>Wang, Y.F.</author>
+      <author>Ward, R.L.</author>
+      <author>Warden, Z.A.</author>
+      <author>Warner, J.</author>
+      <author>Was, M.</author>
+      <author>Watchi, J.</author>
+      <author>Weaver, B.</author>
+      <author>Wei, L.W.</author>
+      <author>Weinert, M.</author>
+      <author>Weinstein, A.J.</author>
+      <author>Weiss, R.</author>
+      <author>Wellmann, F.</author>
+      <author>Wen, L.</author>
+      <author>Wessel, E.K.</author>
+      <author>Weßels, P.</author>
+      <author>Westhouse, J.W.</author>
+      <author>Wette, K.</author>
+      <author>Whelan, J.T.</author>
+      <author>Whiting, B.F.</author>
+      <author>Whittle, C.</author>
+      <author>Wilken, D.M.</author>
+      <author>Williams, D.</author>
+      <author>Williamson, A.R.</author>
+      <author>Willis, J.L.</author>
+      <author>Willke, B.</author>
+      <author>Wimmer, M.H.</author>
+      <author>Winkler, W.</author>
+      <author>Wipf, C.C.</author>
+      <author>Wittel, H.</author>
+      <author>Woan, G.</author>
+      <author>Woehler, J.</author>
+      <author>Wofford, J.K.</author>
+      <author>Worden, J.</author>
+      <author>Wright, J.L.</author>
+      <author>Wu, C.M.</author>
+      <author>Wu, D.S.</author>
+      <author>Wu, H.C.</author>
+      <author>Wu, S.R.</author>
+      <author>Wysocki, D.M.</author>
+      <author>Xiao, L.</author>
+      <author>Xu, W.R.</author>
+      <author>Yamada, T.</author>
+      <author>Yamamoto, H.</author>
+      <author>Yamamoto, Kazuhiro</author>
+      <author>Yamamoto, Kohei</author>
+      <author>Yamamoto, T.</author>
+      <author>Yancey, C.C.</author>
+      <author>Yang, L.</author>
+      <author>Yap, M.J.</author>
+      <author>Yazback, M.</author>
+      <author>Yeeles, D.W.</author>
+      <author>Yokogawa, K.</author>
+      <author>Yokoyama, J.</author>
+      <author>Yokozawa, T.</author>
+      <author>Yoshioka, T.</author>
+      <author>Yu, Hang</author>
+      <author>Yu, Haocun</author>
+      <author>Yuen, S.H.R.</author>
+      <author>Yuzurihara, H.</author>
+      <author>Yvert, M.</author>
+      <author>Zadrożny, A.K.</author>
+      <author>Zanolin, M.</author>
+      <author>Zeidler, S.</author>
+      <author>Zelenova, T.</author>
+      <author>Zendri, J.P.</author>
+      <author>Zevin, M.</author>
+      <author>Zhang, J.</author>
+      <author>Zhang, L.</author>
+      <author>Zhang, T.</author>
+      <author>Zhao, C.</author>
+      <author>Zhao, Y.</author>
+      <author>Zhou, M.</author>
+      <author>Zhou, Z.</author>
+      <author>Zhu, X.J.</author>
+      <author>Zhu, Z.H.</author>
+      <author>Zimmerman, A.B.</author>
+      <author>Zucker, M.E.</author>
+      <author>Zweizig, J.</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Prospects for observing and localizing gravitational-wave transients with Advanced LIGO, Advanced Virgo and KAGRA</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-020-00026-9</electronic-resource-num>
+  <pages>3</pages>
+  <volume>23</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Gravitational-wave detectors</keyword>
+    <keyword>Electromagnetic counterparts</keyword>
+    <keyword>Data analysis</keyword>
+  </keywords>
+  <dates>
+    <year>2020</year>
+    <pub-dates>
+      <date>2020-09-28</date>
+    </pub-dates>
+  </dates>
+  <abstract>We present our current best estimate of the plausible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next several years, with the intention of providing information to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals for the third (O3), fourth (O4) and fifth observing (O5) runs, including the planned upgrades of the Advanced LIGO and Advanced Virgo detectors. We study the capability of the network to determine the sky location of the source for gravitational-wave signals from the inspiral of binary systems of compact objects, that is binary neutron star, neutron star–black hole, and binary black hole systems. The ability to localize the sources is given as a sky-area probability, luminosity distance, and comoving volume. The median sky localization area (90% credible region) is expected to be a few hundreds of square degrees for all types of binary systems during O3 with the Advanced LIGO and Virgo (HLV) network. The median sky localization area will improve to a few tens of square degrees during O4 with the Advanced LIGO, Virgo, and KAGRA (HLVK) network. During O3, the median localization volume (90% credible region) is expected to be on the order of $10^{5}, 10^{6}, 10^{7}\mathrm {\ Mpc}^3$ for binary neutron star, neutron star–black hole, and binary black hole systems, respectively. The localization volume in O4 is expected to be about a factor two smaller than in O3. We predict a detection count of $1^{+12}_{-1}$($10^{+52}_{-10}$) for binary neutron star mergers, of $0^{+19}_{-0}$($1^{+91}_{-1}$) for neutron star–black hole mergers, and $17^{+22}_{-11}$($79^{+89}_{-44}$) for binary black hole mergers in a one-calendar-year observing run of the HLV network during O3 (HLVK network during O4). We evaluate sensitivity and localization expectations for unmodeled signal searches, including the search for intermediate mass black hole binary mergers.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
@@ -3472,6 +4820,9 @@
   <pages>11</pages>
   <volume>8</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-d-4</keyword>
+  </keywords>
   <dates>
     <year>2005</year>
   </dates>
@@ -3532,6 +4883,9 @@
   <pages>3</pages>
   <volume>9</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-2</keyword>
+  </keywords>
   <dates>
     <year>2006</year>
   </dates>
@@ -3552,6 +4906,9 @@
   <pages>9</pages>
   <volume>8</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:I-f-6</keyword>
+  </keywords>
   <dates>
     <year>2005</year>
   </dates>
@@ -3594,6 +4951,9 @@
   <pages>5</pages>
   <volume>8</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-2</keyword>
+  </keywords>
   <dates>
     <year>2005</year>
   </dates>
@@ -3777,6 +5137,9 @@
   <pages>7</pages>
   <volume>7</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:III-d-4</keyword>
+  </keywords>
   <dates>
     <year>2004</year>
   </dates>
@@ -3900,6 +5263,9 @@
   <pages>6</pages>
   <volume>7</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IVa</keyword>
+  </keywords>
   <dates>
     <year>2004</year>
   </dates>
@@ -4060,6 +5426,9 @@
   <pages>3</pages>
   <volume>5</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IVc</keyword>
+  </keywords>
   <dates>
     <year>2002</year>
   </dates>
@@ -4160,6 +5529,9 @@
   <pages>4</pages>
   <volume>4</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-2</keyword>
+  </keywords>
   <dates>
     <year>2001</year>
   </dates>
@@ -4246,6 +5618,9 @@
   <pages>5</pages>
   <volume>3</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IVa</keyword>
+  </keywords>
   <dates>
     <year>2000</year>
   </dates>
@@ -4266,6 +5641,9 @@
   <pages>1</pages>
   <volume>4</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-g-1</keyword>
+  </keywords>
   <dates>
     <year>2001</year>
   </dates>
@@ -4326,6 +5704,9 @@
   <pages>4</pages>
   <volume>2</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-4</keyword>
+  </keywords>
   <dates>
     <year>1999</year>
   </dates>
@@ -4346,6 +5727,9 @@
   <pages>6</pages>
   <volume>4</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-4</keyword>
+  </keywords>
   <dates>
     <year>2001</year>
   </dates>
@@ -4367,6 +5751,9 @@
   <pages>2</pages>
   <volume>2</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-b-3</keyword>
+  </keywords>
   <dates>
     <year>1999</year>
   </dates>
@@ -4428,6 +5815,9 @@
   <pages>13</pages>
   <volume>1</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-5</keyword>
+  </keywords>
   <dates>
     <year>1998</year>
   </dates>
@@ -4609,6 +5999,9 @@
   <pages>1</pages>
   <volume>1</volume>
   <number/>
+  <keywords>
+    <keyword>inspirereview:IV-a-5</keyword>
+  </keywords>
   <dates>
     <year>1998</year>
   </dates>
