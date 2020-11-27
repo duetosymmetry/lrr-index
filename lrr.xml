@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 147 -->
+<!-- Search-Engine-Total-Number-Of-Results: 148 -->
 <xml>
 <records>
 <record>
@@ -1348,6 +1348,31 @@
     </pub-dates>
   </dates>
   <abstract>We present our current best estimate of the plausible observing scenarios for the Advanced LIGO, Advanced Virgo and KAGRA gravitational-wave detectors over the next several years, with the intention of providing information to facilitate planning for multi-messenger astronomy with gravitational waves. We estimate the sensitivity of the network to transient gravitational-wave signals for the third (O3), fourth (O4) and fifth observing (O5) runs, including the planned upgrades of the Advanced LIGO and Advanced Virgo detectors. We study the capability of the network to determine the sky location of the source for gravitational-wave signals from the inspiral of binary systems of compact objects, that is binary neutron star, neutron star–black hole, and binary black hole systems. The ability to localize the sources is given as a sky-area probability, luminosity distance, and comoving volume. The median sky localization area (90% credible region) is expected to be a few hundreds of square degrees for all types of binary systems during O3 with the Advanced LIGO and Virgo (HLV) network. The median sky localization area will improve to a few tens of square degrees during O4 with the Advanced LIGO, Virgo, and KAGRA (HLVK) network. During O3, the median localization volume (90% credible region) is expected to be on the order of $10^{5}, 10^{6}, 10^{7}\mathrm {\ Mpc}^3$ for binary neutron star, neutron star–black hole, and binary black hole systems, respectively. The localization volume in O4 is expected to be about a factor two smaller than in O3. We predict a detection count of $1^{+12}_{-1}$($10^{+52}_{-10}$) for binary neutron star mergers, of $0^{+19}_{-0}$($1^{+91}_{-1}$) for neutron star–black hole mergers, and $17^{+22}_{-11}$($79^{+89}_{-44}$) for binary black hole mergers in a one-calendar-year observing run of the HLV network during O3 (HLVK network during O4). We evaluate sensitivity and localization expectations for unmodeled signal searches, including the search for intermediate mass black hole binary mergers.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Marcowith, A.</author>
+      <author>Ferrand, G.</author>
+      <author>Grech, M.</author>
+      <author>Meliani, Z.</author>
+      <author>Plotnikov, I.</author>
+      <author>Walder, R.</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Multi-scale simulations of particle acceleration in astrophysical systems</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41115-020-0007-6</electronic-resource-num>
+  <pages>1</pages>
+  <volume>6</volume>
+  <number/>
+  <dates>
+    <year>2020</year>
+  </dates>
+  <abstract>This review aims at providing an up-to-date status and a general introduction to the subject of the numerical study of energetic particle acceleration and transport in turbulent astrophysical flows. The subject is also complemented by a short overview of recent progresses obtained in the domain of laser plasma experiments. We review the main physical processes at the heart of the production of a non-thermal distribution in both Newtonian and relativistic astrophysical flows, namely the first and second order Fermi acceleration processes. We also discuss shock drift and surfing acceleration, two processes important in the context of particle injection in shock acceleration. We analyze with some details the particle-in-cell (PIC) approach used to describe particle kinetics. We review the main results obtained with PIC simulations in the recent years concerning particle acceleration at shocks and in reconnection events. The review discusses the solution of Fokker-Planck problems with application to the study of particle acceleration at shocks but also in hot coronal plasmas surrounding compact objects. We continue by considering large scale physics. We describe recent developments in magnetohydrodynamic (MHD) simulations. We give a special emphasize on the way energetic particle dynamics can be coupled to MHD solutions either using a multi-fluid calculation or directly coupling kinetic and fluid calculations. This aspect is mandatory to investigate the acceleration of particles in the deep relativistic regimes to explain the highest Cosmic Ray energies.</abstract>
 </record>
 
 <record>
