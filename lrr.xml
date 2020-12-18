@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 148 -->
+<!-- Search-Engine-Total-Number-Of-Results: 149 -->
 <xml>
 <records>
 <record>
@@ -1432,6 +1432,43 @@
     </pub-dates>
   </dates>
   <abstract>The coalescence of double neutron star (NS–NS) and black hole (BH)–NS binaries are prime sources of gravitational waves (GW) for Advanced LIGO/Virgo and future ground-based detectors. Neutron-rich matter released from such events undergoes rapid neutron capture (r-process) nucleosynthesis as it decompresses into space, enriching our universe with rare heavy elements like gold and platinum. Radioactive decay of these unstable nuclei powers a rapidly evolving, approximately isotropic thermal transient known as a “kilonova”, which probes the physical conditions during the merger and its aftermath. Here I review the history and physics of kilonovae, leading to the current paradigm of day-timescale emission at optical wavelengths from lanthanide-free components of the ejecta, followed by week-long emission with a spectral peak in the near-infrared (NIR). These theoretical predictions, as compiled in the original version of this review, were largely confirmed by the transient optical/NIR counterpart discovered to the first NS–NS merger, GW170817, discovered by LIGO/Virgo. Using a simple light curve model to illustrate the essential physical processes and their application to GW170817, I then introduce important variations about the standard picture which may be observable in future mergers. These include $\sim $hour-long UV precursor emission, powered by the decay of free neutrons in the outermost ejecta layers or shock-heating of the ejecta by a delayed ultra-relativistic outflow, and enhancement of the luminosity from a long-lived central engine, such as an accreting BH or millisecond magnetar. Joint GW and kilonova observations of GW170817 and future events provide a new avenue to constrain the astrophysical origin of the r-process elements and the equation of state of dense nuclear matter.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Burns, Eric</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Neutron Star Mergers and How to Study Them</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-020-00028-7</electronic-resource-num>
+  <pages>4</pages>
+  <volume>23</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>gravitational waves</keyword>
+    <keyword>neutron stars</keyword>
+    <keyword>black holes</keyword>
+    <keyword>nucleosynthesis</keyword>
+    <keyword>cosmology</keyword>
+    <keyword>equation of state</keyword>
+    <keyword>Gravitational waves</keyword>
+    <keyword>Neutron stars</keyword>
+    <keyword>Black holes</keyword>
+    <keyword>Nucleosynthesis</keyword>
+    <keyword>Cosmology</keyword>
+    <keyword>Equation of state</keyword>
+  </keywords>
+  <dates>
+    <year>2020</year>
+    <pub-dates>
+      <date>2020-11-26</date>
+    </pub-dates>
+  </dates>
+  <abstract>Neutron star mergers are the canonical multimessenger events: they have been observed through photons for half a century, gravitational waves since 2017, and are likely to be sources of neutrinos and cosmic rays.Studies of these events enable unique insights into astrophysics, particles in the ultrarelativistic regime, the heavy element enrichment history through cosmic time, cosmology, dense matter, and fundamental physics. Uncovering this science requires vast observational resources, unparalleled coordination, and advancements in theory and simulation, which are constrained by our current understanding of nuclear, atomic, and astroparticle physics. This review begins with a summary of our current knowledge of these events, the expected observational signatures, and estimated detection rates for the next decade. I then present the key observations necessary to advance our understanding of these sources, followed by the broad science this enables. I close with a discussion on the necessary future capabilities to fully utilize these enigmatic sources to understand our universe.</abstract>
 </record>
 
 <record>
