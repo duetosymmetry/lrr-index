@@ -89,6 +89,9 @@ def LRRIndexFromXMLTree(root, superseded, preamble):
     allPapers = papersFromXMLTree(root)
     papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
 
+    print("{} papers after removing {} superseded".format(len(papers), len(superseded)),
+          file=sys.stderr)
+
     # Make a list of all of the (author, paper) pairs, for *every*
     # author of a paper. Sort this list by the last names of the
     # authors.
