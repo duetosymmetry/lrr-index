@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 149 -->
+<!-- Search-Engine-Total-Number-Of-Results: 150 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Dhurandhar, Sanjeev V.</author>
+      <author>Tinto, Massimo</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>Time-delay interferometry</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-020-00029-6</electronic-resource-num>
+  <pages>1</pages>
+  <volume>24</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Interferometry</keyword>
+    <keyword>Gravitational-wave detectors</keyword>
+  </keywords>
+  <dates>
+    <year>2021</year>
+    <pub-dates>
+      <date>2020-12-15</date>
+    </pub-dates>
+  </dates>
+  <abstract>Equal-arm detectors of gravitational radiation allow phase measurements many orders of magnitude below the intrinsic phase stability of the laser injecting light into their arms. This is because the noise in the laser light is common to both arms, experiencing exactly the same delay, and thus cancels when it is differenced at the photo detector. In this situation, much lower level secondary noises then set the overall performance. If, however, the two arms have different lengths (as will necessarily be the case with space-borne interferometers), the laser noise experiences different delays in the two arms and will hence not directly cancel at the photo detector. To solve this problem, a technique involving heterodyne interferometry with unequal arm lengths and independent phase-difference readouts has been proposed. It relies on properly time-shifting and linearly combining independent Doppler measurements, and for this reason it has been called time-delay interferometry (TDI). This article provides an overview of the theory, mathematical foundations, and experimental aspects associated with the implementation of TDI. Although emphasis on the application of TDI to the Laser Interferometer Space Antenna mission appears throughout this article, TDI can be incorporated into the design of any future space-based mission aiming to search for gravitational waves via interferometric measurements. We have purposely left out all theoretical aspects that data analysts will need to account for when analyzing the TDI data combinations.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
