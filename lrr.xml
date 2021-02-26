@@ -5,8 +5,8 @@
 <record>
   <contributors>
     <authors>
-      <author>Dhurandhar, Sanjeev V.</author>
       <author>Tinto, Massimo</author>
+      <author>Dhurandhar, Sanjeev V.</author>
     </authors>
   </contributors>
   <titles>
@@ -1381,31 +1381,6 @@
 <record>
   <contributors>
     <authors>
-      <author>Marcowith, A.</author>
-      <author>Ferrand, G.</author>
-      <author>Grech, M.</author>
-      <author>Meliani, Z.</author>
-      <author>Plotnikov, I.</author>
-      <author>Walder, R.</author>
-    </authors>
-  </contributors>
-  <titles>
-    <title>Multi-scale simulations of particle acceleration in astrophysical systems</title>
-    <secondary-title>Living Rev.Rel.</secondary-title>
-  </titles>
-  <electronic-resource-num>10.1007/s41115-020-0007-6</electronic-resource-num>
-  <pages>1</pages>
-  <volume>6</volume>
-  <number/>
-  <dates>
-    <year>2020</year>
-  </dates>
-  <abstract>This review aims at providing an up-to-date status and a general introduction to the subject of the numerical study of energetic particle acceleration and transport in turbulent astrophysical flows. The subject is also complemented by a short overview of recent progresses obtained in the domain of laser plasma experiments. We review the main physical processes at the heart of the production of a non-thermal distribution in both Newtonian and relativistic astrophysical flows, namely the first and second order Fermi acceleration processes. We also discuss shock drift and surfing acceleration, two processes important in the context of particle injection in shock acceleration. We analyze with some details the particle-in-cell (PIC) approach used to describe particle kinetics. We review the main results obtained with PIC simulations in the recent years concerning particle acceleration at shocks and in reconnection events. The review discusses the solution of Fokker-Planck problems with application to the study of particle acceleration at shocks but also in hot coronal plasmas surrounding compact objects. We continue by considering large scale physics. We describe recent developments in magnetohydrodynamic (MHD) simulations. We give a special emphasize on the way energetic particle dynamics can be coupled to MHD solutions either using a multi-fluid calculation or directly coupling kinetic and fluid calculations. This aspect is mandatory to investigate the acceleration of particles in the deep relativistic regimes to explain the highest Cosmic Ray energies.</abstract>
-</record>
-
-<record>
-  <contributors>
-    <authors>
       <author>Harms, Jan</author>
     </authors>
   </contributors>
@@ -1625,6 +1600,34 @@
     </pub-dates>
   </dates>
   <abstract>Quantum fluctuation of light limits the sensitivity of advanced laser interferometric gravitational-wave detectors. It is one of the principal obstacles on the way towards the next-generation gravitational-wave observatories. The envisioned significant improvement of the detector sensitivity requires using quantum non-demolition measurement and back-action evasion techniques, which allow us to circumvent the sensitivity limit imposed by the Heisenberg uncertainty principle. In our previous review article (Danilishin and Khalili in Living Rev Relativ 15:5, 2012), we laid down the basic principles of quantum measurement theory and provided the framework for analysing the quantum noise of interferometers. The scope of this paper is to review novel techniques for quantum noise suppression proposed in the recent years and put them in the same framework. Our delineation of interferometry schemes and topologies is intended as an aid in the process of selecting the design for the next-generation gravitational-wave observatories.</abstract>
+</record>
+
+<record>
+  <contributors>
+    <authors>
+      <author>Zaffaroni, Alberto</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>AdS black holes, holography and localization</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-020-00027-8</electronic-resource-num>
+  <pages>2</pages>
+  <volume>23</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Black hole entropy</keyword>
+    <keyword>Holography</keyword>
+    <keyword>AdS/CFT</keyword>
+  </keywords>
+  <dates>
+    <year>2020</year>
+    <pub-dates>
+      <date>2020-08-28</date>
+    </pub-dates>
+  </dates>
+  <abstract>In these lectures I review some recent progresses in counting the number of microstates of AdS supersymmetric black holes in dimensions equal or greater than four using holography. The counting is obtained by applying localization and matrix model techniques to the dual field theory. I cover in details the case of dyonic AdS$_4$ black holes, corresponding to a twisted compactification of the dual field theory, and I discuss the state of the art for rotating AdS$_5$ black holes.</abstract>
 </record>
 
 <record>
@@ -2132,7 +2135,7 @@
   <electronic-resource-num>10.12942/lrr-2014-6</electronic-resource-num>
   <pages>6</pages>
   <volume>17</volume>
-  <number/>
+  <number>1</number>
   <keywords>
     <keyword>Interferometry</keyword>
     <keyword>Gravitational-wave detectors</keyword>
@@ -2140,7 +2143,7 @@
   <dates>
     <year>2014</year>
     <pub-dates>
-      <date>2014</date>
+      <date>2014-08-05</date>
     </pub-dates>
   </dates>
   <abstract>Equal-arm detectors of gravitational radiation allow phase measurements many orders of magnitude below the intrinsic phase stability of the laser injecting light into their arms. This is because the noise in the laser light is common to both arms, experiencing exactly the same delay, and thus cancels when it is differenced at the photo detector. In this situation, much lower level secondary noises then set the overall performance. If, however, the two arms have different lengths (as will necessarily be the case with space-borne interferometers), the laser noise experiences different delays in the two arms and will hence not directly cancel at the detector. In order to solve this problem, a technique involving heterodyne interferometry with unequal arm lengths and independent phase-difference readouts has been proposed. It relies on properly time-shifting and linearly combining independent Doppler measurements, and for this reason it has been called time-delay interferometry (TDI). This article provides an overview of the theory, mathematical foundations, and experimen- tal aspects associated with the implementation of TDI. Although emphasis on the application of TDI to the Laser Interferometer Space Antenna (LISA) mission appears throughout this article, TDI can be incorporated into the design of any future space-based mission aiming to search for gravitational waves via interferometric measurements. We have purposely left out all theoretical aspects that data analysts will need to account for when analyzing the TDI data combinations</abstract>
