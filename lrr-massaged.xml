@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Search-Engine-Total-Number-Of-Results: 150 -->
+<!-- Search-Engine-Total-Number-Of-Results: 151 -->
 <xml>
 <records>
+<record>
+  <contributors>
+    <authors>
+      <author>Carlotto, Alessandro</author>
+    </authors>
+  </contributors>
+  <titles>
+    <title>The general relativistic constraint equations</title>
+    <secondary-title>Living Rev.Rel.</secondary-title>
+  </titles>
+  <electronic-resource-num>10.1007/s41114-020-00030-z</electronic-resource-num>
+  <pages>2</pages>
+  <volume>24</volume>
+  <number>1</number>
+  <keywords>
+    <keyword>Einstein constraints</keyword>
+    <keyword>Initial data sets</keyword>
+    <keyword>Conformal methods</keyword>
+    <keyword>Gluing schemes</keyword>
+    <keyword>Scalar curvature prescription and deformation problems</keyword>
+  </keywords>
+  <dates>
+    <year>2021</year>
+    <pub-dates>
+      <date>2021-02-24</date>
+    </pub-dates>
+  </dates>
+  <abstract>We present the state-of-the-art concerning the relativistic constraints, which describe the geometry of hypersurfaces in a spacetime subject to the Einstein field equations. We review a variety of solvability results, the construction of several classes of solutions of special relevance and place results in the broader context of mathematical general relativity. Apart from providing an overview of the subject, this paper includes a selection of open questions, as well as a few complements to some significant contributions in the literature.</abstract>
+</record>
+
 <record>
   <contributors>
     <authors>
