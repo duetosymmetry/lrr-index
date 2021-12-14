@@ -11,39 +11,103 @@ __copyright__   = u"Copyright © 2017"
 
 import sys, string, argparse
 from urllib.request import urlopen
-import xml.etree.ElementTree as ET
+import json
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 ######################################################################
 
+def _multi_paper_find_best(entry):
+    """A helper function to find which 'publication_info' entry is
+    best, when there is more than one option.
+
+    Issues to deal with:
+    1. The 'publication_info' array seems to be in an arbitrary order
+    2. There may be more than one 'journal' in the array
+    3. The year may be wrong
+
+    Approach that looks like it will work for LRR entries in INSPIRE
+    at the moment:
+    1. Filter down to just the elements with the correct journal
+    2. Pick the element with the largest journal_volume
+    """
+
+    possibilities = entry['metadata']['publication_info']
+    possibilities = filter( lambda p: ('journal_title' in p.keys())
+                            and
+                            p['journal_title'] == 'Living Rev.Rel.',
+                            possibilities)
+    possibilities = sorted(possibilities,
+                           key= lambda p: p['journal_volume'])
+
+    return possibilities[-1]
+
 class Paper:
-    """A single paper in LRR. Depends on INSPIRE XML format"""
-    def __init__(self, xmlElement):
-        self.title    = xmlElement.find("titles/title").text
-        self.doi      = xmlElement.find("electronic-resource-num").text
-        self.year     = xmlElement.find("dates/year").text
-        self.volume   = xmlElement.find("volume").text
-        self.number   = xmlElement.find("pages").text
-        self.abstract = xmlElement.find("abstract").text
-        self.authors  = [a.text for a in
-                         xmlElement.findall("contributors/authors/author")]
+    """A single paper in LRR. Depends on INSPIRE JSON format"""
+    def __init__(self, entry):
+
+        self.problematic = False
+
+        md = entry['metadata']
+
+        self.iid      = entry['id']
+        self.title    = md['titles'][-1]['title']
+
+        try:
+            self.doi      = md['dois'][-1]['value']
+        except:
+            logging.warning(f"missing doi field in {entry['id']}")
+            self.problematic = True
+            self.doi = 'missing'
+
+        best_pub_info = _multi_paper_find_best(entry)
+        
+        try:
+            self.year     = best_pub_info['year']
+        except:
+            logging.warning(f"missing year field in {entry['id']}")
+            self.problematic = True
+            self.year = 'missing'
+        try:
+            self.volume   = best_pub_info['journal_volume']
+        except:
+            logging.warning(f"missing journal_volume field in {entry['id']}")
+            self.problematic = True
+            self.volume = 'missing'
+        try:
+            self.number   = best_pub_info['page_start']
+        except:
+            logging.warning(f"missing page_start field in {entry['id']}")
+            self.problematic = True
+            self.number = 'missing'
+        try:
+            self.abstract = md['abstracts'][-1]['value']
+        except:
+            logging.warning(f"missing abstract field in {entry['id']}")
+            self.problematic = True
+            self.abstract = 'missing'
+
+        self.authors  = [a['full_name'] for a in
+                         md['authors']]
         # If the author list is long, call it a collaboration paper
         # and change the author list
         if (len(self.authors) > 8):
             self.authors      = [self.authors[0], 'et al.']
-            self.authorsLasts = [self.authors[0].split(',')[0]]
+            self.authorsLasts = [md['first_author']['last_name']]
         else:
-            self.authorsLasts = [author.split(',')[0]
-                                 for author in self.authors]
+            self.authorsLasts = [a['last_name'] for a in
+                                 md['authors']]
 
-def papersFromXMLTree(root):
+def papersFromJSONTree(root):
     """Parse the records in an INSPIRE search response into a list of
-    class Paper. Depends on INSPIRE XML format"""
-    return [Paper(record) for record in root.findall("records/record")]
+    class Paper. Depends on INSPIRE JSON format"""
+    return list(map(Paper, root['hits']['hits']))
 
 ######################################################################
 
 def supersededList(filename):
-    """Read a plain text file where each line is one DOI"""
+    """Read a plain text file where each line is one INSPIRE record ID"""
     with open(filename, 'r') as f:
         lines = f.readlines()
 
@@ -84,13 +148,14 @@ def formatLetters(letters):
 
 ######################################################################
 
-def LRRIndexFromXMLTree(root, superseded, preamble):
+def LRRIndexFromJSONTree(root, superseded, preamble):
     """Build the actual author index web page"""
-    allPapers = papersFromXMLTree(root)
-    papers = list(filter(lambda paper: paper.doi not in superseded, allPapers))
+    allPapers = papersFromJSONTree(root)
+    papers = list(filter(lambda paper: paper.iid not in superseded,
+                         allPapers))
 
-    print("{} papers after removing {} superseded".format(len(papers), len(superseded)),
-          file=sys.stderr)
+    logging.info("{} papers after removing {} superseded".format(len(papers),
+                                                                 len(superseded)))
 
     # Make a list of all of the (author, paper) pairs, for *every*
     # author of a paper. Sort this list by the last names of the
@@ -125,7 +190,7 @@ def LRRIndexFromXMLTree(root, superseded, preamble):
         outputPage += formatPaper(paper, number)
         number += 1
 
-    return outputPage
+    return outputPage, allPapers
 
 ######################################################################
 
@@ -135,26 +200,15 @@ def stringFromFile(filename):
 
     return string
 
-def xmlStringFromURL(url):
+def stringFromURL(url):
     return urlopen(url).read().decode('utf-8')
-
-def LRRIndexURL(url):
-    root = ET.fromstring(xmlStringFromURL(url))
-    LRRIndexFromXMLTree(root)
-    return root
-
-def LRRIndexFile(filename):
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    LRRIndexFromXMLTree(root)
-    return root
 
 ######################################################################
 
-defaultFilename = 'lrr.xml'
-defaultURL      = ('http://inspirehep.net/search'
-                   '?p=find+j+%22Living+Rev.Rel.%22'
-                   '&of=xe&rg=1000')
+defaultFilename = 'lrr.json'
+defaultURL      = ('https://inspirehep.net/api/literature'
+                   '?q=find+j+%22Living+Rev.Rel.%22'
+                   '&format=json&size=1000')
 supersededFilename = 'superseded.txt'
 preambleFilename = 'preamble.txt'
 
@@ -162,9 +216,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='lrr-index', description=__doc__)
 
     fileOrUrl = parser.add_mutually_exclusive_group(required=True)
-    fileOrUrl.add_argument('--file', nargs='?', const=defaultFilename,
-                           help='Name of XML file to read')
-    fileOrUrl.add_argument('--url',  nargs='?', const=defaultURL,
+    fileOrUrl.add_argument('--file', nargs='?',
+                           type=argparse.FileType('r'),
+                           default=defaultFilename,
+                           help='Name of JSON file to read')
+    fileOrUrl.add_argument('--url',  nargs='?',
+                           default=defaultURL,
                            help='URL of INSPIRE query')
 
     parser.add_argument('--superseded', default=supersededFilename,
@@ -180,12 +237,21 @@ if __name__ == '__main__':
 
     root = [];
     if args.file is not None:
-        tree = ET.parse(args.file)
-        root = tree.getroot()
+        root = json.load(args.file)
     else:
-        root = ET.fromstring(xmlStringFromURL(args.url))
+        root = json.loads(stringFromURL(args.url))
 
     superseded = supersededList(args.superseded)
     preamble = stringFromFile(args.preamble)
 
-    print(LRRIndexFromXMLTree(root, superseded, preamble))
+    outputPage, allPapers = LRRIndexFromJSONTree(root, superseded, preamble)
+    print(outputPage)
+
+    # Dump auxiliary info for problematic records
+
+    problematicIDs = [ paper.iid for paper in allPapers if paper.problematic ]
+    problematic = [ entry for entry in root['hits']['hits']
+                    if entry['id'] in problematicIDs ]
+
+    with open('problematic.json','w') as f:
+        json.dump(problematic, f, indent=2)
