@@ -45,7 +45,7 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   label.toggleLabel { font-size: 75%; }
   label.toggleLabel:before {
   display: inline-block;
-  font-family: FontAwesome;
+  font-family: 'Font Awesome 6 Free';
   font-size: inherit;
   content: "\f06e";
   }
