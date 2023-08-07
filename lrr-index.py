@@ -99,9 +99,16 @@ class Paper:
             self.authorsLasts = [a['last_name'] for a in
                                  md['authors']]
 
-def papersFromJSONTree(root):
+def papersFromJSONTree(root, corrections):
     """Parse the records in an INSPIRE search response into a list of
     class Paper. Depends on INSPIRE JSON format"""
+
+    paperDict = {entry['id']: entry for entry in root['hits']['hits']}
+    # Apply corrections (thanks, shallow copies!)
+    for c in corrections:
+        md = paperDict[c['id']]['metadata']
+        md.update(c['metadata'])
+
     return list(map(Paper, root['hits']['hits']))
 
 ######################################################################
@@ -148,9 +155,9 @@ def formatLetters(letters):
 
 ######################################################################
 
-def LRRIndexFromJSONTree(root, superseded, preamble):
+def LRRIndexFromJSONTree(root, superseded, preamble, corrections):
     """Build the actual author index web page"""
-    allPapers = papersFromJSONTree(root)
+    allPapers = papersFromJSONTree(root, corrections)
     papers = list(filter(lambda paper: paper.iid not in superseded,
                          allPapers))
 
@@ -211,6 +218,7 @@ defaultURL      = ('https://inspirehep.net/api/literature'
                    '&format=json&size=1000')
 supersededFilename = 'superseded.txt'
 preambleFilename = 'preamble.txt'
+correctionsFilename = 'corrections.json'
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='lrr-index', description=__doc__)
@@ -233,6 +241,12 @@ if __name__ == '__main__':
                         help=('Name of file containing preamble for'
                               ' web page to emit.'))
 
+
+    parser.add_argument('--corrections', default=correctionsFilename,
+                        type=argparse.FileType('r'),
+                        help=('Name of JSON file with corrections'
+                              ' for info missing from INSPIRE.'))
+
     args = parser.parse_args()
 
     root = [];
@@ -243,8 +257,10 @@ if __name__ == '__main__':
 
     superseded = supersededList(args.superseded)
     preamble = stringFromFile(args.preamble)
+    corrections = json.load(args.corrections)
 
-    outputPage, allPapers = LRRIndexFromJSONTree(root, superseded, preamble)
+    outputPage, allPapers = LRRIndexFromJSONTree(root, superseded,
+                                                 preamble, corrections)
     print(outputPage)
 
     # Dump auxiliary info for problematic records
@@ -255,3 +271,11 @@ if __name__ == '__main__':
 
     with open('problematic.json','w') as f:
         json.dump(problematic, f, indent=2)
+
+    # Dump auxiliary info for superseded records
+
+    supersededEntries = [ entry for entry in root['hits']['hits']
+                          if entry['id'] in superseded ]
+
+    with open('superseded.json','w') as f:
+        json.dump(supersededEntries, f, indent=2)

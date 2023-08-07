@@ -1,6 +1,6 @@
 .PHONY: lrr.xml
 
-index.html: lrr.json preamble.txt superseded.txt lrr-index.py
+index.html: lrr.json preamble.txt superseded.txt corrections.json lrr-index.py
 	./lrr-index.py --file $< > $@
 
 lrr.json:
