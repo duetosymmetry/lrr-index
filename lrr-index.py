@@ -43,6 +43,20 @@ def _multi_paper_find_best(entry):
 
     return possibilities[-1]
 
+def _doi_filter(entry):
+    """A helper function to only allow certain DOIs.
+    One (or more?) INSPIRE entry has multiple DOIs, and one comes from
+    some journal that's not LRR.
+    """
+
+    allowed_doi_starts = ['10.12942', '10.1007/s41114',  '10.1007/lrr']
+
+    allowed_dois = [doi_entry for doi_entry in entry['metadata']['dois']
+                    if any([doi_entry['value'].startswith(start)
+                            for start in allowed_doi_starts]) ]
+
+    return allowed_dois[-1]['value']
+
 class Paper:
     """A single paper in LRR. Depends on INSPIRE JSON format"""
     def __init__(self, entry):
@@ -55,7 +69,7 @@ class Paper:
         self.title    = md['titles'][-1]['title']
 
         try:
-            self.doi      = md['dois'][-1]['value']
+            self.doi      = _doi_filter(entry)
         except:
             logging.warning(f"missing doi field in {entry['id']}")
             self.problematic = True
