@@ -1,26 +1,36 @@
 [
   {
     "id": "649215", "metadata": {
+      "abstracts": [{"value":
+        "This article is intended to give a review of the history of the classical aspects of unified field theories in the 20th century. It includes brief technical descriptions of the theories suggested, short biographical notes concerning the scientists involved, and an extensive bibliography. The present first installment covers the time span between 1914 and 1933, i.e., when Einstein was living and working in Berlin — with occasional digressions into other periods. Thus, the main theme is the unification of the electromagnetic and gravitational fields augmented by short-lived attempts to include the matter field described by Schrödinger’s or Dirac’s equations. While my focus lies on the conceptual development of the field, by also paying attention to the interaction of various schools of mathematicians with the research done by physicists, some prosopocraphical remarks are included."}],
       "dois": [{"value": "10.12942/lrr-2004-2"}]
     }
   },
   {
     "id": "494603", "metadata": {
+      "abstracts": [{"value":
+        "The Navier-Stokes-Fourier theory of viscous, heat-conducting fluids provides parabolic equations and thus predicts infinite pulse speeds. Naturally this feature has disqualified the theory for relativistic thermodynamics which must insist on finite speeds and, moreover, on speeds smaller than c. The attempts at a remedy have proved heuristically important for a new systematic type of thermodynamics: Extended thermodynamics. That new theory has symmetric hyperbolic field equations and thus it provides finite pulse speeds.\n\nExtended thermodynamics is a whole hierarchy of theories with an increasing number of fields when gradients and rates of thermodynamic processes become steeper and faster. The first stage in this hierarchy is the 14-field theory which may already be a useful tool for the relativist in many applications. The 14 fields — and further fields — are conveniently chosen from the moments of the kinetic theory of gases.\n\nThe hierarchy is complete only when the number of fields tends to infinity. In that case the pulse speed of non-relativistic extended thermodynamics tends to infinity while the pulse speed of relativistic extended thermodynamics tends to c, the speed of light.\n\nIn extended thermodynamics symmetric hyperbolicity — and finite speeds — are implied by the concavity of the entropy density. This is still true in relativistic thermodynamics for a privileged entropy density which is the entropy density of the rest frame for non-degenerate gases."}],
       "dois": [{"value": "10.12942/lrr-1999-1"}]
     }
   },
   {
     "id": "898319", "metadata": {
+      "abstracts": [{"value":
+        "Gravitational-wave emission from stellar collapse has been studied for nearly four decades. Current state-of-the-art numerical investigations of collapse include those that use progenitors with more realistic angular momentum profiles, properly treat microphysics issues, account for general relativity, and examine non-axisymmetric effects in three dimensions. Such simulations predict that gravitational waves from various phenomena associated with gravitational collapse could be detectable with ground-based and space-based interferometric observatories. This review covers the entire range of stellar collapse sources of gravitational waves: from the accretion-induced collapse of a white dwarf through the collapse down to neutron stars or black holes of massive stars to the collapse of supermassive stars."}],
       "dois": [{"value": "10.12942/lrr-2011-1"}]
     }
   },
   {
     "id": "467090", "metadata": {
+      "abstracts": [{"value":
+        "I review evolutionary aspects of general relativity, in particular those related to the hyperbolic character of the field equations and to the applications or consequences that this property entails. I look at several approaches to obtaining symmetric hyperbolic systems of equations out of Einstein’s equations by either removing some gauge freedoms from them, or by considering certain linear combinations of a subset of them."}],
       "dois": [{"value": "10.12942/lrr-1998-3"}]
     }
   },
   {
     "id": "877231", "metadata": {
+      "abstracts": [{"value":
+        "The sensitivity of present ground-based gravitational wave antennas is too low to detect many events per year. It has, therefore, been planned for years to build advanced detectors allowing actual astrophysical observations and investigations. In such advanced detectors, one major issue is to increase the laser power in order to reduce shot noise. However, this is useless if the thermal noise remains at the current level in the 100 Hz spectral region, where mirrors are the main contributors. Moreover, increasing the laser power gives rise to various spurious thermal effects in the same mirrors. The main goal of the present study is to discuss these issues versus the transverse structure of the readout beam, in order to allow comparison. A number of theoretical studies and experiments have been carried out, regarding thermal noise and thermal effects. We do not discuss experimental problems, but rather focus on some theoretical results in this context about arbitrary order Laguerre-Gauss beams, and other “exotic” beams."}],
       "dois": [{"value": "10.12942/lrr-2009-5"}]
     }
   },
@@ -30,7 +40,92 @@
     }
   },
   {
+    "id": "467254", "metadata": {
+      "abstracts": [{"value":
+        "We present a brief review of current theory and observations of the cosmic microwave background (CMB). New predictions for cosmological defect theories and an overview of the inflationary theory are discussed. Recent results from various observations of the anisotropies of the microwave background are described and a summary of the proposed experiments is presented. A new analysis technique based on Bayesian statistics that can be used to reconstruct the underlying sky fluctuations is summarised. Current CMB data is used to set some preliminary constraints on the values of fundamental cosmological parameters Ω and H₀ using the maximum likelihood technique. In addition, secondary anisotropies due to the Sunyaev-Zel’dovich effect are described."}],
+      "dois": [{"value": "10.12942/lrr-1998-11"}]
+    }
+  },
+  {
+    "id": "467091", "metadata": {
+      "abstracts": [{"value":
+        "The spectrum of known black hole solutions to the stationary Einstein equations has increased in an unexpected way during the last decade. In particular, it has turned out that not all black hole equilibrium configurations are characterized by their mass, angular momentum and global charges. Moreover, the high degree of symmetry displayed by vacuum and electro-vacuum black hole space-times ceases to exist in self-gravitating non-linear field theories. This text aims to review some of the recent developments and to discuss them in the light of the uniqueness theorem for the Einstein-Maxwell system."}],
+      "dois": [{"value": "10.12942/lrr-1998-6"}]
+    }
+  },
+  {
+    "id": "766954", "metadata": {
+      "dois": [{"value": "10.12942/lrr-2012-4"}]
+    }
+  },
+  {
+    "id": "802370", "metadata": {
+      "dois": [{"value": "10.12942/lrr-2008-4"}]
+    }
+  },
+  {
+    "id": "719313", "metadata": {
+      "abstracts": [{"value":
+        "The asymptotic safety scenario in quantum gravity is reviewed, according to which a renormalizable quantum theory of the gravitational field is feasible which reconciles asymptotically safe couplings with unitarity. The evidence from symmetry truncations and from the truncated flow of the effective average action is presented in detail. A dimensional reduction phenomenon for the residual interactions in the extreme ultraviolet links both results. For practical reasons the background effective action is used as the central object in the quantum theory. In terms of it criteria for a continuum limit are formulated and the notion of a background geometry self-consistently determined by the quantum dynamics is presented. Self-contained appendices provide prerequisites on the background effective action, the effective average action, and their respective renormalization flows."}]
+    }
+  },
+  {
+    "id": "740566", "metadata": {
+      "abstracts": [{"value":
+        "This paper discusses spacecraft Doppler tracking, the current-generation detector technology used in the low-frequency (∼millihertz) gravitational wave band. In the Doppler method the earth and a distant spacecraft act as free test masses with a ground-based precision Doppler tracking system continuously monitoring the earth-spacecraft relative dimensionless velocity 2Δv/c = Δν/ν0, where Δν is the Doppler shift and ν0 is the radio link carrier frequency. A gravitational wave having strain amplitude h incident on the earth-spacecraft system causes perturbations of order h in the time series of Δν/ν0. Unlike other detectors, the ∼ 1–10 AU earth-spacecraft separation makes the detector large compared with millihertz-band gravitational wavelengths, and thus times-of-flight of signals and radio waves through the apparatus are important. A burst signal, for example, is time-resolved into a characteristic signature: three discrete events in the Doppler time series. I discuss here the principles of operation of this detector (emphasizing transfer functions of gravitational wave signals and the principal noises to the Doppler time series), some data analysis techniques, experiments to date, and illustrations of sensitivity and current detector performance. I conclude with a discussion of how gravitational wave sensitivity can be improved in the low-frequency band."}],
+      "dois": [{"value": "10.12942/lrr-2006-1"}]
+    }
+  },
+  {
+    "id": "534815", "metadata": {
+      "abstracts": [{"value":
+        "The notion of conformal infinity has a long history within the research in Einstein’s theory of gravity. Today, “conformal infinity” is related to almost all other branches of research in general relativity, from quantisation procedures to abstract mathematical issues to numerical applications. This review article attempts to show how this concept gradually and inevitably evolved from physical issues, namely the need to understand gravitational radiation and isolated systems within the theory of gravitation, and how it lends itself very naturally to the solution of radiation problems in numerical relativity. The fundamental concept of null-infinity is introduced. Friedrich’s regular conformal field equations are presented and various initial value problems for them are discussed. Finally, it is shown that the conformal field equations provide a very powerful method within numerical relativity to study global problems such as gravitational wave propagation and detection."}],
+      "dois": [{"value": "10.12942/lrr-2004-1"}]
+    }
+  },
+  {
+    "id": "603773", "metadata": {
+      "abstracts": [{"value":
+        "There is now an enormously rich variety of experimental techniques being brought to bear on experimental searches for dark matter, covering a wide range of suggested forms for it. The existence of “dark matter”, in some form or other, is inferred from a number of relatively simple observations and the problem has been known for over half a century. To explain “dark matter” is one of the foremost challenges today — the answer will be of fundamental importance to cosmologists, astrophysicists, particle physicists, and general relativists. In this article, I will give a brief review of the observational evidence (concentrating on areas of current significant activity), followed by anequally brief summary of candidate solutions for the ‘dark matter’. I will then discuss experimental searches, both direct and indirect. Finally, I will offer prospects for the future."}],
+      "dois": [{"value": "10.12942/lrr-2002-4"}]
+    }
+  },
+  {
+    "id": "802371", "metadata": {
+      "abstracts": [{"value":
+        "The problem of describing the quantum behavior of gravity, and thus understanding quantum spacetime, is still open. Loop quantum gravity is a well-developed approach to this problem. It is a mathematically well-defined background-independent quantization of general relativity, with its conventional matter couplings. Today research in loop quantum gravity forms a vast area, ranging from mathematical foundations to physical applications. Among the most significant results obtained so far are: (i) The computation of the spectra of geometrical quantities such as area and volume, which yield tentative quantitative predictions for Planck-scale physics. (ii) A physical picture of the microstructure of quantum spacetime, characterized by Planck-scale discreteness. Discreteness emerges as a standard quantum effect from the discrete spectra, and provides a mathematical realization of Wheeler’s “spacetime foam” intuition. (iii) Control of spacetime singularities, such as those in the interior of black holes and the cosmological one. This, in particular, has opened up the possibility of a theoretical investigation into the very early universe and the spacetime regions beyond the Big Bang. (iv) A derivation of the Bekenstein-Hawking black-hole entropy. (v) Low-energy calculations, yielding n-point functions well defined in a background-independent context. The theory is at the roots of, or strictly related to, a number of formalisms that have been developed for describing background-independent quantum field theory, such as spin foams, group field theory, causal spin networks, and others. I give here a general overview of ideas, techniques, results and open problems of this candidate theory of quantum gravity, and a guide to the relevant literature."}],
+      "dois": [{"value": "10.12942/lrr-2008-5"}]
+    }
+  },
+  {
+    "id": "658613", "metadata": {
+      "abstracts": [{"value":
+        "The theory of gravitational lensing is reviewed from a spacetime perspective, without quasi-Newtonian approximations. More precisely, the review covers all aspects of gravitational lensing where light propagation is described in terms of lightlike geodesics of a metric of Lorentzian signature. It includes the basic equations and the relevant techniques for calculating the position, the shape, and the brightness of images in an arbitrary general-relativistic spacetime. It also includes general theorems on the classification of caustics, on criteria for multiple imaging, and on the possible number of images. The general results are illustrated with examples of spacetimes where the lensing features can be explicitly calculated, including the Schwarzschild spacetime, the Kerr spacetime, the spacetime of a straight string, plane gravitational waves, and others."}],
+      "dois": [{"value": "10.12942/lrr-2004-9"}]
+    }
+  },
+  {
+    "id": "1252898", "metadata": {
+      "abstracts": [{"value":
+        "Lunar laser ranging (LLR) has been a workhorse for testing general relativity over the past four decades. The three retroreflector arrays put on the Moon by the Apollo astronauts and the French built arrays on the Soviet Lunokhod rovers continue to be useful targets, and have provided the most stringent tests of the Strong Equivalence Principle and the time variation of Newton’s gravitational constant. The relatively new ranging system at the Apache Point 3.5 meter telescope now routinely makes millimeter level range measurements. Incredibly, it has taken 40 years for ground station technology to advance to the point where characteristics of the lunar retroreflectors are limiting the precision of the range measurements. In this article, we review the gravitational science and technology of lunar laser ranging and discuss prospects for the future."}]
+    }
+  },
+  {
+    "id": "802369", "metadata": {
+      "abstracts": [{"value":
+        "This article gives an outline of the historical events that led to the formation of contemporary astroparticle physics. As a starting point for analyzing the history of astroparticle physics this article will review the various, yet scattered pieces of historical work that have been done so far. To make the picture more complete it will then give a brief survey of the most important fields that have played a role in the development of astroparticle physics as we know it today. It will conclude with an overview of the historical questions that are still open and the rich philosophical implications that lie behind those questions."}],
+      "dois": [{"value": "10.12942/lrr-2008-2"}]
+    }
+  },
+  {
+    "id": "1252883", "metadata": {
+      "dois": [{"value": "10.12942/lrr-2003-1"}]
+    }
+  },
+  {
     "id": "877183", "metadata": {
+      "abstracts": [{"value":
+        "Due to the complexity of Einstein’s equations, it is often natural to study a question of interest in the framework of a restricted class of solutions. One way to impose a restriction is to consider solutions satisfying a given symmetry condition. There are many possible choices, but the present article is concerned with one particular choice, which we shall refer to as Gowdy symmetry. We begin by explaining the origin and meaning of this symmetry type, which has been used as a simplifying assumption in various contexts, some of which we shall mention. Nevertheless, the subject of interest here is strong cosmic censorship. Consequently, after having described what the Gowdy class of spacetimes is, we describe, as seen from the perspective of a mathematician, what is meant by strong cosmic censorship. The existing results on cosmic censorship are based on a detailed analysis of the asymptotic behavior of solutions. This analysis is in part motivated by conjectures, such as the BKL conjecture, which we shall therefore briefly describe. However, the emphasis of the article is on the mathematical analysis of the asymptotics, due to its central importance in the proof and in the hope that it might be of relevance more generally. The article ends with a description of the results that have been obtained concerning strong cosmic censorship in the class of Gowdy spacetimes."}],
       "dois": [{"value": "10.12942/lrr-2010-2"}]
     }
   }
