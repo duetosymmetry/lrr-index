@@ -90,11 +90,15 @@ class Paper:
             self.problematic = True
             self.volume = 'missing'
         try:
-            self.number   = best_pub_info['page_start']
+            self.number   = best_pub_info['artid']
         except:
-            logging.warning(f"missing page_start field in {entry['id']}")
-            self.problematic = True
-            self.number = 'missing'
+            logging.warning(f"missing artid field in {entry['id']}, trying page_start")
+            if 'page_start' in best_pub_info:
+                self.number = best_pub_info['page_start']
+            else:
+                logging.warning(f"missing page_start field in {entry['id']}")
+                self.problematic = True
+                self.number = 'missing'
         try:
             self.abstract = md['abstracts'][-1]['value']
         except:
