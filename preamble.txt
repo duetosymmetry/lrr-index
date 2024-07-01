@@ -22,12 +22,19 @@ pulling data from <a href="http://inspirehep.net/search?p=find+j+%22Living+Rev.R
   background-color: #dddddd;
   border-radius: 4px;
   }
-  .lrr-author, .lrr-jref, .lrr-abstract, .trigger {
+  .lrr-author, .lrr-jref, .lrr-abstract, .arXiv-ref, .trigger {
   margin-top:    0em;
   margin-bottom: 0.25em;
   }
-  .lrr-jref, .trigger {
+  .lrr-jref, .arXiv-ref, .trigger {
   font-size: 75%;
+  }
+  .arXiv-ref:before {
+  display: inline-block;
+  margin-right: 0.25em;
+  font-family: 'Academicons';
+  font-size: inherit;
+  content: "\e808";
   }
   .archive__item {
   padding: 8px;

@@ -117,6 +117,12 @@ class Paper:
             self.authorsLasts = [a['last_name'] for a in
                                  md['authors']]
 
+        if 'arxiv_eprints' in md:
+            self.arXiv = md['arxiv_eprints'][0]['value']
+        else:
+            logging.warning(f"No arXiv info in {entry['id']}")
+            self.arXiv = None
+
 def papersFromJSONTree(root, corrections):
     """Parse the records in an INSPIRE search response into a list of
     class Paper. Depends on INSPIRE JSON format"""
@@ -149,13 +155,20 @@ def formatPaper(paper, number):
       <a href="http://dx.doi.org/{paper.doi}" rel="permalink">{paper.title}</a>
     </h2>
     <p class="lrr-author" itemprop="author">{authorList}</p>
-    <p class="lrr-jref"   itemprop="jref"><i>Living Rev. Rel.</i>, <b>{paper.volume}</b>, ({paper.year}), {paper.number}.</p>
+    <p class="lrr-jref"   itemprop="jref"><i>Living Rev. Rel.</i>, <b>{paper.volume}</b>, ({paper.year}), {paper.number}.</p>{arXivString}
     <input type="checkbox" class="toggleCheck" id="ch{number}"><label class="toggleLabel" for="ch{number}"> Show/hide abstract</label>
     <p class="archive__item-excerpt" itemprop="abstract">{paper.abstract}</p>
   </article>
 </div>
 """
-    return paperTemplate.format(paper=paper, authorList="/".join(paper.authors), number=number)
+
+    arXivString = ""
+    if paper.arXiv is not None:
+        arXivString = """
+    <p class="arXiv-ref"  itemprop="arXiv">[<a href=https://arxiv.org/abs/{arXiv}>arXiv:{arXiv}</a>]</p>""".format(arXiv=paper.arXiv)
+
+    return paperTemplate.format(paper=paper, authorList="/".join(paper.authors),
+                                number=number, arXivString = arXivString)
 
 def formatLetter(letter):
     letterTemplate = """  <a href="#{0}" class="page__taxonomy-item" rel="initial">{0}</a>
