@@ -12,6 +12,11 @@
     }
   },
   {
+    "id": "2807574", "metadata": {
+      "arxiv_eprints": [{"categories": ["gr-qc"], "value": "1310.1528"}]
+    }
+  },
+  {
     "id": "534815", "metadata": {
       "abstracts": [{"value":
         "The notion of conformal infinity has a long history within the research in Einstein’s theory of gravity. Today, “conformal infinity” is related to almost all other branches of research in general relativity, from quantisation procedures to abstract mathematical issues to numerical applications. This review article attempts to show how this concept gradually and inevitably evolved from physical issues, namely the need to understand gravitational radiation and isolated systems within the theory of gravitation, and how it lends itself very naturally to the solution of radiation problems in numerical relativity. The fundamental concept of null-infinity is introduced. Friedrich’s regular conformal field equations are presented and various initial value problems for them are discussed. Finally, it is shown that the conformal field equations provide a very powerful method within numerical relativity to study global problems such as gravitational wave propagation and detection."}],

@@ -1,121 +1,6 @@
 [
   {
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467102",
     "metadata": {
-      "citation_count_without_self_citations": 9,
-      "authors": [
-        {
-          "full_name_unicode_normalized": "berger, beverly k.",
-          "full_name": "Berger, Beverly K.",
-          "curated_relation": true,
-          "record": {
-            "$ref": "https://inspirehep.net/api/authors/1016665"
-          },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "Beverly.K.Berger.1"
-            }
-          ],
-          "affiliations": [
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/904133"
-              },
-              "value": "Oakland U."
-            }
-          ],
-          "last_name": "Berger",
-          "signature_block": "BARGARb",
-          "uuid": "537c5e6e-ae10-4350-9802-215ea785051e",
-          "first_name": "Beverly K.",
-          "recid": 1016665
-        }
-      ],
-      "citation_count": 9,
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "7",
-          "year": 1998,
-          "journal_record": {
-            "$ref": "https://inspirehep.net/api/journals/1212837"
-          },
-          "page_start": "7",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "citeable": true,
-      "copyright": [
-        {
-          "url": "http://relativity.livingreviews.org/About/copyright.html"
-        }
-      ],
-      "$schema": "https://inspirehep.net/schemas/records/hep.json",
-      "legacy_version": "20161012001643.0",
-      "legacy_creation_date": "2000-10-10",
-      "preprint_date": "1998-05",
-      "author_count": 1,
-      "urls": [
-        {
-          "description": "Living Reviews in Relativity Server",
-          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-5winicour/index.html"
-        }
-      ],
-      "first_author": {
-        "full_name": "Berger, Beverly K.",
-        "last_name": "Berger",
-        "first_name": "Beverly K.",
-        "recid": 1016665
-      },
-      "control_number": 467102,
-      "earliest_date": "1998-05",
-      "document_type": [
-        "article"
-      ],
-      "texkeys": [
-        "Berger:1998us"
-      ],
-      "refereed": true,
-      "titles": [
-        {
-          "title": "Numerical approaches to space-time singularities"
-        }
-      ],
-      "external_system_identifiers": [
-        {
-          "schema": "SPIRES",
-          "value": "SPIRES-3702413"
-        }
-      ],
-      "publication_type": [
-        "review"
-      ],
-      "facet_author_name": [
-        "1016665_Beverly K. Berger"
-      ],
-      "curated": true,
-      "journal_title_variants": [
-        "Living Rev.Rel.",
-        "Living Rev. Rel."
-      ]
-    },
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467102?format=json",
-      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
-    },
-    "updated": "2023-03-10T05:25:53.877150+00:00"
-  },
-  {
-    "created": "2008-11-13T00:00:00+00:00",
-    "id": "741066",
-    "metadata": {
-      "citation_count_without_self_citations": 435,
       "authors": [
         {
           "full_name_unicode_normalized": "blanchet, luc",
@@ -123,12 +8,6 @@
           "record": {
             "$ref": "https://inspirehep.net/api/authors/1016196"
           },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "L.Blanchet.1"
-            }
-          ],
           "affiliations": [
             {
               "record": {
@@ -138,13 +17,20 @@
             }
           ],
           "last_name": "Blanchet",
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "L.Blanchet.1"
+            }
+          ],
           "signature_block": "BLANCATl",
           "first_name": "Luc",
           "uuid": "57dc8a4d-2d0f-4af8-bb1d-d9924dbbbffc",
           "recid": 1016196
         }
       ],
-      "citation_count": 447,
+      "citation_count_without_self_citations": 438,
+      "citation_count": 450,
       "publication_info": [
         {
           "journal_volume": "9",
@@ -268,8 +154,8 @@
       "core": true,
       "curated": true,
       "journal_title_variants": [
-        "Living Rev.Rel.",
-        "Living Rev. Rel."
+        "Living Rev. Rel.",
+        "Living Rev.Rel."
       ]
     },
     "links": {
@@ -280,13 +166,124 @@
       "cv": "https://inspirehep.net/api/literature/741066?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
     },
+    "created": "2008-11-13T00:00:00+00:00",
+    "id": "741066",
     "updated": "2023-03-06T13:39:39.151188+00:00"
   },
   {
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467223",
     "metadata": {
-      "citation_count_without_self_citations": 8,
+      "authors": [
+        {
+          "full_name_unicode_normalized": "berger, beverly k.",
+          "full_name": "Berger, Beverly K.",
+          "curated_relation": true,
+          "record": {
+            "$ref": "https://inspirehep.net/api/authors/1016665"
+          },
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Beverly.K.Berger.1"
+            }
+          ],
+          "affiliations": [
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/904133"
+              },
+              "value": "Oakland U."
+            }
+          ],
+          "last_name": "Berger",
+          "signature_block": "BARGARb",
+          "uuid": "537c5e6e-ae10-4350-9802-215ea785051e",
+          "first_name": "Beverly K.",
+          "recid": 1016665
+        }
+      ],
+      "citation_count_without_self_citations": 9,
+      "citation_count": 9,
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "7",
+          "year": 1998,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1212837"
+          },
+          "page_start": "7",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "citeable": true,
+      "copyright": [
+        {
+          "url": "http://relativity.livingreviews.org/About/copyright.html"
+        }
+      ],
+      "$schema": "https://inspirehep.net/schemas/records/hep.json",
+      "legacy_version": "20161012001643.0",
+      "legacy_creation_date": "2000-10-10",
+      "preprint_date": "1998-05",
+      "author_count": 1,
+      "urls": [
+        {
+          "description": "Living Reviews in Relativity Server",
+          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-5winicour/index.html"
+        }
+      ],
+      "first_author": {
+        "full_name": "Berger, Beverly K.",
+        "last_name": "Berger",
+        "first_name": "Beverly K.",
+        "recid": 1016665
+      },
+      "control_number": 467102,
+      "earliest_date": "1998-05",
+      "document_type": [
+        "article"
+      ],
+      "texkeys": [
+        "Berger:1998us"
+      ],
+      "refereed": true,
+      "titles": [
+        {
+          "title": "Numerical approaches to space-time singularities"
+        }
+      ],
+      "external_system_identifiers": [
+        {
+          "schema": "SPIRES",
+          "value": "SPIRES-3702413"
+        }
+      ],
+      "publication_type": [
+        "review"
+      ],
+      "facet_author_name": [
+        "1016665_Beverly K. Berger"
+      ],
+      "curated": true,
+      "journal_title_variants": [
+        "Living Rev.Rel.",
+        "Living Rev. Rel."
+      ]
+    },
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467102?format=json",
+      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
+    },
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "467102",
+    "updated": "2023-03-10T05:25:53.877150+00:00"
+  },
+  {
+    "metadata": {
       "authors": [
         {
           "full_name_unicode_normalized": "anninos, peter",
@@ -315,6 +312,7 @@
           "recid": 1018311
         }
       ],
+      "citation_count_without_self_citations": 8,
       "citation_count": 8,
       "publication_info": [
         {
@@ -395,13 +393,12 @@
       "cv": "https://inspirehep.net/api/literature/467223?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
     },
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "467223",
     "updated": "2023-03-06T15:07:33.241125+00:00"
   },
   {
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467231",
     "metadata": {
-      "citation_count_without_self_citations": 4,
       "authors": [
         {
           "full_name_unicode_normalized": "lorimer, d.r.",
@@ -430,6 +427,7 @@
           "recid": 1025325
         }
       ],
+      "citation_count_without_self_citations": 4,
       "citation_count": 4,
       "publication_info": [
         {
@@ -506,13 +504,12 @@
       "cv": "https://inspirehep.net/api/literature/467231?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
     },
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "467231",
     "updated": "2023-03-06T14:05:57.644184+00:00"
   },
   {
-    "created": "2000-01-18T00:00:00+00:00",
-    "id": "513238",
     "metadata": {
-      "citation_count_without_self_citations": 129,
       "authors": [
         {
           "full_name_unicode_normalized": "gundlach, carsten",
@@ -547,6 +544,7 @@
           "recid": 1007247
         }
       ],
+      "citation_count_without_self_citations": 129,
       "citation_count": 135,
       "publication_info": [
         {
@@ -2220,13 +2218,21 @@
       "cv": "https://inspirehep.net/api/literature/513238?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
     },
+    "created": "2000-01-18T00:00:00+00:00",
+    "id": "513238",
     "updated": "2023-03-06T17:28:46.759174+00:00"
   },
   {
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "534814",
     "metadata": {
-      "citation_count_without_self_citations": 29,
+      "documents": [
+        {
+          "filename": "document",
+          "material": "erratum",
+          "fulltext": true,
+          "key": "d96b133261d1d81d0aad48f0ee5f08dc",
+          "url": "https://inspirehep.net/files/d96b133261d1d81d0aad48f0ee5f08dc"
+        }
+      ],
       "authors": [
         {
           "raw_affiliations": [
@@ -2339,6 +2345,7 @@
           "recid": 1005504
         }
       ],
+      "citation_count_without_self_citations": 29,
       "citation_count": 34,
       "publication_info": [
         {
@@ -2362,15 +2369,6 @@
           "page_start": "5",
           "journal_issue": "1",
           "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "documents": [
-        {
-          "filename": "document",
-          "material": "erratum",
-          "fulltext": true,
-          "key": "d96b133261d1d81d0aad48f0ee5f08dc",
-          "url": "https://inspirehep.net/files/d96b133261d1d81d0aad48f0ee5f08dc"
         }
       ],
       "citeable": true,
@@ -6769,13 +6767,17 @@
       "cv": "https://inspirehep.net/api/literature/534814?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
     },
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "534814",
     "updated": "2023-03-07T03:21:51.131269+00:00"
   },
   {
-    "created": "2002-03-05T00:00:00+00:00",
-    "id": "583592",
     "metadata": {
-      "citation_count_without_self_citations": 18,
+      "report_numbers": [
+        {
+          "value": "AEI-2002-017"
+        }
+      ],
       "authors": [
         {
           "full_name_unicode_normalized": "rendall, alan d.",
@@ -6804,11 +6806,7 @@
           "recid": 991974
         }
       ],
-      "report_numbers": [
-        {
-          "value": "AEI-2002-017"
-        }
-      ],
+      "citation_count_without_self_citations": 18,
       "citation_count": 19,
       "publication_info": [
         {
@@ -9595,6 +9593,8 @@
       "cv": "https://inspirehep.net/api/literature/583592?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
     },
+    "created": "2002-03-05T00:00:00+00:00",
+    "id": "583592",
     "updated": "2023-03-06T18:55:00.637468+00:00"
   }
 ]
