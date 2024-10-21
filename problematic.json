@@ -1,5 +1,119 @@
 [
   {
+    "updated": "2023-03-10T05:25:53.877150+00:00",
+    "id": "467102",
+    "metadata": {
+      "authors": [
+        {
+          "full_name_unicode_normalized": "berger, beverly k.",
+          "full_name": "Berger, Beverly K.",
+          "curated_relation": true,
+          "record": {
+            "$ref": "https://inspirehep.net/api/authors/1016665"
+          },
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Beverly.K.Berger.1"
+            }
+          ],
+          "last_name": "Berger",
+          "affiliations": [
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/904133"
+              },
+              "value": "Oakland U."
+            }
+          ],
+          "signature_block": "BARGARb",
+          "uuid": "537c5e6e-ae10-4350-9802-215ea785051e",
+          "first_name": "Beverly K.",
+          "recid": 1016665
+        }
+      ],
+      "citation_count": 9,
+      "citation_count_without_self_citations": 9,
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "7",
+          "year": 1998,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1212837"
+          },
+          "page_start": "7",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "citeable": true,
+      "copyright": [
+        {
+          "url": "http://relativity.livingreviews.org/About/copyright.html"
+        }
+      ],
+      "$schema": "https://inspirehep.net/schemas/records/hep.json",
+      "legacy_version": "20161012001643.0",
+      "legacy_creation_date": "2000-10-10",
+      "preprint_date": "1998-05",
+      "author_count": 1,
+      "urls": [
+        {
+          "description": "Living Reviews in Relativity Server",
+          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-5winicour/index.html"
+        }
+      ],
+      "first_author": {
+        "full_name": "Berger, Beverly K.",
+        "last_name": "Berger",
+        "first_name": "Beverly K.",
+        "recid": 1016665
+      },
+      "control_number": 467102,
+      "earliest_date": "1998-05",
+      "document_type": [
+        "article"
+      ],
+      "texkeys": [
+        "Berger:1998us"
+      ],
+      "refereed": true,
+      "titles": [
+        {
+          "title": "Numerical approaches to space-time singularities"
+        }
+      ],
+      "external_system_identifiers": [
+        {
+          "schema": "SPIRES",
+          "value": "SPIRES-3702413"
+        }
+      ],
+      "publication_type": [
+        "review"
+      ],
+      "facet_author_name": [
+        "1016665_Beverly K. Berger"
+      ],
+      "curated": true,
+      "journal_title_variants": [
+        "Living Rev. Rel.",
+        "Living Rev.Rel."
+      ]
+    },
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467102?format=json",
+      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
+    },
+    "created": "2000-10-10T00:00:00+00:00"
+  },
+  {
+    "updated": "2023-03-06T13:39:39.151188+00:00",
+    "id": "741066",
     "metadata": {
       "authors": [
         {
@@ -24,13 +138,13 @@
             }
           ],
           "signature_block": "BLANCATl",
-          "first_name": "Luc",
           "uuid": "57dc8a4d-2d0f-4af8-bb1d-d9924dbbbffc",
+          "first_name": "Luc",
           "recid": 1016196
         }
       ],
-      "citation_count_without_self_citations": 438,
-      "citation_count": 450,
+      "citation_count": 456,
+      "citation_count_without_self_citations": 444,
       "publication_info": [
         {
           "journal_volume": "9",
@@ -166,2073 +280,12 @@
       "cv": "https://inspirehep.net/api/literature/741066?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
     },
-    "created": "2008-11-13T00:00:00+00:00",
-    "id": "741066",
-    "updated": "2023-03-06T13:39:39.151188+00:00"
+    "created": "2008-11-13T00:00:00+00:00"
   },
   {
+    "updated": "2023-03-07T03:21:51.131269+00:00",
+    "id": "534814",
     "metadata": {
-      "authors": [
-        {
-          "full_name_unicode_normalized": "berger, beverly k.",
-          "full_name": "Berger, Beverly K.",
-          "curated_relation": true,
-          "record": {
-            "$ref": "https://inspirehep.net/api/authors/1016665"
-          },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "Beverly.K.Berger.1"
-            }
-          ],
-          "affiliations": [
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/904133"
-              },
-              "value": "Oakland U."
-            }
-          ],
-          "last_name": "Berger",
-          "signature_block": "BARGARb",
-          "uuid": "537c5e6e-ae10-4350-9802-215ea785051e",
-          "first_name": "Beverly K.",
-          "recid": 1016665
-        }
-      ],
-      "citation_count_without_self_citations": 9,
-      "citation_count": 9,
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "7",
-          "year": 1998,
-          "journal_record": {
-            "$ref": "https://inspirehep.net/api/journals/1212837"
-          },
-          "page_start": "7",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "citeable": true,
-      "copyright": [
-        {
-          "url": "http://relativity.livingreviews.org/About/copyright.html"
-        }
-      ],
-      "$schema": "https://inspirehep.net/schemas/records/hep.json",
-      "legacy_version": "20161012001643.0",
-      "legacy_creation_date": "2000-10-10",
-      "preprint_date": "1998-05",
-      "author_count": 1,
-      "urls": [
-        {
-          "description": "Living Reviews in Relativity Server",
-          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-5winicour/index.html"
-        }
-      ],
-      "first_author": {
-        "full_name": "Berger, Beverly K.",
-        "last_name": "Berger",
-        "first_name": "Beverly K.",
-        "recid": 1016665
-      },
-      "control_number": 467102,
-      "earliest_date": "1998-05",
-      "document_type": [
-        "article"
-      ],
-      "texkeys": [
-        "Berger:1998us"
-      ],
-      "refereed": true,
-      "titles": [
-        {
-          "title": "Numerical approaches to space-time singularities"
-        }
-      ],
-      "external_system_identifiers": [
-        {
-          "schema": "SPIRES",
-          "value": "SPIRES-3702413"
-        }
-      ],
-      "publication_type": [
-        "review"
-      ],
-      "facet_author_name": [
-        "1016665_Beverly K. Berger"
-      ],
-      "curated": true,
-      "journal_title_variants": [
-        "Living Rev.Rel.",
-        "Living Rev. Rel."
-      ]
-    },
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467102?format=json",
-      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467102",
-    "updated": "2023-03-10T05:25:53.877150+00:00"
-  },
-  {
-    "metadata": {
-      "authors": [
-        {
-          "full_name_unicode_normalized": "anninos, peter",
-          "full_name": "Anninos, Peter",
-          "record": {
-            "$ref": "https://inspirehep.net/api/authors/1018311"
-          },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "P.Anninos.1"
-            }
-          ],
-          "affiliations": [
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/902965"
-              },
-              "value": "LLNL, Livermore"
-            }
-          ],
-          "last_name": "Anninos",
-          "signature_block": "ANANp",
-          "uuid": "f17939be-d99f-4ff9-bb41-ba5de18927cc",
-          "first_name": "Peter",
-          "recid": 1018311
-        }
-      ],
-      "citation_count_without_self_citations": 8,
-      "citation_count": 8,
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "9",
-          "year": 1998,
-          "journal_record": {
-            "$ref": "https://inspirehep.net/api/journals/1212837"
-          },
-          "page_start": "9",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "citeable": true,
-      "copyright": [
-        {
-          "url": "http://relativity.livingreviews.org/About/copyright.html"
-        }
-      ],
-      "$schema": "https://inspirehep.net/schemas/records/hep.json",
-      "legacy_version": "20161012001644.0",
-      "legacy_creation_date": "2000-10-10",
-      "preprint_date": "1998-08",
-      "author_count": 1,
-      "urls": [
-        {
-          "description": "Living Reviews in Relativity Server",
-          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-9anninos/index.html"
-        }
-      ],
-      "first_author": {
-        "full_name": "Anninos, Peter",
-        "last_name": "Anninos",
-        "first_name": "Peter",
-        "recid": 1018311
-      },
-      "control_number": 467223,
-      "earliest_date": "1998-08",
-      "document_type": [
-        "article"
-      ],
-      "texkeys": [
-        "Anninos:1998ci"
-      ],
-      "refereed": true,
-      "titles": [
-        {
-          "title": "Computational cosmology: From the early universe to the large scale structure"
-        }
-      ],
-      "external_system_identifiers": [
-        {
-          "schema": "KEKSCAN",
-          "value": "98-02-158"
-        },
-        {
-          "schema": "SPIRES",
-          "value": "SPIRES-3704254"
-        }
-      ],
-      "publication_type": [
-        "review"
-      ],
-      "facet_author_name": [
-        "1018311_Peter Anninos"
-      ],
-      "curated": true,
-      "journal_title_variants": [
-        "Living Rev.Rel.",
-        "Living Rev. Rel."
-      ]
-    },
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467223?format=json",
-      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467223",
-    "updated": "2023-03-06T15:07:33.241125+00:00"
-  },
-  {
-    "metadata": {
-      "authors": [
-        {
-          "full_name_unicode_normalized": "lorimer, d.r.",
-          "full_name": "Lorimer, D.R.",
-          "record": {
-            "$ref": "https://inspirehep.net/api/authors/1025325"
-          },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "D.R.Lorimer.1"
-            }
-          ],
-          "affiliations": [
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/904449"
-              },
-              "value": "Bonn, Max Planck Inst., Radioastron."
-            }
-          ],
-          "last_name": "Lorimer",
-          "signature_block": "LARANARd",
-          "uuid": "ff8b29a8-8e12-43fd-a499-127a77eef342",
-          "first_name": "D.R.",
-          "recid": 1025325
-        }
-      ],
-      "citation_count_without_self_citations": 4,
-      "citation_count": 4,
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "10",
-          "year": 1998,
-          "journal_record": {
-            "$ref": "https://inspirehep.net/api/journals/1212837"
-          },
-          "page_start": "10",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "citeable": true,
-      "copyright": [
-        {
-          "url": "http://relativity.livingreviews.org/About/copyright.html"
-        }
-      ],
-      "$schema": "https://inspirehep.net/schemas/records/hep.json",
-      "legacy_version": "20161012001644.0",
-      "legacy_creation_date": "2000-10-10",
-      "preprint_date": "1998-08",
-      "author_count": 1,
-      "urls": [
-        {
-          "description": "Living Reviews in Relativity Server",
-          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-10lorimer/index.html"
-        }
-      ],
-      "first_author": {
-        "full_name": "Lorimer, D.R.",
-        "last_name": "Lorimer",
-        "first_name": "D.R.",
-        "recid": 1025325
-      },
-      "control_number": 467231,
-      "earliest_date": "1998-08",
-      "document_type": [
-        "article"
-      ],
-      "texkeys": [
-        "Lorimer:1998em"
-      ],
-      "refereed": true,
-      "titles": [
-        {
-          "title": "Binary and millisecond pulsars"
-        }
-      ],
-      "external_system_identifiers": [
-        {
-          "schema": "SPIRES",
-          "value": "SPIRES-3704769"
-        }
-      ],
-      "publication_type": [
-        "review"
-      ],
-      "facet_author_name": [
-        "1025325_Duncan R. Lorimer"
-      ],
-      "curated": true,
-      "journal_title_variants": [
-        "Living Rev.Rel.",
-        "Living Rev. Rel."
-      ]
-    },
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467231?format=json",
-      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "467231",
-    "updated": "2023-03-06T14:05:57.644184+00:00"
-  },
-  {
-    "metadata": {
-      "authors": [
-        {
-          "full_name_unicode_normalized": "gundlach, carsten",
-          "full_name": "Gundlach, Carsten",
-          "record": {
-            "$ref": "https://inspirehep.net/api/authors/1007247"
-          },
-          "last_name": "Gundlach",
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "C.Gundlach.1"
-            }
-          ],
-          "affiliations": [
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/902730"
-              },
-              "value": "Chicago U., EFI"
-            },
-            {
-              "record": {
-                "$ref": "https://inspirehep.net/api/institutions/903212"
-              },
-              "value": "Southampton U."
-            }
-          ],
-          "signature_block": "GANDLACHc",
-          "first_name": "Carsten",
-          "uuid": "a94c5286-1bba-4caf-94b8-4135763701c1",
-          "recid": 1007247
-        }
-      ],
-      "citation_count_without_self_citations": 129,
-      "citation_count": 135,
-      "publication_info": [
-        {
-          "journal_volume": "2",
-          "artid": "4",
-          "year": 1999,
-          "journal_record": {
-            "$ref": "https://inspirehep.net/api/journals/1212837"
-          },
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "citeable": true,
-      "copyright": [
-        {
-          "url": "http://relativity.livingreviews.org/About/copyright.html"
-        }
-      ],
-      "$schema": "https://inspirehep.net/schemas/records/hep.json",
-      "keywords": [
-        {
-          "source": "author",
-          "value": "inspirereview:IV-a-4"
-        }
-      ],
-      "references": [
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "70",
-              "artid": "2980",
-              "page_start": "2980",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/362163"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "49",
-              "artid": "3998",
-              "page_start": "3998",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/378583"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "astro-ph/9412046"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/381313"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9704027",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "4768",
-              "page_start": "4768",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/442002"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "4",
-              "artid": "285",
-              "page_start": "285",
-              "journal_title": "Ann.Rev.Fluid Mech."
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "61",
-              "artid": "141",
-              "page_start": "141",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/268322"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "219",
-              "artid": "1043",
-              "page_start": "1043",
-              "journal_title": "Astrophys.J."
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "64",
-              "artid": "2844",
-              "page_start": "2844",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/303924"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606060",
-            "publication_info": {
-              "journal_volume": "22",
-              "artid": "81",
-              "page_start": "81",
-              "journal_title": "Acta Cosmologica"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/419828"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9801012",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "041501",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/466066"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9802002",
-            "publication_info": {
-              "journal_volume": "29",
-              "artid": "1071",
-              "page_start": "1071",
-              "journal_title": "Acta Phys.Polon.B"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/466750"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9906070",
-            "publication_info": {
-              "journal_volume": "61",
-              "artid": "067501",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/501944"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9901039",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "104003",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/482311"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "46",
-              "artid": "633",
-              "page_start": "633",
-              "journal_title": "Sov.Phys.JETP"
-            }
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "hep-th/9606152",
-            "publication_info": {
-              "journal_volume": "54",
-              "artid": "7490",
-              "page_start": "7490",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/419980"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9409035",
-            "publication_info": {
-              "journal_volume": "51",
-              "artid": "4168",
-              "page_start": "4168",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/377013"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9402023"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/363546"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9812071"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/481293"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9709014",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "6057",
-              "page_start": "6057",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/448088"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9804058",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "024006",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/469529"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "chao-dyn/9411015"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9706064",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "6278",
-              "page_start": "6278",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/444574"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9608061",
-            "publication_info": {
-              "journal_volume": "29",
-              "artid": "259",
-              "page_start": "259",
-              "journal_title": "Gen.Rel.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/422579"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "21",
-              "artid": "1",
-              "page_start": "1",
-              "journal_title": "Commun.Math.Phys."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/63442"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9806048",
-            "publication_info": {
-              "journal_volume": "16",
-              "artid": "R31",
-              "page_start": "R31",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/471580"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9901031",
-            "publication_info": {
-              "journal_volume": "61",
-              "artid": "081502",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/493950"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "14",
-              "artid": "47",
-              "page_start": "47",
-              "journal_title": "Annales Phys.(France)"
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "51",
-              "artid": "5577",
-              "page_start": "5577",
-              "journal_title": "Phys.Rev.E"
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "44",
-              "artid": "6544",
-              "page_start": "6544",
-              "journal_title": "Phys.Rev.D"
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "12",
-              "artid": "709",
-              "page_start": "709",
-              "journal_title": "Phys.Rev.A"
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "70",
-              "artid": "9",
-              "page_start": "9",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/33714"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9803075"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/454122"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9603051",
-            "publication_info": {
-              "journal_volume": "77",
-              "artid": "424",
-              "page_start": "424",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/417159"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9701011",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "6014",
-              "page_start": "6014",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/439445"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9903081",
-            "publication_info": {
-              "journal_volume": "60",
-              "artid": "124011",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/497094"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "93",
-              "artid": "17",
-              "page_start": "17",
-              "journal_title": "Commun.Math.Phys."
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "105",
-              "artid": "337",
-              "page_start": "337",
-              "journal_title": "Commun.Math.Phys."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/234090"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "109",
-              "artid": "613",
-              "page_start": "613",
-              "journal_title": "Commun.Math.Phys."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/249214"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "44",
-              "artid": "339",
-              "page_start": "339",
-              "journal_title": "Commun.Pure Appl.Math."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/1235882"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "46",
-              "artid": "1131",
-              "page_start": "1131",
-              "journal_title": "Commun.Pure Appl.Math."
-            }
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "140",
-              "artid": "607",
-              "page_start": "607",
-              "journal_title": "Annals Math."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/391017"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "149",
-              "artid": "183",
-              "page_start": "183",
-              "journal_title": "Annals Math."
-            }
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9610061",
-            "publication_info": {
-              "journal_volume": "14",
-              "artid": "87",
-              "page_start": "87",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/425115"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9505041",
-            "publication_info": {
-              "journal_volume": "52",
-              "artid": "5397",
-              "page_start": "5397",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/395318"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9402041",
-            "publication_info": {
-              "journal_volume": "72",
-              "artid": "1782",
-              "page_start": "1782",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/371808"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "48",
-              "artid": "4645",
-              "page_start": "4645",
-              "journal_title": "Annals Math.D"
-            }
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9704040",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "6433",
-              "page_start": "6433",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/442210"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9811001",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "104011",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/478694"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9908046",
-            "publication_info": {
-              "journal_volume": "61",
-              "artid": "084006",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/505659"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9412008",
-            "publication_info": {
-              "journal_volume": "51",
-              "artid": "5558",
-              "page_start": "5558",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/380953"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9612015",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "3169",
-              "page_start": "3169",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/426969"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9908044",
-            "publication_info": {
-              "journal_volume": "60",
-              "artid": "104007",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/505541"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9802061",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "064024",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/467481"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9908016",
-            "publication_info": {
-              "journal_volume": "16",
-              "artid": "4111",
-              "page_start": "4111",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/505107"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9811004",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "104012",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/478697"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9806052",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "064003",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/471622"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "hep-th/9412138"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/381468"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "36",
-              "artid": "3575",
-              "page_start": "3575",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/245066"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "9",
-              "artid": "445",
-              "page_start": "445",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/335908"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9507054",
-            "publication_info": {
-              "journal_volume": "75",
-              "artid": "3214",
-              "page_start": "3214",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/397709"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9604019",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "695",
-              "page_start": "695",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/417456"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606023"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/419562"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9610069",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "6002",
-              "page_start": "6002",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/425257"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9710066",
-            "publication_info": {
-              "journal_volume": "57",
-              "artid": "7075",
-              "page_start": "7075",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/449640"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9711079",
-            "publication_info": {
-              "journal_volume": "57",
-              "artid": "7080",
-              "page_start": "7080",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/451574"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9712084",
-            "publication_info": {
-              "journal_volume": "2",
-              "artid": "1",
-              "page_start": "1",
-              "journal_title": "Adv.Theor.Math.Phys."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/452724"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9906124",
-            "publication_info": {
-              "journal_volume": "65",
-              "artid": "084021",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/502771"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606072",
-            "publication_info": {
-              "journal_volume": "54",
-              "artid": "7353",
-              "page_start": "7353",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/420116"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9307009",
-            "publication_info": {
-              "journal_volume": "49",
-              "artid": "883",
-              "page_start": "883",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/356846"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9511024",
-            "publication_info": {
-              "journal_volume": "13",
-              "artid": "2241",
-              "page_start": "2241",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/401928"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9506044",
-            "publication_info": {
-              "journal_volume": "13",
-              "artid": "497",
-              "page_start": "497",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/396495"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9607010"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/420411"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9412066",
-            "publication_info": {
-              "journal_volume": "51",
-              "artid": "4198",
-              "page_start": "4198",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/381762"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9506078",
-            "publication_info": {
-              "journal_volume": "52",
-              "artid": "5850",
-              "page_start": "5850",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/396761"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9511052",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "4696",
-              "page_start": "4696",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/402477"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606093",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "3485",
-              "page_start": "3485",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/420215"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606087",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "440",
-              "page_start": "440",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/420223"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9602001"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/415711"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9604046",
-            "publication_info": {
-              "journal_volume": "13",
-              "artid": "3057",
-              "page_start": "3057",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/417990"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9503007",
-            "publication_info": {
-              "journal_volume": "74",
-              "artid": "5170",
-              "page_start": "5170",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/393236"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "104008",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/497726"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "41",
-              "artid": "3866",
-              "page_start": "3866",
-              "journal_title": "Phys.Rev.D"
-            }
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "hep-th/9409185",
-            "publication_info": {
-              "journal_volume": "343",
-              "artid": "214",
-              "page_start": "214",
-              "journal_title": "Phys.Lett.B"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/377494"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9805043",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "084015",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/470361"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9904077",
-            "publication_info": {
-              "journal_volume": "60",
-              "artid": "061502",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/499083"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9606057",
-            "publication_info": {
-              "journal_volume": "77",
-              "artid": "1424",
-              "page_start": "1424",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/419789"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9504008",
-            "publication_info": {
-              "journal_volume": "366",
-              "artid": "82",
-              "page_start": "82",
-              "journal_title": "Phys.Lett.B"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/394036"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9809059",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "064031",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/476546"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "astro-ph/9709072",
-            "publication_info": {
-              "journal_volume": "80",
-              "artid": "5481",
-              "page_start": "5481",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/448227"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "astro-ph/9901292",
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "124013",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/494294"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9812053",
-            "publication_info": {
-              "journal_volume": "17",
-              "artid": "761",
-              "page_start": "761",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/480995"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9904052",
-            "publication_info": {
-              "journal_volume": "17",
-              "artid": "733",
-              "page_start": "733",
-              "journal_title": "Class.Quant.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/498566"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "59",
-              "artid": "2137",
-              "page_start": "2137",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/246561"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "42",
-              "artid": "1068",
-              "page_start": "1068",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/26275"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9402017",
-            "publication_info": {
-              "journal_volume": "91",
-              "artid": "1265",
-              "page_start": "1265",
-              "journal_title": "Prog.Theor.Phys."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/371490"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9608040",
-            "publication_info": {
-              "journal_volume": "55",
-              "artid": "4525",
-              "page_start": "4525",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/422233"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9601009",
-            "publication_info": {
-              "journal_volume": "54",
-              "artid": "3792",
-              "page_start": "3792",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/415166"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9409044",
-            "publication_info": {
-              "journal_volume": "204",
-              "artid": "7",
-              "page_start": "7",
-              "journal_title": "Phys.Lett.A"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/377139"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9804040",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "044007",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/469333"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "21",
-              "artid": "907",
-              "page_start": "907",
-              "journal_title": "Gen.Rel.Grav."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/285688"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "66",
-              "artid": "1659",
-              "page_start": "1659",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/324213"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "243",
-              "artid": "33",
-              "page_start": "33",
-              "journal_title": "Phys.Lett.B"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/303447"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "hep-th/9312017",
-            "publication_info": {
-              "journal_volume": "72",
-              "artid": "1584",
-              "page_start": "1584",
-              "journal_title": "Phys.Rev.Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/36652"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "hep-th/9502045",
-            "publication_info": {
-              "journal_volume": "349",
-              "artid": "438",
-              "page_start": "438",
-              "journal_title": "Phys.Lett.B"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/392637"
-          }
-        },
-        {
-          "reference": {
-            "publication_info": {
-              "journal_volume": "50",
-              "artid": "346",
-              "page_start": "346",
-              "journal_title": "JETP Lett."
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/289991"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9702022"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/440323"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9710068"
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/449642"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9608063",
-            "publication_info": {
-              "journal_volume": "56",
-              "artid": "753",
-              "page_start": "753",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/422630"
-          }
-        },
-        {
-          "reference": {
-            "arxiv_eprint": "gr-qc/9804041",
-            "publication_info": {
-              "journal_volume": "58",
-              "artid": "107502",
-              "journal_title": "Phys.Rev.D"
-            }
-          },
-          "curated_relation": false,
-          "record": {
-            "$ref": "https://inspirehep.net/api/literature/469378"
-          }
-        }
-      ],
-      "number_of_pages": 55,
-      "legacy_creation_date": "2000-01-18",
-      "preprint_date": "1999-11",
-      "author_count": 1,
-      "earliest_date": "1999-11",
-      "refereed": true,
-      "external_system_identifiers": [
-        {
-          "schema": "ADS",
-          "value": "1999LRR.....2....4G"
-        },
-        {
-          "schema": "SPIRES",
-          "value": "SPIRES-4297636"
-        }
-      ],
-      "publication_type": [
-        "review"
-      ],
-      "facet_author_name": [
-        "1007247_Carsten Gundlach"
-      ],
-      "journal_title_variants": [
-        "Living Rev. Rel.",
-        "Living Rev.Rel."
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0001046"
-        }
-      ],
-      "referenced_authors_bais": [
-        "J.H.Horne.1",
-        "G.V.Lavrelashvili.1",
-        "Tatsuhiko.Koike.1",
-        "M.W.Choptuik.1",
-        "A.C.Ottewill.1",
-        "Stephen.James.Coleman.1",
-        "Kouji.Nakamura.1",
-        "C.M.Chambers.1",
-        "M.E.Cahill.1",
-        "L.Parker.1",
-        "David.A.Lowe.1",
-        "Y.Peleg.3",
-        "M.Goliath.2",
-        "R.Bartnik.1",
-        "D.Garfinkle.1",
-        "C.Uggla.1",
-        "Z.Tabor.2",
-        "E.Seidel.6",
-        "A.H.Taub.1",
-        "R.L.Marsa.1",
-        "N.Straumann.1",
-        "A.M.Abrahams.1",
-        "P.Bizon.1",
-        "R.S.Hamade.1",
-        "D.M.Eardley.1",
-        "A.D.Rendall.1",
-        "S.Jhingan.1",
-        "S.Bose.2",
-        "G.C.Duncan.2",
-        "S.L.Liebling.1",
-        "K.Meyer.1",
-        "T.Piran.1",
-        "J.Yokoyama.1",
-        "E.W.Hirschmann.1",
-        "M.D.Roberts.1",
-        "C.Cutler.1",
-        "J.A.Pullin.1",
-        "B.J.Carr.1",
-        "S.Hod.1",
-        "P.C.Argyres.1",
-        "S.B.Giddings.1",
-        "An.Zhong.Wang.1",
-        "P.R.Brady.1",
-        "J.C.Niemeyer.1",
-        "Dmitri.V.Galtsov.1",
-        "T.Chmaj.1",
-        "T.P.Singh.1",
-        "S.Ayal.1",
-        "R.S.Hamade.2",
-        "A.Strominger.1",
-        "C.R.Evans.1",
-        "R.H.Price.1",
-        "W.M.Suen.1",
-        "T.Hara.6",
-        "P.S.Joshi.1",
-        "C.Gundlach.1",
-        "Valeri.P.Frolov.1",
-        "A.Ori.2",
-        "O.Brodbeck.1",
-        "A.Tomimatsu.1",
-        "H.P.de.Oliveira.1",
-        "D.S.Goldwirth.1",
-        "J.Wainwright.1",
-        "Zhi.Hong.Zhou.1",
-        "J.M.Martin.Garcia.1",
-        "J.Mckinnon.1",
-        "L.Thorlacius.1",
-        "D.Maison.1",
-        "M.S.Volkov.1",
-        "Y.Oshiro.2",
-        "S.W.Goode.1",
-        "M.Heusler.1",
-        "M.J.Cai.2",
-        "S.Adachi.5",
-        "A.O.Barvinsky.1",
-        "A.V.Frolov.3",
-        "Demetrios.Christodoulou.1",
-        "U.S.Nilsson.1",
-        "Jan.Schaeffer.1",
-        "K.Jedamzik.1",
-        "G.Rein.2",
-        "R.M.Wald.1",
-        "David.W.Neilsen.1",
-        "A.A.Coley.1",
-        "S.M.C.V.Goncalves.3",
-        "J.M.Stewart.2",
-        "L.M.Burko.1"
-      ],
-      "legacy_version": "20200430223321.0",
-      "inspire_categories": [
-        {
-          "term": "Gravitation and Cosmology"
-        }
-      ],
-      "urls": [
-        {
-          "description": "Living Reviews in Relativity Server",
-          "value": "http://relativity.livingreviews.org/Articles/Volume2/1999-4gundlach/index.html"
-        }
-      ],
-      "first_author": {
-        "full_name": "Gundlach, Carsten",
-        "last_name": "Gundlach",
-        "first_name": "Carsten",
-        "recid": 1007247
-      },
-      "control_number": 513238,
-      "document_type": [
-        "article"
-      ],
-      "texkeys": [
-        "Gundlach:1999cu"
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "primary_arxiv_category": [
-        "gr-qc"
-      ],
-      "titles": [
-        {
-          "title": "Critical phenomena in gravitational collapse"
-        },
-        {
-          "source": "arXiv",
-          "title": "Critical phenomena in gravitational collapse - Living Reviews"
-        }
-      ],
-      "curated": true
-    },
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/513238?format=json",
-      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
-    },
-    "created": "2000-01-18T00:00:00+00:00",
-    "id": "513238",
-    "updated": "2023-03-06T17:28:46.759174+00:00"
-  },
-  {
-    "metadata": {
-      "documents": [
-        {
-          "filename": "document",
-          "material": "erratum",
-          "fulltext": true,
-          "key": "d96b133261d1d81d0aad48f0ee5f08dc",
-          "url": "https://inspirehep.net/files/d96b133261d1d81d0aad48f0ee5f08dc"
-        }
-      ],
       "authors": [
         {
           "raw_affiliations": [
@@ -2259,8 +312,8 @@
           ],
           "last_name": "Rowan",
           "signature_block": "RANs",
-          "uuid": "eacbbc32-2c66-460d-9b02-12b4e5bfd83d",
           "first_name": "Sheila",
+          "uuid": "eacbbc32-2c66-460d-9b02-12b4e5bfd83d",
           "recid": 2129857
         },
         {
@@ -2269,13 +322,6 @@
           "record": {
             "$ref": "https://inspirehep.net/api/authors/1055816"
           },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "S.Rowan.1"
-            }
-          ],
-          "last_name": "Rowan",
           "affiliations": [
             {
               "record": {
@@ -2284,9 +330,16 @@
               "value": "Stanford U., Ginzton Lab."
             }
           ],
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "S.Rowan.1"
+            }
+          ],
+          "last_name": "Rowan",
           "signature_block": "RANs",
-          "uuid": "fee0d2c3-d63e-4e69-8187-751666ac9e0c",
           "first_name": "Sheila",
+          "uuid": "fee0d2c3-d63e-4e69-8187-751666ac9e0c",
           "recid": 1055816
         },
         {
@@ -2314,8 +367,8 @@
           ],
           "last_name": "Hough",
           "signature_block": "HAGHj",
-          "uuid": "bdfb2c49-8537-4342-9d83-2fb515c58044",
           "first_name": "Jim",
+          "uuid": "bdfb2c49-8537-4342-9d83-2fb515c58044",
           "recid": 1005504
         },
         {
@@ -2324,13 +377,6 @@
           "record": {
             "$ref": "https://inspirehep.net/api/authors/1005504"
           },
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "James.H.Hough.1"
-            }
-          ],
-          "last_name": "Hough",
           "affiliations": [
             {
               "record": {
@@ -2339,14 +385,30 @@
               "value": "Glasgow U."
             }
           ],
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "James.H.Hough.1"
+            }
+          ],
+          "last_name": "Hough",
           "signature_block": "HAGHj",
-          "uuid": "fb4b9138-4cb8-49c1-895b-76f04e025c65",
           "first_name": "Jim",
+          "uuid": "fb4b9138-4cb8-49c1-895b-76f04e025c65",
           "recid": 1005504
         }
       ],
-      "citation_count_without_self_citations": 29,
       "citation_count": 34,
+      "documents": [
+        {
+          "filename": "document",
+          "material": "erratum",
+          "fulltext": true,
+          "key": "d96b133261d1d81d0aad48f0ee5f08dc",
+          "url": "https://inspirehep.net/files/d96b133261d1d81d0aad48f0ee5f08dc"
+        }
+      ],
+      "citation_count_without_self_citations": 29,
       "publication_info": [
         {
           "journal_volume": "3",
@@ -6767,17 +4829,1952 @@
       "cv": "https://inspirehep.net/api/literature/534814?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
     },
-    "created": "2000-10-10T00:00:00+00:00",
-    "id": "534814",
-    "updated": "2023-03-07T03:21:51.131269+00:00"
+    "created": "2000-10-10T00:00:00+00:00"
   },
   {
+    "updated": "2023-03-06T14:05:57.644184+00:00",
+    "id": "467231",
     "metadata": {
-      "report_numbers": [
+      "authors": [
         {
-          "value": "AEI-2002-017"
+          "full_name_unicode_normalized": "lorimer, d.r.",
+          "full_name": "Lorimer, D.R.",
+          "record": {
+            "$ref": "https://inspirehep.net/api/authors/1025325"
+          },
+          "affiliations": [
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/904449"
+              },
+              "value": "Bonn, Max Planck Inst., Radioastron."
+            }
+          ],
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "D.R.Lorimer.1"
+            }
+          ],
+          "last_name": "Lorimer",
+          "signature_block": "LARANARd",
+          "uuid": "ff8b29a8-8e12-43fd-a499-127a77eef342",
+          "first_name": "D.R.",
+          "recid": 1025325
         }
       ],
+      "citation_count": 4,
+      "citation_count_without_self_citations": 4,
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "10",
+          "year": 1998,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1212837"
+          },
+          "page_start": "10",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "citeable": true,
+      "copyright": [
+        {
+          "url": "http://relativity.livingreviews.org/About/copyright.html"
+        }
+      ],
+      "$schema": "https://inspirehep.net/schemas/records/hep.json",
+      "legacy_version": "20161012001644.0",
+      "legacy_creation_date": "2000-10-10",
+      "preprint_date": "1998-08",
+      "author_count": 1,
+      "urls": [
+        {
+          "description": "Living Reviews in Relativity Server",
+          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-10lorimer/index.html"
+        }
+      ],
+      "first_author": {
+        "full_name": "Lorimer, D.R.",
+        "last_name": "Lorimer",
+        "first_name": "D.R.",
+        "recid": 1025325
+      },
+      "control_number": 467231,
+      "earliest_date": "1998-08",
+      "document_type": [
+        "article"
+      ],
+      "texkeys": [
+        "Lorimer:1998em"
+      ],
+      "refereed": true,
+      "titles": [
+        {
+          "title": "Binary and millisecond pulsars"
+        }
+      ],
+      "external_system_identifiers": [
+        {
+          "schema": "SPIRES",
+          "value": "SPIRES-3704769"
+        }
+      ],
+      "publication_type": [
+        "review"
+      ],
+      "facet_author_name": [
+        "1025325_Duncan R. Lorimer"
+      ],
+      "curated": true,
+      "journal_title_variants": [
+        "Living Rev.Rel.",
+        "Living Rev. Rel."
+      ]
+    },
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467231?format=json",
+      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
+    },
+    "created": "2000-10-10T00:00:00+00:00"
+  },
+  {
+    "updated": "2023-03-06T17:28:46.759174+00:00",
+    "id": "513238",
+    "metadata": {
+      "authors": [
+        {
+          "full_name_unicode_normalized": "gundlach, carsten",
+          "full_name": "Gundlach, Carsten",
+          "record": {
+            "$ref": "https://inspirehep.net/api/authors/1007247"
+          },
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "C.Gundlach.1"
+            }
+          ],
+          "affiliations": [
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/902730"
+              },
+              "value": "Chicago U., EFI"
+            },
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/903212"
+              },
+              "value": "Southampton U."
+            }
+          ],
+          "last_name": "Gundlach",
+          "signature_block": "GANDLACHc",
+          "first_name": "Carsten",
+          "uuid": "a94c5286-1bba-4caf-94b8-4135763701c1",
+          "recid": 1007247
+        }
+      ],
+      "citation_count": 136,
+      "citation_count_without_self_citations": 130,
+      "publication_info": [
+        {
+          "journal_volume": "2",
+          "artid": "4",
+          "year": 1999,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1212837"
+          },
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "citeable": true,
+      "copyright": [
+        {
+          "url": "http://relativity.livingreviews.org/About/copyright.html"
+        }
+      ],
+      "$schema": "https://inspirehep.net/schemas/records/hep.json",
+      "keywords": [
+        {
+          "source": "author",
+          "value": "inspirereview:IV-a-4"
+        }
+      ],
+      "references": [
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "70",
+              "artid": "2980",
+              "page_start": "2980",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/362163"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "49",
+              "artid": "3998",
+              "page_start": "3998",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/378583"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "astro-ph/9412046"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/381313"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9704027",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "4768",
+              "page_start": "4768",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/442002"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "4",
+              "artid": "285",
+              "page_start": "285",
+              "journal_title": "Ann.Rev.Fluid Mech."
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "61",
+              "artid": "141",
+              "page_start": "141",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/268322"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "219",
+              "artid": "1043",
+              "page_start": "1043",
+              "journal_title": "Astrophys.J."
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "64",
+              "artid": "2844",
+              "page_start": "2844",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/303924"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606060",
+            "publication_info": {
+              "journal_volume": "22",
+              "artid": "81",
+              "page_start": "81",
+              "journal_title": "Acta Cosmologica"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/419828"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9801012",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "041501",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/466066"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9802002",
+            "publication_info": {
+              "journal_volume": "29",
+              "artid": "1071",
+              "page_start": "1071",
+              "journal_title": "Acta Phys.Polon.B"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/466750"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9906070",
+            "publication_info": {
+              "journal_volume": "61",
+              "artid": "067501",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/501944"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9901039",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "104003",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/482311"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "46",
+              "artid": "633",
+              "page_start": "633",
+              "journal_title": "Sov.Phys.JETP"
+            }
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "hep-th/9606152",
+            "publication_info": {
+              "journal_volume": "54",
+              "artid": "7490",
+              "page_start": "7490",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/419980"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9409035",
+            "publication_info": {
+              "journal_volume": "51",
+              "artid": "4168",
+              "page_start": "4168",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/377013"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9402023"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/363546"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9812071"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/481293"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9709014",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "6057",
+              "page_start": "6057",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/448088"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9804058",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "024006",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/469529"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "chao-dyn/9411015"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9706064",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "6278",
+              "page_start": "6278",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/444574"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9608061",
+            "publication_info": {
+              "journal_volume": "29",
+              "artid": "259",
+              "page_start": "259",
+              "journal_title": "Gen.Rel.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/422579"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "21",
+              "artid": "1",
+              "page_start": "1",
+              "journal_title": "Commun.Math.Phys."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/63442"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9806048",
+            "publication_info": {
+              "journal_volume": "16",
+              "artid": "R31",
+              "page_start": "R31",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/471580"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9901031",
+            "publication_info": {
+              "journal_volume": "61",
+              "artid": "081502",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/493950"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "14",
+              "artid": "47",
+              "page_start": "47",
+              "journal_title": "Annales Phys.(France)"
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "51",
+              "artid": "5577",
+              "page_start": "5577",
+              "journal_title": "Phys.Rev.E"
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "44",
+              "artid": "6544",
+              "page_start": "6544",
+              "journal_title": "Phys.Rev.D"
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "12",
+              "artid": "709",
+              "page_start": "709",
+              "journal_title": "Phys.Rev.A"
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "70",
+              "artid": "9",
+              "page_start": "9",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/33714"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9803075"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/454122"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9603051",
+            "publication_info": {
+              "journal_volume": "77",
+              "artid": "424",
+              "page_start": "424",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/417159"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9701011",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "6014",
+              "page_start": "6014",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/439445"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9903081",
+            "publication_info": {
+              "journal_volume": "60",
+              "artid": "124011",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/497094"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "93",
+              "artid": "17",
+              "page_start": "17",
+              "journal_title": "Commun.Math.Phys."
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "105",
+              "artid": "337",
+              "page_start": "337",
+              "journal_title": "Commun.Math.Phys."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/234090"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "109",
+              "artid": "613",
+              "page_start": "613",
+              "journal_title": "Commun.Math.Phys."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/249214"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "44",
+              "artid": "339",
+              "page_start": "339",
+              "journal_title": "Commun.Pure Appl.Math."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/1235882"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "46",
+              "artid": "1131",
+              "page_start": "1131",
+              "journal_title": "Commun.Pure Appl.Math."
+            }
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "140",
+              "artid": "607",
+              "page_start": "607",
+              "journal_title": "Annals Math."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/391017"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "149",
+              "artid": "183",
+              "page_start": "183",
+              "journal_title": "Annals Math."
+            }
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9610061",
+            "publication_info": {
+              "journal_volume": "14",
+              "artid": "87",
+              "page_start": "87",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/425115"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9505041",
+            "publication_info": {
+              "journal_volume": "52",
+              "artid": "5397",
+              "page_start": "5397",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/395318"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9402041",
+            "publication_info": {
+              "journal_volume": "72",
+              "artid": "1782",
+              "page_start": "1782",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/371808"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "48",
+              "artid": "4645",
+              "page_start": "4645",
+              "journal_title": "Annals Math.D"
+            }
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9704040",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "6433",
+              "page_start": "6433",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/442210"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9811001",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "104011",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/478694"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9908046",
+            "publication_info": {
+              "journal_volume": "61",
+              "artid": "084006",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/505659"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9412008",
+            "publication_info": {
+              "journal_volume": "51",
+              "artid": "5558",
+              "page_start": "5558",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/380953"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9612015",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "3169",
+              "page_start": "3169",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/426969"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9908044",
+            "publication_info": {
+              "journal_volume": "60",
+              "artid": "104007",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/505541"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9802061",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "064024",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/467481"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9908016",
+            "publication_info": {
+              "journal_volume": "16",
+              "artid": "4111",
+              "page_start": "4111",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/505107"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9811004",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "104012",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/478697"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9806052",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "064003",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/471622"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "hep-th/9412138"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/381468"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "36",
+              "artid": "3575",
+              "page_start": "3575",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/245066"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "9",
+              "artid": "445",
+              "page_start": "445",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/335908"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9507054",
+            "publication_info": {
+              "journal_volume": "75",
+              "artid": "3214",
+              "page_start": "3214",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/397709"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9604019",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "695",
+              "page_start": "695",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/417456"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606023"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/419562"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9610069",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "6002",
+              "page_start": "6002",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/425257"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9710066",
+            "publication_info": {
+              "journal_volume": "57",
+              "artid": "7075",
+              "page_start": "7075",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/449640"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9711079",
+            "publication_info": {
+              "journal_volume": "57",
+              "artid": "7080",
+              "page_start": "7080",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/451574"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9712084",
+            "publication_info": {
+              "journal_volume": "2",
+              "artid": "1",
+              "page_start": "1",
+              "journal_title": "Adv.Theor.Math.Phys."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/452724"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9906124",
+            "publication_info": {
+              "journal_volume": "65",
+              "artid": "084021",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/502771"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606072",
+            "publication_info": {
+              "journal_volume": "54",
+              "artid": "7353",
+              "page_start": "7353",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/420116"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9307009",
+            "publication_info": {
+              "journal_volume": "49",
+              "artid": "883",
+              "page_start": "883",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/356846"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9511024",
+            "publication_info": {
+              "journal_volume": "13",
+              "artid": "2241",
+              "page_start": "2241",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/401928"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9506044",
+            "publication_info": {
+              "journal_volume": "13",
+              "artid": "497",
+              "page_start": "497",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/396495"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9607010"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/420411"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9412066",
+            "publication_info": {
+              "journal_volume": "51",
+              "artid": "4198",
+              "page_start": "4198",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/381762"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9506078",
+            "publication_info": {
+              "journal_volume": "52",
+              "artid": "5850",
+              "page_start": "5850",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/396761"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9511052",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "4696",
+              "page_start": "4696",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/402477"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606093",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "3485",
+              "page_start": "3485",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/420215"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606087",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "440",
+              "page_start": "440",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/420223"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9602001"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/415711"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9604046",
+            "publication_info": {
+              "journal_volume": "13",
+              "artid": "3057",
+              "page_start": "3057",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/417990"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9503007",
+            "publication_info": {
+              "journal_volume": "74",
+              "artid": "5170",
+              "page_start": "5170",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/393236"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "104008",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/497726"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "41",
+              "artid": "3866",
+              "page_start": "3866",
+              "journal_title": "Phys.Rev.D"
+            }
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "hep-th/9409185",
+            "publication_info": {
+              "journal_volume": "343",
+              "artid": "214",
+              "page_start": "214",
+              "journal_title": "Phys.Lett.B"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/377494"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9805043",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "084015",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/470361"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9904077",
+            "publication_info": {
+              "journal_volume": "60",
+              "artid": "061502",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/499083"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9606057",
+            "publication_info": {
+              "journal_volume": "77",
+              "artid": "1424",
+              "page_start": "1424",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/419789"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9504008",
+            "publication_info": {
+              "journal_volume": "366",
+              "artid": "82",
+              "page_start": "82",
+              "journal_title": "Phys.Lett.B"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/394036"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9809059",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "064031",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/476546"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "astro-ph/9709072",
+            "publication_info": {
+              "journal_volume": "80",
+              "artid": "5481",
+              "page_start": "5481",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/448227"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "astro-ph/9901292",
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "124013",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/494294"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9812053",
+            "publication_info": {
+              "journal_volume": "17",
+              "artid": "761",
+              "page_start": "761",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/480995"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9904052",
+            "publication_info": {
+              "journal_volume": "17",
+              "artid": "733",
+              "page_start": "733",
+              "journal_title": "Class.Quant.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/498566"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "59",
+              "artid": "2137",
+              "page_start": "2137",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/246561"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "42",
+              "artid": "1068",
+              "page_start": "1068",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/26275"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9402017",
+            "publication_info": {
+              "journal_volume": "91",
+              "artid": "1265",
+              "page_start": "1265",
+              "journal_title": "Prog.Theor.Phys."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/371490"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9608040",
+            "publication_info": {
+              "journal_volume": "55",
+              "artid": "4525",
+              "page_start": "4525",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/422233"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9601009",
+            "publication_info": {
+              "journal_volume": "54",
+              "artid": "3792",
+              "page_start": "3792",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/415166"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9409044",
+            "publication_info": {
+              "journal_volume": "204",
+              "artid": "7",
+              "page_start": "7",
+              "journal_title": "Phys.Lett.A"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/377139"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9804040",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "044007",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/469333"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "21",
+              "artid": "907",
+              "page_start": "907",
+              "journal_title": "Gen.Rel.Grav."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/285688"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "66",
+              "artid": "1659",
+              "page_start": "1659",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/324213"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "243",
+              "artid": "33",
+              "page_start": "33",
+              "journal_title": "Phys.Lett.B"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/303447"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "hep-th/9312017",
+            "publication_info": {
+              "journal_volume": "72",
+              "artid": "1584",
+              "page_start": "1584",
+              "journal_title": "Phys.Rev.Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/36652"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "hep-th/9502045",
+            "publication_info": {
+              "journal_volume": "349",
+              "artid": "438",
+              "page_start": "438",
+              "journal_title": "Phys.Lett.B"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/392637"
+          }
+        },
+        {
+          "reference": {
+            "publication_info": {
+              "journal_volume": "50",
+              "artid": "346",
+              "page_start": "346",
+              "journal_title": "JETP Lett."
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/289991"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9702022"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/440323"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9710068"
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/449642"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9608063",
+            "publication_info": {
+              "journal_volume": "56",
+              "artid": "753",
+              "page_start": "753",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/422630"
+          }
+        },
+        {
+          "reference": {
+            "arxiv_eprint": "gr-qc/9804041",
+            "publication_info": {
+              "journal_volume": "58",
+              "artid": "107502",
+              "journal_title": "Phys.Rev.D"
+            }
+          },
+          "curated_relation": false,
+          "record": {
+            "$ref": "https://inspirehep.net/api/literature/469378"
+          }
+        }
+      ],
+      "number_of_pages": 55,
+      "legacy_creation_date": "2000-01-18",
+      "preprint_date": "1999-11",
+      "author_count": 1,
+      "earliest_date": "1999-11",
+      "refereed": true,
+      "external_system_identifiers": [
+        {
+          "schema": "ADS",
+          "value": "1999LRR.....2....4G"
+        },
+        {
+          "schema": "SPIRES",
+          "value": "SPIRES-4297636"
+        }
+      ],
+      "publication_type": [
+        "review"
+      ],
+      "facet_author_name": [
+        "1007247_Carsten Gundlach"
+      ],
+      "journal_title_variants": [
+        "Living Rev. Rel.",
+        "Living Rev.Rel."
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0001046"
+        }
+      ],
+      "referenced_authors_bais": [
+        "J.H.Horne.1",
+        "G.V.Lavrelashvili.1",
+        "Tatsuhiko.Koike.1",
+        "M.W.Choptuik.1",
+        "A.C.Ottewill.1",
+        "Stephen.James.Coleman.1",
+        "Kouji.Nakamura.1",
+        "C.M.Chambers.1",
+        "M.E.Cahill.1",
+        "L.Parker.1",
+        "David.A.Lowe.1",
+        "Y.Peleg.3",
+        "M.Goliath.2",
+        "R.Bartnik.1",
+        "D.Garfinkle.1",
+        "C.Uggla.1",
+        "Z.Tabor.2",
+        "E.Seidel.6",
+        "A.H.Taub.1",
+        "R.L.Marsa.1",
+        "N.Straumann.1",
+        "A.M.Abrahams.1",
+        "P.Bizon.1",
+        "R.S.Hamade.1",
+        "D.M.Eardley.1",
+        "A.D.Rendall.1",
+        "S.Jhingan.1",
+        "S.Bose.2",
+        "G.C.Duncan.2",
+        "S.L.Liebling.1",
+        "K.Meyer.1",
+        "T.Piran.1",
+        "J.Yokoyama.1",
+        "E.W.Hirschmann.1",
+        "M.D.Roberts.1",
+        "C.Cutler.1",
+        "J.A.Pullin.1",
+        "B.J.Carr.1",
+        "S.Hod.1",
+        "P.C.Argyres.1",
+        "S.B.Giddings.1",
+        "An.Zhong.Wang.1",
+        "P.R.Brady.1",
+        "J.C.Niemeyer.1",
+        "Dmitri.V.Galtsov.1",
+        "T.Chmaj.1",
+        "T.P.Singh.1",
+        "S.Ayal.1",
+        "R.S.Hamade.2",
+        "A.Strominger.1",
+        "C.R.Evans.1",
+        "R.H.Price.1",
+        "W.M.Suen.1",
+        "T.Hara.6",
+        "P.S.Joshi.1",
+        "C.Gundlach.1",
+        "Valeri.P.Frolov.1",
+        "A.Ori.2",
+        "O.Brodbeck.1",
+        "A.Tomimatsu.1",
+        "H.P.de.Oliveira.1",
+        "D.S.Goldwirth.1",
+        "J.Wainwright.1",
+        "Zhi.Hong.Zhou.1",
+        "J.M.Martin.Garcia.1",
+        "J.Mckinnon.1",
+        "L.Thorlacius.1",
+        "D.Maison.1",
+        "M.S.Volkov.1",
+        "Y.Oshiro.2",
+        "S.W.Goode.1",
+        "M.Heusler.1",
+        "M.J.Cai.2",
+        "S.Adachi.5",
+        "A.O.Barvinsky.1",
+        "A.V.Frolov.3",
+        "Demetrios.Christodoulou.1",
+        "U.S.Nilsson.1",
+        "Jan.Schaeffer.1",
+        "K.Jedamzik.1",
+        "G.Rein.2",
+        "R.M.Wald.1",
+        "David.W.Neilsen.1",
+        "A.A.Coley.1",
+        "S.M.C.V.Goncalves.3",
+        "J.M.Stewart.2",
+        "L.M.Burko.1"
+      ],
+      "legacy_version": "20200430223321.0",
+      "inspire_categories": [
+        {
+          "term": "Gravitation and Cosmology"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Living Reviews in Relativity Server",
+          "value": "http://relativity.livingreviews.org/Articles/Volume2/1999-4gundlach/index.html"
+        }
+      ],
+      "first_author": {
+        "full_name": "Gundlach, Carsten",
+        "last_name": "Gundlach",
+        "first_name": "Carsten",
+        "recid": 1007247
+      },
+      "control_number": 513238,
+      "document_type": [
+        "article"
+      ],
+      "texkeys": [
+        "Gundlach:1999cu"
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "primary_arxiv_category": [
+        "gr-qc"
+      ],
+      "titles": [
+        {
+          "title": "Critical phenomena in gravitational collapse"
+        },
+        {
+          "source": "arXiv",
+          "title": "Critical phenomena in gravitational collapse - Living Reviews"
+        }
+      ],
+      "curated": true
+    },
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/513238?format=json",
+      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
+    },
+    "created": "2000-01-18T00:00:00+00:00"
+  },
+  {
+    "updated": "2023-03-06T15:07:33.241125+00:00",
+    "id": "467223",
+    "metadata": {
+      "authors": [
+        {
+          "full_name_unicode_normalized": "anninos, peter",
+          "full_name": "Anninos, Peter",
+          "record": {
+            "$ref": "https://inspirehep.net/api/authors/1018311"
+          },
+          "affiliations": [
+            {
+              "record": {
+                "$ref": "https://inspirehep.net/api/institutions/902965"
+              },
+              "value": "LLNL, Livermore"
+            }
+          ],
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "P.Anninos.1"
+            }
+          ],
+          "last_name": "Anninos",
+          "signature_block": "ANANp",
+          "uuid": "f17939be-d99f-4ff9-bb41-ba5de18927cc",
+          "first_name": "Peter",
+          "recid": 1018311
+        }
+      ],
+      "citation_count": 8,
+      "citation_count_without_self_citations": 8,
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "9",
+          "year": 1998,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1212837"
+          },
+          "page_start": "9",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "citeable": true,
+      "copyright": [
+        {
+          "url": "http://relativity.livingreviews.org/About/copyright.html"
+        }
+      ],
+      "$schema": "https://inspirehep.net/schemas/records/hep.json",
+      "legacy_version": "20161012001644.0",
+      "legacy_creation_date": "2000-10-10",
+      "preprint_date": "1998-08",
+      "author_count": 1,
+      "urls": [
+        {
+          "description": "Living Reviews in Relativity Server",
+          "value": "http://relativity.livingreviews.org/Articles/Volume1/1998-9anninos/index.html"
+        }
+      ],
+      "first_author": {
+        "full_name": "Anninos, Peter",
+        "last_name": "Anninos",
+        "first_name": "Peter",
+        "recid": 1018311
+      },
+      "control_number": 467223,
+      "earliest_date": "1998-08",
+      "document_type": [
+        "article"
+      ],
+      "texkeys": [
+        "Anninos:1998ci"
+      ],
+      "refereed": true,
+      "titles": [
+        {
+          "title": "Computational cosmology: From the early universe to the large scale structure"
+        }
+      ],
+      "external_system_identifiers": [
+        {
+          "schema": "KEKSCAN",
+          "value": "98-02-158"
+        },
+        {
+          "schema": "SPIRES",
+          "value": "SPIRES-3704254"
+        }
+      ],
+      "publication_type": [
+        "review"
+      ],
+      "facet_author_name": [
+        "1018311_Peter Anninos"
+      ],
+      "curated": true,
+      "journal_title_variants": [
+        "Living Rev.Rel.",
+        "Living Rev. Rel."
+      ]
+    },
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467223?format=json",
+      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
+    },
+    "created": "2000-10-10T00:00:00+00:00"
+  },
+  {
+    "updated": "2023-03-06T18:55:00.637468+00:00",
+    "id": "583592",
+    "metadata": {
       "authors": [
         {
           "full_name_unicode_normalized": "rendall, alan d.",
@@ -6786,6 +6783,12 @@
             "$ref": "https://inspirehep.net/api/authors/991974"
           },
           "last_name": "Rendall",
+          "ids": [
+            {
+              "schema": "INSPIRE BAI",
+              "value": "A.D.Rendall.1"
+            }
+          ],
           "affiliations": [
             {
               "record": {
@@ -6794,20 +6797,19 @@
               "value": "Potsdam, Max Planck Inst."
             }
           ],
-          "ids": [
-            {
-              "schema": "INSPIRE BAI",
-              "value": "A.D.Rendall.1"
-            }
-          ],
           "signature_block": "RANDALa",
           "first_name": "Alan D.",
           "uuid": "61075840-366d-49ef-8770-b33e7dc8d9ae",
           "recid": 991974
         }
       ],
-      "citation_count_without_self_citations": 18,
       "citation_count": 19,
+      "citation_count_without_self_citations": 18,
+      "report_numbers": [
+        {
+          "value": "AEI-2002-017"
+        }
+      ],
       "publication_info": [
         {
           "journal_volume": "5",
@@ -9593,8 +9595,6 @@
       "cv": "https://inspirehep.net/api/literature/583592?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
     },
-    "created": "2002-03-05T00:00:00+00:00",
-    "id": "583592",
-    "updated": "2023-03-06T18:55:00.637468+00:00"
+    "created": "2002-03-05T00:00:00+00:00"
   }
 ]
