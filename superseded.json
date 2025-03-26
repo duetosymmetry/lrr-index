@@ -1,301 +1,6 @@
 [
   {
-    "id": "589039",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Andreasson, Hakan",
-          "last_name": "Andreasson"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "5",
-          "artid": "7",
-          "year": 2002,
-          "page_start": "7",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "value": "The main purpose of this article is to provide a guide to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades in which the main focus has been on nonrelativistic and special relativistic physics, i.e., to model the dynamics of neutral gases, plasmas, and Newtonian self-gravitating systems. In 1990, Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically, and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models (i.e., fluid models). This paper gives introductions to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental to good comprehension of kinetic theory in general relativity."
-        },
-        {
-          "source": "arXiv",
-          "value": "The main purpose of this article is to guide the reader to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades where the main focus has been on nonrelativistic- and special relativistic physics, e.g. to model the dynamics of neutral gases, plasmas and Newtonian self-gravitating systems. In 1990 Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models (e.g. fluid models). The first part of this paper gives an introduction to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental in order to get a good comprehension of kinetic theory in general relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Andreasson, Hakan",
-        "last_name": "Andreasson",
-        "first_name": "Hakan",
-        "recid": 1031038
-      },
-      "control_number": 589039,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2002-7"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0206069"
-        }
-      ],
-      "titles": [
-        {
-          "title": "The Einstein-Vlasov System/Kinetic Theory"
-        },
-        {
-          "source": "arXiv",
-          "title": "The Einstein-Vlasov sytem/Kinetic theory"
-        }
-      ]
-    },
-    "created": "2002-06-25T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/589039?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/589039?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/589039?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/589039?format=json",
-      "cv": "https://inspirehep.net/api/literature/589039?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A589039"
-    },
-    "updated": "2023-03-06T14:30:43.369684+00:00"
-  },
-  {
-    "id": "708972",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Bojowald, Martin",
-          "last_name": "Bojowald"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "8",
-          "artid": "11",
-          "year": 2005,
-          "page_start": "11",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "Quantum gravity is expected to be necessary in order to understand situations where classical general relativity breaks down. In particular in cosmology one has to deal with initial singularities, i.e. the fact that the backward evolution of a classical space-time inevitably comes to an end after a finite amount of proper time. This presents a breakdown of the classical picture and requires an extended theory for a meaningful description. Since small length scales and high curvatures are involved, quantum effects must play a role. Not only the singularity itself but also the surrounding space-time is then modified. One particular realization is loop quantum cosmology, an application of loop quantum gravity to homogeneous systems, which removes classical singularities. Its implications can be studied at different levels. Main effects are introduced into effective classical equations which allow to avoid interpretational problems of quantum theory. They give rise to new kinds of early universe phenomenology with applications to inflation and cyclic models. To resolve classical singularities and to understand the structure of geometry around them, the quantum description is necessary. Classical evolution is then replaced by a difference equation for a wave function which allows to extend space-time beyond classical singularities. One main question is how these homogeneous scenarios are related to full loop quantum gravity, which can be dealt with at the level of distributional symmetric states. Finally, the new structure of space-time arising in loop quantum gravity and its application to cosmology sheds new light on more general issues such as time.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Bojowald, Martin",
-        "last_name": "Bojowald",
-        "first_name": "Martin",
-        "recid": 1015941
-      },
-      "control_number": 708972,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2005-11"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0601085"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Loop quantum cosmology"
-        },
-        {
-          "source": "arXiv",
-          "title": "Loop quantum cosmology."
-        },
-        {
-          "source": "arXiv",
-          "title": "Loop Quantum Cosmology"
-        }
-      ]
-    },
-    "created": "2006-01-22T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/708972?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/708972?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/708972?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/708972?format=json",
-      "cv": "https://inspirehep.net/api/literature/708972?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A708972"
-    },
-    "updated": "2023-03-09T22:54:35.625637+00:00"
-  },
-  {
-    "id": "467223",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Anninos, Peter",
-          "last_name": "Anninos"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "9",
-          "year": 1998,
-          "page_start": "9",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Anninos, Peter",
-        "last_name": "Anninos",
-        "first_name": "Peter",
-        "recid": 1018311
-      },
-      "control_number": 467223,
-      "titles": [
-        {
-          "title": "Computational cosmology: From the early universe to the large scale structure"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467223?format=json",
-      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
-    },
-    "updated": "2023-03-06T15:07:33.241125+00:00"
-  },
-  {
-    "id": "522775",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Rendall, Alan D.",
-          "last_name": "Rendall"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "3",
-          "artid": "1",
-          "year": 2000,
-          "page_start": "1",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "This article is a guide to the literature on existence theorems for the Einstein equations which also draws attention to open problems in the field. The local in time Cauchy problem, which is relatively well understood, is treated first. Next global results for solutions with symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. This is followed by a survey of global results in the case of small data and results on constructing spacetimes with given singularity structure. The article ends with some miscellaneous topics connected with the main theme.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Rendall, Alan D.",
-        "last_name": "Rendall",
-        "first_name": "Alan D.",
-        "recid": 991974
-      },
-      "control_number": 522775,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2000-1"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0001008"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Local and global existence theorems for the Einstein equations"
-        },
-        {
-          "source": "arXiv",
-          "title": "Local and global existence theorems for the Einstein equations"
-        }
-      ]
-    },
-    "created": "2000-01-06T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/522775?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/522775?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/522775?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/522775?format=json",
-      "cv": "https://inspirehep.net/api/literature/522775?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A522775"
-    },
-    "updated": "2023-03-10T04:02:11.582196+00:00"
-  },
-  {
-    "id": "467102",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Berger, Beverly K.",
-          "last_name": "Berger"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "7",
-          "year": 1998,
-          "page_start": "7",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Berger, Beverly K.",
-        "last_name": "Berger",
-        "first_name": "Beverly K.",
-        "recid": 1016665
-      },
-      "control_number": 467102,
-      "titles": [
-        {
-          "title": "Numerical approaches to space-time singularities"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467102?format=json",
-      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
-    },
-    "updated": "2023-03-10T05:25:53.877150+00:00"
-  },
-  {
-    "id": "622996",
+    "created": "2003-07-09T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -359,7 +64,8 @@
         }
       ]
     },
-    "created": "2003-07-09T00:00:00+00:00",
+    "updated": "2023-12-07T19:14:18.041478+00:00",
+    "id": "622996",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/622996?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/622996?format=latex-eu",
@@ -367,11 +73,320 @@
       "json": "https://inspirehep.net/api/literature/622996?format=json",
       "cv": "https://inspirehep.net/api/literature/622996?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A622996"
-    },
-    "updated": "2023-12-07T19:14:18.041478+00:00"
+    }
   },
   {
-    "id": "635166",
+    "created": "2006-06-15T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Szabados, Laszlo B.",
+          "last_name": "Szabados"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "7",
+          "artid": "4",
+          "year": 2004,
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "value": "The present status of the quasi-local mass-energy-momentum and angular momentum constructions in general relativity is reviewed. First the general ideas, concepts, and strategies, as well as the necessary tools to construct and analyze the quasi-local quantities are recalled. Then the various specific constructions and their properties (both successes and defects) are discussed. Finally, some of the (actual and potential) applications of the quasi-local concepts and specific constructions are briefly mentioned."
+        }
+      ],
+      "first_author": {
+        "full_name": "Szabados, Laszlo B.",
+        "last_name": "Szabados",
+        "first_name": "Laszlo B.",
+        "recid": 986960
+      },
+      "control_number": 656481,
+      "dois": [
+        {
+          "source": "submitter",
+          "value": "10.12942/lrr-2004-4"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article"
+        },
+        {
+          "title": "ENERGY MOMENTUM"
+        },
+        {
+          "title": "GENERAL RELATIVITY"
+        }
+      ]
+    },
+    "updated": "2024-08-28T03:00:29.002318+00:00",
+    "id": "656481",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/656481?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/656481?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/656481?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/656481?format=json",
+      "cv": "https://inspirehep.net/api/literature/656481?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A656481"
+    }
+  },
+  {
+    "created": "2007-01-03T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Postnov, Konstantin",
+          "last_name": "Postnov"
+        },
+        {
+          "full_name": "Yungelson, Lev",
+          "last_name": "Yungelson"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "9",
+          "artid": "6",
+          "year": 2006,
+          "page_start": "6",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "We review the formation and evolution of compact binary stars consisting of white dwarfs (WDs), neutron stars (NSs), and black holes (BHs). Binary NSs and BHs are thought to be the primary astrophysical sources of gravitational waves (GWs) within the frequency band of ground-based detectors, while compact binaries of WDs are important sources of GWs at lower frequencies to be covered by space interferometers (LISA). Major uncertainties in the current understanding of properties of NSs and BHs most relevant to the GW studies are discussed, including the treatment of the natal kicks which compact stellar remnants acquire during the core collapse of massive stars and the common envelope phase of binary evolution. We discuss the coalescence rates of binary NSs and BHs and prospects for their detections, the formation and evolution of binary WDs and their observational manifestations. Special attention is given to AM CVn-stars -- compact binaries in which the Roche lobe is filled by another WD or a low-mass partially degenerate helium-star, as these stars are thought to be the best LISA verification binary GW sources.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Postnov, Konstantin",
+        "last_name": "Postnov",
+        "first_name": "Konstantin",
+        "recid": 1034976
+      },
+      "control_number": 741603,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2006-6"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "astro-ph"
+          ],
+          "value": "astro-ph/0701059"
+        }
+      ],
+      "titles": [
+        {
+          "title": "The Evolution of Compact Binary Star Systems"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Evolution of Compact Binary Star Systems"
+        }
+      ]
+    },
+    "updated": "2023-12-12T09:41:45.647682+00:00",
+    "id": "741603",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/741603?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/741603?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/741603?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/741603?format=json",
+      "cv": "https://inspirehep.net/api/literature/741603?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741603"
+    }
+  },
+  {
+    "created": "2008-11-13T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Blanchet, Luc",
+          "last_name": "Blanchet"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "9",
+          "artid": "4",
+          "year": 2006,
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "first_author": {
+        "full_name": "Blanchet, Luc",
+        "last_name": "Blanchet",
+        "first_name": "Luc",
+        "recid": 1016196
+      },
+      "control_number": 741066,
+      "titles": [
+        {
+          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries"
+        }
+      ]
+    },
+    "updated": "2023-03-06T13:39:39.151188+00:00",
+    "id": "741066",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/741066?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/741066?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/741066?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/741066?format=json",
+      "cv": "https://inspirehep.net/api/literature/741066?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
+    }
+  },
+  {
+    "created": "2000-01-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Rendall, Alan D.",
+          "last_name": "Rendall"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "3",
+          "artid": "1",
+          "year": 2000,
+          "page_start": "1",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "This article is a guide to the literature on existence theorems for the Einstein equations which also draws attention to open problems in the field. The local in time Cauchy problem, which is relatively well understood, is treated first. Next global results for solutions with symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. This is followed by a survey of global results in the case of small data and results on constructing spacetimes with given singularity structure. The article ends with some miscellaneous topics connected with the main theme.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Rendall, Alan D.",
+        "last_name": "Rendall",
+        "first_name": "Alan D.",
+        "recid": 991974
+      },
+      "control_number": 522775,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2000-1"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0001008"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Local and global existence theorems for the Einstein equations"
+        },
+        {
+          "source": "arXiv",
+          "title": "Local and global existence theorems for the Einstein equations"
+        }
+      ]
+    },
+    "updated": "2023-03-10T04:02:11.582196+00:00",
+    "id": "522775",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/522775?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/522775?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/522775?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/522775?format=json",
+      "cv": "https://inspirehep.net/api/literature/522775?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A522775"
+    }
+  },
+  {
+    "created": "2005-11-09T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Lorimer, Duncan R.",
+          "last_name": "Lorimer"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "8",
+          "artid": "7",
+          "year": 2005,
+          "page_start": "7",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "We review the main properties, demographics and applications of binary and millisecond radio pulsars. Our knowledge of these exciting objects has greatly increased in recent years, mainly due to successful surveys which have brought the known pulsar population to over 1700. There are now 80 binary and millisecond pulsars associated with the disk of our Galaxy, and a further 103 pulsars in 24 of the Galactic globular clusters. Recent highlights have been the discovery of the first ever double pulsar system and a recent flurry of discoveries in globular clusters, in particular Terzan 5.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Lorimer, Duncan R.",
+        "last_name": "Lorimer",
+        "first_name": "Duncan R.",
+        "recid": 1025325
+      },
+      "control_number": 697320,
+      "dois": [
+        {
+          "source": "ADS",
+          "value": "10.12942/lrr-2005-7"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Binary and millisecond pulsars"
+        },
+        {
+          "source": "arXiv",
+          "title": "Binary and Millisecond Pulsars"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "astro-ph"
+          ],
+          "value": "astro-ph/0511258"
+        }
+      ]
+    },
+    "updated": "2023-12-12T09:36:45.554222+00:00",
+    "id": "697320",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/697320?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/697320?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/697320?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/697320?format=json",
+      "cv": "https://inspirehep.net/api/literature/697320?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A697320"
+    }
+  },
+  {
+    "created": "2003-12-11T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -444,7 +459,8 @@
         }
       ]
     },
-    "created": "2003-12-11T00:00:00+00:00",
+    "updated": "2023-03-07T04:33:54.229752+00:00",
+    "id": "635166",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/635166?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/635166?format=latex-eu",
@@ -452,309 +468,52 @@
       "json": "https://inspirehep.net/api/literature/635166?format=json",
       "cv": "https://inspirehep.net/api/literature/635166?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A635166"
-    },
-    "updated": "2023-03-07T04:33:54.229752+00:00"
+    }
   },
   {
-    "id": "1252897",
+    "created": "2000-10-10T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Shibata, Masaru",
-          "last_name": "Shibata"
-        },
-        {
-          "full_name": "Taniguchi, Keisuke",
-          "last_name": "Taniguchi"
+          "full_name": "Berger, Beverly K.",
+          "last_name": "Berger"
         }
       ],
       "publication_info": [
         {
-          "journal_volume": "14",
-          "artid": "6",
-          "year": 2011,
-          "page_start": "6",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "value": "We review the current status of general relativistic studies for the coalescence of black hole-neutron star (BH-NS) binaries. First, procedures for a solution of BH-NS binaries in quasi-equilibrium circular orbits and the numerical results, such as quasi-equilibrium sequence and mass-shedding limit, of the high-precision computation, are summarized. Then, the current status of numerical-relativity simulations for the merger of BH-NS binaries is described. We summarize our understanding for the merger and/or tidal disruption processes, the criterion for tidal disruption, the properties of the remnant formed after the tidal disruption, gravitational waveform, and gravitational-wave spectrum."
-        }
-      ],
-      "first_author": {
-        "full_name": "Shibata, Masaru",
-        "last_name": "Shibata",
-        "first_name": "Masaru",
-        "recid": 989011
-      },
-      "control_number": 1252897,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2011-6"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Coalescence of Black Hole-Neutron Star Binaries"
-        }
-      ]
-    },
-    "created": "2013-09-06T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1252897?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1252897?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1252897?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1252897?format=json",
-      "cv": "https://inspirehep.net/api/literature/1252897?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252897"
-    },
-    "updated": "2024-01-09T06:42:26.332874+00:00"
-  },
-  {
-    "id": "697320",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Lorimer, Duncan R.",
-          "last_name": "Lorimer"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "8",
+          "journal_volume": "1",
           "artid": "7",
-          "year": 2005,
+          "year": 1998,
           "page_start": "7",
           "journal_title": "Living Rev.Rel."
         }
       ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "We review the main properties, demographics and applications of binary and millisecond radio pulsars. Our knowledge of these exciting objects has greatly increased in recent years, mainly due to successful surveys which have brought the known pulsar population to over 1700. There are now 80 binary and millisecond pulsars associated with the disk of our Galaxy, and a further 103 pulsars in 24 of the Galactic globular clusters. Recent highlights have been the discovery of the first ever double pulsar system and a recent flurry of discoveries in globular clusters, in particular Terzan 5.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
       "first_author": {
-        "full_name": "Lorimer, Duncan R.",
-        "last_name": "Lorimer",
-        "first_name": "Duncan R.",
-        "recid": 1025325
+        "full_name": "Berger, Beverly K.",
+        "last_name": "Berger",
+        "first_name": "Beverly K.",
+        "recid": 1016665
       },
-      "control_number": 697320,
-      "dois": [
-        {
-          "source": "ADS",
-          "value": "10.12942/lrr-2005-7"
-        }
-      ],
+      "control_number": 467102,
       "titles": [
         {
-          "title": "Binary and millisecond pulsars"
-        },
-        {
-          "source": "arXiv",
-          "title": "Binary and Millisecond Pulsars"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "astro-ph"
-          ],
-          "value": "astro-ph/0511258"
+          "title": "Numerical approaches to space-time singularities"
         }
       ]
     },
-    "created": "2005-11-09T00:00:00+00:00",
+    "updated": "2023-03-10T05:25:53.877150+00:00",
+    "id": "467102",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/697320?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/697320?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/697320?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/697320?format=json",
-      "cv": "https://inspirehep.net/api/literature/697320?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A697320"
-    },
-    "updated": "2023-12-12T09:36:45.554222+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467102?format=json",
+      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
+    }
   },
   {
-    "id": "741066",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Blanchet, Luc",
-          "last_name": "Blanchet"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "9",
-          "artid": "4",
-          "year": 2006,
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Blanchet, Luc",
-        "last_name": "Blanchet",
-        "first_name": "Luc",
-        "recid": 1016196
-      },
-      "control_number": 741066,
-      "titles": [
-        {
-          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries"
-        }
-      ]
-    },
-    "created": "2008-11-13T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/741066?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/741066?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/741066?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/741066?format=json",
-      "cv": "https://inspirehep.net/api/literature/741066?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
-    },
-    "updated": "2023-03-06T13:39:39.151188+00:00"
-  },
-  {
-    "id": "656481",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Szabados, Laszlo B.",
-          "last_name": "Szabados"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "7",
-          "artid": "4",
-          "year": 2004,
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "value": "The present status of the quasi-local mass-energy-momentum and angular momentum constructions in general relativity is reviewed. First the general ideas, concepts, and strategies, as well as the necessary tools to construct and analyze the quasi-local quantities are recalled. Then the various specific constructions and their properties (both successes and defects) are discussed. Finally, some of the (actual and potential) applications of the quasi-local concepts and specific constructions are briefly mentioned."
-        }
-      ],
-      "first_author": {
-        "full_name": "Szabados, Laszlo B.",
-        "last_name": "Szabados",
-        "first_name": "Laszlo B.",
-        "recid": 986960
-      },
-      "control_number": 656481,
-      "dois": [
-        {
-          "source": "submitter",
-          "value": "10.12942/lrr-2004-4"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article"
-        },
-        {
-          "title": "ENERGY MOMENTUM"
-        },
-        {
-          "title": "GENERAL RELATIVITY"
-        }
-      ]
-    },
-    "created": "2006-06-15T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/656481?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/656481?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/656481?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/656481?format=json",
-      "cv": "https://inspirehep.net/api/literature/656481?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A656481"
-    },
-    "updated": "2024-08-28T03:00:29.002318+00:00"
-  },
-  {
-    "id": "741603",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Postnov, Konstantin",
-          "last_name": "Postnov"
-        },
-        {
-          "full_name": "Yungelson, Lev",
-          "last_name": "Yungelson"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "9",
-          "artid": "6",
-          "year": 2006,
-          "page_start": "6",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "We review the formation and evolution of compact binary stars consisting of white dwarfs (WDs), neutron stars (NSs), and black holes (BHs). Binary NSs and BHs are thought to be the primary astrophysical sources of gravitational waves (GWs) within the frequency band of ground-based detectors, while compact binaries of WDs are important sources of GWs at lower frequencies to be covered by space interferometers (LISA). Major uncertainties in the current understanding of properties of NSs and BHs most relevant to the GW studies are discussed, including the treatment of the natal kicks which compact stellar remnants acquire during the core collapse of massive stars and the common envelope phase of binary evolution. We discuss the coalescence rates of binary NSs and BHs and prospects for their detections, the formation and evolution of binary WDs and their observational manifestations. Special attention is given to AM CVn-stars -- compact binaries in which the Roche lobe is filled by another WD or a low-mass partially degenerate helium-star, as these stars are thought to be the best LISA verification binary GW sources.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Postnov, Konstantin",
-        "last_name": "Postnov",
-        "first_name": "Konstantin",
-        "recid": 1034976
-      },
-      "control_number": 741603,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2006-6"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "astro-ph"
-          ],
-          "value": "astro-ph/0701059"
-        }
-      ],
-      "titles": [
-        {
-          "title": "The Evolution of Compact Binary Star Systems"
-        },
-        {
-          "source": "arXiv",
-          "title": "The Evolution of Compact Binary Star Systems"
-        }
-      ]
-    },
-    "created": "2007-01-03T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/741603?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/741603?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/741603?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/741603?format=json",
-      "cv": "https://inspirehep.net/api/literature/741603?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741603"
-    },
-    "updated": "2023-12-12T09:41:45.647682+00:00"
-  },
-  {
-    "id": "1312049",
+    "created": "2014-08-25T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -821,7 +580,8 @@
         }
       ]
     },
-    "created": "2014-08-25T00:00:00+00:00",
+    "updated": "2023-12-07T16:18:44.492194+00:00",
+    "id": "1312049",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/1312049?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/1312049?format=latex-eu",
@@ -829,1017 +589,66 @@
       "json": "https://inspirehep.net/api/literature/1312049?format=json",
       "cv": "https://inspirehep.net/api/literature/1312049?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1312049"
-    },
-    "updated": "2023-12-07T16:18:44.492194+00:00"
+    }
   },
   {
-    "id": "534814",
+    "created": "2013-09-06T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Rowan, Sheila",
-          "last_name": "Rowan"
+          "full_name": "Shibata, Masaru",
+          "last_name": "Shibata"
         },
         {
-          "full_name": "Rowan, Sheila",
-          "last_name": "Rowan"
-        },
-        {
-          "full_name": "Hough, Jim",
-          "last_name": "Hough"
-        },
-        {
-          "full_name": "Hough, Jim",
-          "last_name": "Hough"
+          "full_name": "Taniguchi, Keisuke",
+          "last_name": "Taniguchi"
         }
       ],
       "publication_info": [
         {
-          "journal_volume": "3",
-          "artid": "3",
-          "year": 2000,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        },
-        {
-          "journal_volume": "25",
-          "artid": "5",
-          "year": 2022,
-          "page_start": "5",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "emails": [
-          "srowan@loki.stanford.edu"
-        ],
-        "affiliations_identifiers": [
-          {
-            "schema": "GRID",
-            "value": "grid.168010.e"
-          }
-        ],
-        "full_name": "Rowan, Sheila",
-        "last_name": "Rowan",
-        "first_name": "Sheila",
-        "recid": 2129857
-      },
-      "control_number": 534814,
-      "dois": [
-        {
-          "material": "erratum",
-          "source": "Springer",
-          "value": "10.1007/s41114-022-00039-6"
-        },
-        {
-          "source": "Springer",
-          "value": "10.12942/lrr-2000-3"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Gravitational wave detection by interferometry (ground and space)"
-        },
-        {
-          "source": "Springer",
-          "title": "Correction to: Gravitational wave detection by interferometry (ground and space) [doi: 10.12942/lrr-2000-3]"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/534814?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/534814?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/534814?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/534814?format=json",
-      "cv": "https://inspirehep.net/api/literature/534814?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
-    },
-    "updated": "2023-03-07T03:21:51.131269+00:00"
-  },
-  {
-    "id": "1507775",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Winicour, Jeffrey",
-          "last_name": "Winicour"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "12",
-          "artid": "3",
-          "year": 2009,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress in characteristic evolution is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black hole spacetime. Cauchy codes have now been successful at simulating all aspects of the binary black hole problem inside an artificially constructed outer boundary. A prime application of characteristic evolution is to extend such simulations to null infinity where the waveform from the binary inspiral and merger can be unambiguously computed. This has now been accomplished by Cauchy-characteristic extraction, where data for the characteristic evolution is supplied by Cauchy data on an extraction worldtube inside the artificial outer boundary. The ultimate application of characteristic evolution is to eliminate the role of this outer boundary by constructing a global solution via Cauchy-characteristic matching. Progress in this direction is discussed.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Winicour, Jeffrey",
-        "last_name": "Winicour",
-        "first_name": "Jeffrey",
-        "recid": 983404
-      },
-      "control_number": 1507775,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2009-3"
-        }
-      ],
-      "titles": [
-        {
-          "source": "arXiv",
-          "title": "Characteristic Evolution and Matching"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "0810.1903"
-        }
-      ]
-    },
-    "created": "2017-01-05T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1507775?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1507775?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1507775?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1507775?format=json",
-      "cv": "https://inspirehep.net/api/literature/1507775?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1507775"
-    },
-    "updated": "2023-03-09T17:26:20.371631+00:00"
-  },
-  {
-    "id": "467091",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Heusler, Markus",
-          "last_name": "Heusler"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
+          "journal_volume": "14",
           "artid": "6",
-          "year": 1998,
+          "year": 2011,
           "page_start": "6",
           "journal_title": "Living Rev.Rel."
         }
       ],
       "abstracts": [
         {
-          "value": "The spectrum of known black hole solutions to the stationary Einstein equations has increased in an unexpected way during the last decade. In particular, it has turned out that not all black hole equilibrium configurations are characterized by their mass, angular momentum and global charges. Moreover, the high degree of symmetry displayed by vacuum and electro-vacuum black hole space-times ceases to exist in self-gravitating non-linear field theories. This text aims to review some of the recent developments and to discuss them in the light of the uniqueness theorem for the Einstein-Maxwell system."
+          "value": "We review the current status of general relativistic studies for the coalescence of black hole-neutron star (BH-NS) binaries. First, procedures for a solution of BH-NS binaries in quasi-equilibrium circular orbits and the numerical results, such as quasi-equilibrium sequence and mass-shedding limit, of the high-precision computation, are summarized. Then, the current status of numerical-relativity simulations for the merger of BH-NS binaries is described. We summarize our understanding for the merger and/or tidal disruption processes, the criterion for tidal disruption, the properties of the remnant formed after the tidal disruption, gravitational waveform, and gravitational-wave spectrum."
         }
       ],
       "first_author": {
-        "full_name": "Heusler, Markus",
-        "last_name": "Heusler",
-        "first_name": "Markus",
-        "recid": 1006090
+        "full_name": "Shibata, Masaru",
+        "last_name": "Shibata",
+        "first_name": "Masaru",
+        "recid": 989011
       },
-      "control_number": 467091,
+      "control_number": 1252897,
       "dois": [
         {
-          "value": "10.12942/lrr-1998-6"
+          "value": "10.12942/lrr-2011-6"
         }
       ],
       "titles": [
         {
-          "title": "Stationary black holes: Uniqueness and beyond"
+          "title": "Coalescence of Black Hole-Neutron Star Binaries"
         }
       ]
     },
-    "created": "2000-10-10T00:00:00+00:00",
+    "updated": "2024-01-09T06:42:26.332874+00:00",
+    "id": "1252897",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467091?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467091?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467091?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467091?format=json",
-      "cv": "https://inspirehep.net/api/literature/467091?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467091"
-    },
-    "updated": "2023-08-08T17:41:04.690118+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/1252897?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1252897?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1252897?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1252897?format=json",
+      "cv": "https://inspirehep.net/api/literature/1252897?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252897"
+    }
   },
   {
-    "id": "613062",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Stergioulas, Nikolaos",
-          "last_name": "Stergioulas"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "6",
-          "artid": "3",
-          "year": 2003,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "Rotating relativistic stars have been studied extensively in recent years, both theoretically and observationally, because of the information one could obtain about the equation of state of matter at extremely high densities and because they are considered to be promising sources of gravitational waves. The latest theoretical understanding of rotating stars in relativity is reviewed in this updated article. The sections on the equilibrium properties and on the nonaxisymmetric instabilities in f-modes and r-modes have been updated and several new sections have been added on analytic solutions for the exterior spacetime, rotating stars in LMXBs, rotating strange stars, and on rotating stars in numerical relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Stergioulas, Nikolaos",
-        "last_name": "Stergioulas",
-        "first_name": "Nikolaos",
-        "recid": 987552
-      },
-      "control_number": 613062,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2003-3"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0302034"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Rotating Stars in Relativity"
-        },
-        {
-          "source": "arXiv",
-          "title": "Rotating stars in relativity."
-        },
-        {
-          "source": "arXiv",
-          "title": "Rotating Stars in Relativity"
-        }
-      ]
-    },
-    "created": "2003-02-11T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/613062?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/613062?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/613062?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/613062?format=json",
-      "cv": "https://inspirehep.net/api/literature/613062?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A613062"
-    },
-    "updated": "2024-02-16T11:50:48.811351+00:00"
-  },
-  {
-    "id": "449184",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Rovelli, Carlo",
-          "last_name": "Rovelli"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "1",
-          "year": 1998,
-          "page_start": "1",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "The problem of finding the quantum theory of the gravitational field, and thus understanding what is quantum spacetime, is still open. One of the most active of the current approaches is loop quantum gravity. Loop quantum gravity is a mathematically well-defined, non-perturbative and background independent quantization of general relativity, with its conventional matter couplings. The research in loop quantum gravity forms today a vast area, ranging from mathematical foundations to physical applications. Among the most significative results obtained are: (i) The computation of the physical spectra of geometrical quantities such as area and volume; which yields quantitative predictions on Planck-scale physics. (ii) A derivation of the Bekenstein-Hawking black hole entropy formula. (iii) An intriguing physical picture of the microstructure of quantum physical space, characterized by a polymer-like Planck scale discreteness. This discreteness emerges naturally from the quantum theory and provides a mathematically well-defined realization of Wheeler's intuition of a spacetime ``foam''. Long standing open problems within the approach (lack of a scalar product, overcompleteness of the loop basis, implementation of reality conditions) have been fully solved. The weak part of the approach is the treatment of the dynamics: at present there exist several proposals, which are intensely debated. Here, I provide a general overview of ideas, techniques, results and open problems of this candidate theory of quantum gravity, and a guide to the relevant literature.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Rovelli, Carlo",
-        "last_name": "Rovelli",
-        "first_name": "Carlo",
-        "recid": 991095
-      },
-      "control_number": 449184,
-      "dois": [
-        {
-          "value": "10.12942/lrr-1998-1"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/9710008"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Loop quantum gravity"
-        },
-        {
-          "source": "arXiv",
-          "title": "Loop quantum gravity."
-        },
-        {
-          "source": "arXiv",
-          "title": "Loop Quantum Gravity"
-        }
-      ]
-    },
-    "created": "1997-10-02T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/449184?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/449184?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/449184?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/449184?format=json",
-      "cv": "https://inspirehep.net/api/literature/449184?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A449184"
-    },
-    "updated": "2023-03-07T03:23:46.728113+00:00"
-  },
-  {
-    "id": "695239",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Will, Clifford M.",
-          "last_name": "Will"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "9",
-          "artid": "3",
-          "year": 2006,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "The status of experimental tests of general relativity and of theoretical frameworks for analysing them is reviewed. Einstein's equivalence principle (EEP) is well supported by experiments such as the Eotvos experiment, tests of special relativity, and the gravitational redshift experiment. Future tests of EEP and of the inverse square law are searching for new interactions arising from unification or quantum gravity. Tests of general relativity at the post-Newtonian level have reached high precision, including the light deflection, the Shapiro time delay, the perihelion advance of Mercury, and the Nordtvedt effect in lunar motion. Gravitational-wave damping has been detected in an amount that agrees with general relativity to better than half a percent using the Hulse-Taylor binary pulsar, and other binary pulsar systems have yielded other tests, especially of strong-field effects. When direct observation of gravitational radiation from astrophysical sources begins, new tests of general relativity will be possible.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Will, Clifford M.",
-        "last_name": "Will",
-        "first_name": "Clifford M.",
-        "recid": 983523
-      },
-      "control_number": 695239,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2006-3"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0510072"
-        }
-      ],
-      "titles": [
-        {
-          "title": "The Confrontation between general relativity and experiment"
-        },
-        {
-          "source": "arXiv",
-          "title": "The confrontation between general relativity and experiment."
-        },
-        {
-          "source": "arXiv",
-          "title": "The Confrontation between General Relativity and Experiment"
-        }
-      ]
-    },
-    "created": "2005-10-17T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/695239?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/695239?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/695239?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/695239?format=json",
-      "cv": "https://inspirehep.net/api/literature/695239?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A695239"
-    },
-    "updated": "2024-10-01T16:33:30.463564+00:00"
-  },
-  {
-    "id": "553300",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Winicour, Jeffrey",
-          "last_name": "Winicour"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "4",
-          "artid": "3",
-          "year": 2001,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress is traced from the early stage of 1D feasibility studies to current 3D black codes that simulate binary black holes. A prime application of characteristic evolution is Cauchy-characteristic matching, which is also reviewed.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "emails": [
-          "jeff@einstein.phyast.pitt.edu"
-        ],
-        "full_name": "Winicour, Jeffrey",
-        "last_name": "Winicour",
-        "first_name": "Jeffrey",
-        "recid": 983404
-      },
-      "control_number": 553300,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2001-3"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0102085"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Characteristic evolution and matching"
-        },
-        {
-          "source": "arXiv",
-          "title": "Characteristic Evolution and Matching"
-        }
-      ]
-    },
-    "created": "2001-02-21T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/553300?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/553300?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/553300?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/553300?format=json",
-      "cv": "https://inspirehep.net/api/literature/553300?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A553300"
-    },
-    "updated": "2023-03-06T20:02:05.668057+00:00"
-  },
-  {
-    "id": "470081",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Stergioulas, Nikolaos",
-          "last_name": "Stergioulas"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "8",
-          "year": 1998,
-          "page_start": "8",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "Rotating relativistic stars are receiving significant attention in recent years, because of the information they can yield about the equation of state of matter at extremely high densities and because they are one of the more possible sources of detectable gravitational waves. We review the latest theoretical and numerical methods for modeling rotating relativistic stars, including stars with a strong magnetic field and hot proto-neutron stars. We also review nonaxisymmetric oscillations and instabilities in rotating stars and summarize the latest developments regarding the gravitational wave-driven (CFS) instability in both polar and axial quasi-normal modes.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Stergioulas, Nikolaos",
-        "last_name": "Stergioulas",
-        "first_name": "Nikolaos",
-        "recid": 987552
-      },
-      "control_number": 470081,
-      "dois": [
-        {
-          "value": "10.12942/lrr-1998-8"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/9805012"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Rotating stars in relativity"
-        },
-        {
-          "source": "arXiv",
-          "title": "Rotating stars in relativity."
-        },
-        {
-          "source": "arXiv",
-          "title": "Rotating Stars in Relativity"
-        }
-      ]
-    },
-    "created": "1998-05-06T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/470081?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/470081?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/470081?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/470081?format=json",
-      "cv": "https://inspirehep.net/api/literature/470081?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A470081"
-    },
-    "updated": "2024-02-16T11:35:55.269259+00:00"
-  },
-  {
-    "id": "513238",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Gundlach, Carsten",
-          "last_name": "Gundlach"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "2",
-          "artid": "4",
-          "year": 1999,
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Gundlach, Carsten",
-        "last_name": "Gundlach",
-        "first_name": "Carsten",
-        "recid": 1007247
-      },
-      "control_number": 513238,
-      "titles": [
-        {
-          "title": "Critical phenomena in gravitational collapse"
-        },
-        {
-          "source": "arXiv",
-          "title": "Critical phenomena in gravitational collapse - Living Reviews"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0001046"
-        }
-      ]
-    },
-    "created": "2000-01-18T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/513238?format=json",
-      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
-    },
-    "updated": "2023-03-06T17:28:46.759174+00:00"
-  },
-  {
-    "id": "582619",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Blanchet, Luc",
-          "last_name": "Blanchet"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "5",
-          "artid": "3",
-          "year": 2002,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "The article reviews the current status of a theoretical approach to the problem of the emission of gravitational waves by isolated systems in the context of general relativity. Part A of the article deals with general post-Newtonian sources. The exterior field of the source is investigated by means of a combination of analytic post-Minkowskian and multipolar approximations. The physical observables in the far-zone of the source are described by a specific set of radiative multipole moments. By matching the exterior solution to the metric of the post-Newtonian source in the near-zone we obtain the explicit expressions of the source multipole moments. The relationships between the radiative and source moments involve many non-linear multipole interactions, among them those associated with the tails (and tails-of-tails) of gravitational waves. Part B of the article is devoted to the application to compact binary systems. We present the equations of binary motion, and the associated Lagrangian and Hamiltonian, at the third post-Newtonian (3PN) order beyond the Newtonian acceleration. The gravitational-wave energy flux, taking consistently into account the relativistic corrections in the binary moments as well as the various tail effects, is derived through 3.5PN order with respect to the quadrupole formalism. The binary's orbital phase, whose prior knowledge is crucial for searching and analyzing the signals from inspiralling compact binaries, is deduced from an energy balance argument.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Blanchet, Luc",
-        "last_name": "Blanchet",
-        "first_name": "Luc",
-        "recid": 1016196
-      },
-      "control_number": 582619,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2002-3"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0202016"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Gravitational radiation from postNewtonian sources and inspiraling compact binaries"
-        },
-        {
-          "source": "arXiv",
-          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries."
-        },
-        {
-          "source": "arXiv",
-          "title": "Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries"
-        }
-      ]
-    },
-    "created": "2002-02-07T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/582619?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/582619?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/582619?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/582619?format=json",
-      "cv": "https://inspirehep.net/api/literature/582619?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A582619"
-    },
-    "updated": "2025-01-14T09:05:29.781689+00:00"
-  },
-  {
-    "id": "574608",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Lorimer, D.R.",
-          "last_name": "Lorimer"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "4",
-          "artid": "5",
-          "year": 2001,
-          "page_start": "5",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "We review the properties and applications of binary and millisecond pulsars. Our knowledge of these exciting objects has greatly increased in recent years, mainly due to successful surveys which have brought the known pulsar population to over 1300. There are now 56 binary and millisecond pulsars in the Galactic disk and a further 47 in globular clusters. This review is concerned primarily with the results and spin-offs from these surveys which are of particular interest to the relativity community.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Lorimer, D.R.",
-        "last_name": "Lorimer",
-        "first_name": "D.R.",
-        "recid": 1025325
-      },
-      "control_number": 574608,
-      "dois": [
-        {
-          "source": "ADS",
-          "value": "10.12942/lrr-2001-5"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Binary and millisecond pulsars at the new millennium"
-        },
-        {
-          "source": "arXiv",
-          "title": "Binary and Millisecond Pulsars at the New Millennium"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "astro-ph"
-          ],
-          "value": "astro-ph/0104388"
-        }
-      ]
-    },
-    "created": "2002-09-12T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/574608?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/574608?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/574608?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/574608?format=json",
-      "cv": "https://inspirehep.net/api/literature/574608?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A574608"
-    },
-    "updated": "2023-03-07T00:15:47.022250+00:00"
-  },
-  {
-    "id": "1252896",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Benacquista, Matthew J.",
-          "last_name": "Benacquista"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "9",
-          "artid": "2",
-          "year": 2006,
-          "page_start": "2",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "value": "The galactic population of globular clusters are old, dense star systems, with a typical cluster containing 10^4 - 10^7 stars. As an old population of stars, globular clusters contain many collapsed and degenerate objects. As a dense population of stars, globular clusters are the scene of many interesting close dynamical interactions between stars. These dynamical interactions can alter the evolution of individual stars and can produce tight binary systems containing one or two compact objects. In this review, we discuss the theoretical models of globular cluster evolution and binary evolution, techniques for simulating this evolution which lead to relativistic binaries, and current and possible future observational evidence for this population. Globular cluster evolution will focus on the properties that boost the production of hard binary systems and on the tidal interactions of the galaxy with the cluster, which tend to alter the structure of the globular cluster with time. The interaction of the components of hard binary systems alters the evolution of both bodies and can lead to exotic objects. Direct N-body integrations and Fokker-Planck simulations of the evolution of globular clusters that incorporate tidal interactions and lead to predictions of relativistic binary populations are also discussed. We discuss the current observational evidence for cataclysmic variables, millisecond pulsars, and low-mass X-ray binaries as well as possible future detection of relativistic binaries with gravitational radiation."
-        }
-      ],
-      "first_author": {
-        "full_name": "Benacquista, Matthew J.",
-        "last_name": "Benacquista",
-        "first_name": "Matthew J.",
-        "recid": 1016798
-      },
-      "control_number": 1252896,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2006-2"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Relativistic Binaries in Globular Clusters"
-        }
-      ]
-    },
-    "created": "2013-09-06T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1252896?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1252896?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1252896?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1252896?format=json",
-      "cv": "https://inspirehep.net/api/literature/1252896?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252896"
-    },
-    "updated": "2024-10-01T16:44:41.050392+00:00"
-  },
-  {
-    "id": "467231",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Lorimer, D.R.",
-          "last_name": "Lorimer"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "10",
-          "year": 1998,
-          "page_start": "10",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Lorimer, D.R.",
-        "last_name": "Lorimer",
-        "first_name": "D.R.",
-        "recid": 1025325
-      },
-      "control_number": 467231,
-      "titles": [
-        {
-          "title": "Binary and millisecond pulsars"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467231?format=json",
-      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
-    },
-    "updated": "2023-03-06T14:05:57.644184+00:00"
-  },
-  {
-    "id": "525447",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Font, Jose A.",
-          "last_name": "Font"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "3",
-          "artid": "2",
-          "year": 2000,
-          "page_start": "2",
-          "journal_title": "Living Rev.Rel."
-        },
-        {
-          "journal_volume": "6",
-          "artid": "4",
-          "year": 2003,
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "The current status of numerical solutions for the equations of ideal general relativistic hydrodynamics is reviewed. With respect to an earlier version of the article the present update provides additional information on numerical schemes and extends the discussion of astrophysical simulations in general relativistic hydrodynamics. Different formulations of the equations are presented, with special mention of conservative and hyperbolic formulations well-adapted to advanced numerical methods. A large sample of available numerical schemes is discussed, paying particular attention to solution procedures based on schemes exploiting the characteristic structure of the equations through linearized Riemann solvers. A comprehensive summary of astrophysical simulations in strong gravitational fields is presented. These include gravitational collapse, accretion onto black holes and hydrodynamical evolutions of neutron stars. The material contained in these sections highlights the numerical challenges of various representative simulations. It also follows, to some extent, the chronological development of the field, concerning advances on the formulation of the gravitational field and hydrodynamic equations and the numerical methodology designed to solve them.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Font, Jose A.",
-        "last_name": "Font",
-        "first_name": "Jose A.",
-        "recid": 1009734
-      },
-      "control_number": 525447,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2000-2"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0003101"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Numerical hydrodynamics in general relativity"
-        },
-        {
-          "source": "arXiv",
-          "title": "Numerical hydrodynamics in general relativity"
-        }
-      ]
-    },
-    "created": "2000-03-29T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/525447?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/525447?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/525447?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/525447?format=json",
-      "cv": "https://inspirehep.net/api/literature/525447?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A525447"
-    },
-    "updated": "2024-01-09T09:17:40.031550+00:00"
-  },
-  {
-    "id": "588428",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "New, Kimberly C.B.",
-          "last_name": "New"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "6",
-          "artid": "2",
-          "year": 2003,
-          "page_start": "2",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "Gravitational wave emission from the gravitational collapse of massive stars has been studied for more than three decades. Current state of the art numerical investigations of collapse include those that use progenitors with realistic angular momentum profiles, properly treat microphysics issues, account for general relativity, and examine non--axisymmetric effects in three dimensions. Such simulations predict that gravitational waves from various phenomena associated with gravitational collapse could be detectable with advanced ground--based and future space--based interferometric observatories.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "New, Kimberly C.B.",
-        "last_name": "New",
-        "first_name": "Kimberly C.B.",
-        "recid": 995802
-      },
-      "control_number": 588428,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2003-2"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0206041"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Gravitational waves from gravitational collapse"
-        },
-        {
-          "source": "arXiv",
-          "title": "Gravitational waves from gravitational collapse."
-        },
-        {
-          "source": "arXiv",
-          "title": "Gravitational Waves from Gravitational Collapse"
-        }
-      ]
-    },
-    "created": "2002-06-17T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/588428?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/588428?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/588428?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/588428?format=json",
-      "cv": "https://inspirehep.net/api/literature/588428?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A588428"
-    },
-    "updated": "2023-03-06T21:58:41.742648+00:00"
-  },
-  {
-    "id": "715620",
+    "created": "2006-05-01T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -1903,7 +712,8 @@
         }
       ]
     },
-    "created": "2006-05-01T00:00:00+00:00",
+    "updated": "2023-12-15T10:37:29.116303+00:00",
+    "id": "715620",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/715620?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/715620?format=latex-eu",
@@ -1911,11 +721,10 @@
       "json": "https://inspirehep.net/api/literature/715620?format=json",
       "cv": "https://inspirehep.net/api/literature/715620?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A715620"
-    },
-    "updated": "2023-12-15T10:37:29.116303+00:00"
+    }
   },
   {
-    "id": "2853709",
+    "created": "2024-11-28T12:06:29.288833+00:00",
     "metadata": {
       "authors": [
         {
@@ -1963,7 +772,8 @@
         }
       ]
     },
-    "created": "2024-11-28T12:06:29.288833+00:00",
+    "updated": "2025-01-14T08:35:18.288391+00:00",
+    "id": "2853709",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/2853709?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/2853709?format=latex-eu",
@@ -1971,63 +781,179 @@
       "json": "https://inspirehep.net/api/literature/2853709?format=json",
       "cv": "https://inspirehep.net/api/literature/2853709?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2853709"
-    },
-    "updated": "2025-01-14T08:35:18.288391+00:00"
+    }
   },
   {
-    "id": "1252890",
+    "created": "2000-10-10T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Rendall, Alan D.",
-          "last_name": "Rendall"
+          "full_name": "Lorimer, D.R.",
+          "last_name": "Lorimer"
         }
       ],
       "publication_info": [
         {
           "journal_volume": "1",
-          "artid": "4",
+          "artid": "10",
           "year": 1998,
+          "page_start": "10",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "first_author": {
+        "full_name": "Lorimer, D.R.",
+        "last_name": "Lorimer",
+        "first_name": "D.R.",
+        "recid": 1025325
+      },
+      "control_number": 467231,
+      "titles": [
+        {
+          "title": "Binary and millisecond pulsars"
+        }
+      ]
+    },
+    "updated": "2023-03-06T14:05:57.644184+00:00",
+    "id": "467231",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467231?format=json",
+      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
+    }
+  },
+  {
+    "created": "2000-03-29T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Font, Jose A.",
+          "last_name": "Font"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "3",
+          "artid": "2",
+          "year": 2000,
+          "page_start": "2",
+          "journal_title": "Living Rev.Rel."
+        },
+        {
+          "journal_volume": "6",
+          "artid": "4",
+          "year": 2003,
           "page_start": "4",
           "journal_title": "Living Rev.Rel."
         }
       ],
       "abstracts": [
         {
-          "value": "This article is a guide to the literature on existence theorems for the Einstein equations which also draws attention to open problems in the field. The local in time Cauchy problem, which is relatively well understood, is treated first. Next global results for solutionswith symmetry are discussed. This is followed by a presentation of global results in the case of small data, and some miscellaneous topics connected with the main theme."
+          "source": "arXiv",
+          "value": "The current status of numerical solutions for the equations of ideal general relativistic hydrodynamics is reviewed. With respect to an earlier version of the article the present update provides additional information on numerical schemes and extends the discussion of astrophysical simulations in general relativistic hydrodynamics. Different formulations of the equations are presented, with special mention of conservative and hyperbolic formulations well-adapted to advanced numerical methods. A large sample of available numerical schemes is discussed, paying particular attention to solution procedures based on schemes exploiting the characteristic structure of the equations through linearized Riemann solvers. A comprehensive summary of astrophysical simulations in strong gravitational fields is presented. These include gravitational collapse, accretion onto black holes and hydrodynamical evolutions of neutron stars. The material contained in these sections highlights the numerical challenges of various representative simulations. It also follows, to some extent, the chronological development of the field, concerning advances on the formulation of the gravitational field and hydrodynamic equations and the numerical methodology designed to solve them.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
         }
       ],
       "first_author": {
-        "full_name": "Rendall, Alan D.",
-        "last_name": "Rendall",
-        "first_name": "Alan D.",
-        "recid": 991974
+        "full_name": "Font, Jose A.",
+        "last_name": "Font",
+        "first_name": "Jose A.",
+        "recid": 1009734
       },
-      "control_number": 1252890,
+      "control_number": 525447,
       "dois": [
         {
-          "value": "10.12942/lrr-1998-4"
+          "value": "10.12942/lrr-2000-2"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0003101"
         }
       ],
       "titles": [
         {
-          "title": "Local and Global Existence Theorems for the Einstein Equations"
+          "title": "Numerical hydrodynamics in general relativity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Numerical hydrodynamics in general relativity"
         }
       ]
     },
-    "created": "2013-09-06T00:00:00+00:00",
+    "updated": "2024-01-09T09:17:40.031550+00:00",
+    "id": "525447",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1252890?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1252890?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1252890?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1252890?format=json",
-      "cv": "https://inspirehep.net/api/literature/1252890?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252890"
-    },
-    "updated": "2023-03-06T13:50:13.200536+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/525447?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/525447?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/525447?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/525447?format=json",
+      "cv": "https://inspirehep.net/api/literature/525447?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A525447"
+    }
   },
   {
-    "id": "620990",
+    "created": "2013-09-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Benacquista, Matthew J.",
+          "last_name": "Benacquista"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "9",
+          "artid": "2",
+          "year": 2006,
+          "page_start": "2",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "value": "The galactic population of globular clusters are old, dense star systems, with a typical cluster containing 10^4 - 10^7 stars. As an old population of stars, globular clusters contain many collapsed and degenerate objects. As a dense population of stars, globular clusters are the scene of many interesting close dynamical interactions between stars. These dynamical interactions can alter the evolution of individual stars and can produce tight binary systems containing one or two compact objects. In this review, we discuss the theoretical models of globular cluster evolution and binary evolution, techniques for simulating this evolution which lead to relativistic binaries, and current and possible future observational evidence for this population. Globular cluster evolution will focus on the properties that boost the production of hard binary systems and on the tidal interactions of the galaxy with the cluster, which tend to alter the structure of the globular cluster with time. The interaction of the components of hard binary systems alters the evolution of both bodies and can lead to exotic objects. Direct N-body integrations and Fokker-Planck simulations of the evolution of globular clusters that incorporate tidal interactions and lead to predictions of relativistic binary populations are also discussed. We discuss the current observational evidence for cataclysmic variables, millisecond pulsars, and low-mass X-ray binaries as well as possible future detection of relativistic binaries with gravitational radiation."
+        }
+      ],
+      "first_author": {
+        "full_name": "Benacquista, Matthew J.",
+        "last_name": "Benacquista",
+        "first_name": "Matthew J.",
+        "recid": 1016798
+      },
+      "control_number": 1252896,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2006-2"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Relativistic Binaries in Globular Clusters"
+        }
+      ]
+    },
+    "updated": "2024-10-01T16:44:41.050392+00:00",
+    "id": "1252896",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1252896?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1252896?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1252896?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1252896?format=json",
+      "cv": "https://inspirehep.net/api/literature/1252896?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252896"
+    }
+  },
+  {
+    "created": "2003-06-13T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -2087,7 +1013,8 @@
         }
       ]
     },
-    "created": "2003-06-13T00:00:00+00:00",
+    "updated": "2023-03-07T00:39:25.621897+00:00",
+    "id": "620990",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/620990?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/620990?format=latex-eu",
@@ -2095,11 +1022,899 @@
       "json": "https://inspirehep.net/api/literature/620990?format=json",
       "cv": "https://inspirehep.net/api/literature/620990?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A620990"
-    },
-    "updated": "2023-03-07T00:39:25.621897+00:00"
+    }
   },
   {
-    "id": "1252889",
+    "created": "2013-09-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Rendall, Alan D.",
+          "last_name": "Rendall"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "4",
+          "year": 1998,
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "value": "This article is a guide to the literature on existence theorems for the Einstein equations which also draws attention to open problems in the field. The local in time Cauchy problem, which is relatively well understood, is treated first. Next global results for solutionswith symmetry are discussed. This is followed by a presentation of global results in the case of small data, and some miscellaneous topics connected with the main theme."
+        }
+      ],
+      "first_author": {
+        "full_name": "Rendall, Alan D.",
+        "last_name": "Rendall",
+        "first_name": "Alan D.",
+        "recid": 991974
+      },
+      "control_number": 1252890,
+      "dois": [
+        {
+          "value": "10.12942/lrr-1998-4"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Local and Global Existence Theorems for the Einstein Equations"
+        }
+      ]
+    },
+    "updated": "2023-03-06T13:50:13.200536+00:00",
+    "id": "1252890",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1252890?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1252890?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1252890?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1252890?format=json",
+      "cv": "https://inspirehep.net/api/literature/1252890?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252890"
+    }
+  },
+  {
+    "created": "2002-06-17T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "New, Kimberly C.B.",
+          "last_name": "New"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "6",
+          "artid": "2",
+          "year": 2003,
+          "page_start": "2",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "Gravitational wave emission from the gravitational collapse of massive stars has been studied for more than three decades. Current state of the art numerical investigations of collapse include those that use progenitors with realistic angular momentum profiles, properly treat microphysics issues, account for general relativity, and examine non--axisymmetric effects in three dimensions. Such simulations predict that gravitational waves from various phenomena associated with gravitational collapse could be detectable with advanced ground--based and future space--based interferometric observatories.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "New, Kimberly C.B.",
+        "last_name": "New",
+        "first_name": "Kimberly C.B.",
+        "recid": 995802
+      },
+      "control_number": 588428,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2003-2"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0206041"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Gravitational waves from gravitational collapse"
+        },
+        {
+          "source": "arXiv",
+          "title": "Gravitational waves from gravitational collapse."
+        },
+        {
+          "source": "arXiv",
+          "title": "Gravitational Waves from Gravitational Collapse"
+        }
+      ]
+    },
+    "updated": "2023-03-06T21:58:41.742648+00:00",
+    "id": "588428",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/588428?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/588428?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/588428?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/588428?format=json",
+      "cv": "https://inspirehep.net/api/literature/588428?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A588428"
+    }
+  },
+  {
+    "created": "1997-10-02T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Rovelli, Carlo",
+          "last_name": "Rovelli"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "1",
+          "year": 1998,
+          "page_start": "1",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "The problem of finding the quantum theory of the gravitational field, and thus understanding what is quantum spacetime, is still open. One of the most active of the current approaches is loop quantum gravity. Loop quantum gravity is a mathematically well-defined, non-perturbative and background independent quantization of general relativity, with its conventional matter couplings. The research in loop quantum gravity forms today a vast area, ranging from mathematical foundations to physical applications. Among the most significative results obtained are: (i) The computation of the physical spectra of geometrical quantities such as area and volume; which yields quantitative predictions on Planck-scale physics. (ii) A derivation of the Bekenstein-Hawking black hole entropy formula. (iii) An intriguing physical picture of the microstructure of quantum physical space, characterized by a polymer-like Planck scale discreteness. This discreteness emerges naturally from the quantum theory and provides a mathematically well-defined realization of Wheeler's intuition of a spacetime ``foam''. Long standing open problems within the approach (lack of a scalar product, overcompleteness of the loop basis, implementation of reality conditions) have been fully solved. The weak part of the approach is the treatment of the dynamics: at present there exist several proposals, which are intensely debated. Here, I provide a general overview of ideas, techniques, results and open problems of this candidate theory of quantum gravity, and a guide to the relevant literature.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Rovelli, Carlo",
+        "last_name": "Rovelli",
+        "first_name": "Carlo",
+        "recid": 991095
+      },
+      "control_number": 449184,
+      "dois": [
+        {
+          "value": "10.12942/lrr-1998-1"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/9710008"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Loop quantum gravity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Loop quantum gravity."
+        },
+        {
+          "source": "arXiv",
+          "title": "Loop Quantum Gravity"
+        }
+      ]
+    },
+    "updated": "2023-03-07T03:23:46.728113+00:00",
+    "id": "449184",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/449184?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/449184?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/449184?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/449184?format=json",
+      "cv": "https://inspirehep.net/api/literature/449184?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A449184"
+    }
+  },
+  {
+    "created": "2003-02-11T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Stergioulas, Nikolaos",
+          "last_name": "Stergioulas"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "6",
+          "artid": "3",
+          "year": 2003,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "Rotating relativistic stars have been studied extensively in recent years, both theoretically and observationally, because of the information one could obtain about the equation of state of matter at extremely high densities and because they are considered to be promising sources of gravitational waves. The latest theoretical understanding of rotating stars in relativity is reviewed in this updated article. The sections on the equilibrium properties and on the nonaxisymmetric instabilities in f-modes and r-modes have been updated and several new sections have been added on analytic solutions for the exterior spacetime, rotating stars in LMXBs, rotating strange stars, and on rotating stars in numerical relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Stergioulas, Nikolaos",
+        "last_name": "Stergioulas",
+        "first_name": "Nikolaos",
+        "recid": 987552
+      },
+      "control_number": 613062,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2003-3"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0302034"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Rotating Stars in Relativity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Rotating stars in relativity."
+        },
+        {
+          "source": "arXiv",
+          "title": "Rotating Stars in Relativity"
+        }
+      ]
+    },
+    "updated": "2024-02-16T11:50:48.811351+00:00",
+    "id": "613062",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/613062?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/613062?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/613062?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/613062?format=json",
+      "cv": "https://inspirehep.net/api/literature/613062?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A613062"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Rowan, Sheila",
+          "last_name": "Rowan"
+        },
+        {
+          "full_name": "Rowan, Sheila",
+          "last_name": "Rowan"
+        },
+        {
+          "full_name": "Hough, Jim",
+          "last_name": "Hough"
+        },
+        {
+          "full_name": "Hough, Jim",
+          "last_name": "Hough"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "3",
+          "artid": "3",
+          "year": 2000,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        },
+        {
+          "journal_volume": "25",
+          "artid": "5",
+          "year": 2022,
+          "page_start": "5",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "first_author": {
+        "emails": [
+          "srowan@loki.stanford.edu"
+        ],
+        "affiliations_identifiers": [
+          {
+            "schema": "GRID",
+            "value": "grid.168010.e"
+          }
+        ],
+        "full_name": "Rowan, Sheila",
+        "last_name": "Rowan",
+        "first_name": "Sheila",
+        "recid": 1055816
+      },
+      "control_number": 534814,
+      "dois": [
+        {
+          "material": "erratum",
+          "source": "Springer",
+          "value": "10.1007/s41114-022-00039-6"
+        },
+        {
+          "source": "Springer",
+          "value": "10.12942/lrr-2000-3"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Gravitational wave detection by interferometry (ground and space)"
+        },
+        {
+          "source": "Springer",
+          "title": "Correction to: Gravitational wave detection by interferometry (ground and space) [doi: 10.12942/lrr-2000-3]"
+        }
+      ]
+    },
+    "updated": "2025-03-21T21:45:45.823934+00:00",
+    "id": "534814",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/534814?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/534814?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/534814?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/534814?format=json",
+      "cv": "https://inspirehep.net/api/literature/534814?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
+    }
+  },
+  {
+    "created": "2017-01-05T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Winicour, Jeffrey",
+          "last_name": "Winicour"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "12",
+          "artid": "3",
+          "year": 2009,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress in characteristic evolution is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black hole spacetime. Cauchy codes have now been successful at simulating all aspects of the binary black hole problem inside an artificially constructed outer boundary. A prime application of characteristic evolution is to extend such simulations to null infinity where the waveform from the binary inspiral and merger can be unambiguously computed. This has now been accomplished by Cauchy-characteristic extraction, where data for the characteristic evolution is supplied by Cauchy data on an extraction worldtube inside the artificial outer boundary. The ultimate application of characteristic evolution is to eliminate the role of this outer boundary by constructing a global solution via Cauchy-characteristic matching. Progress in this direction is discussed.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Winicour, Jeffrey",
+        "last_name": "Winicour",
+        "first_name": "Jeffrey",
+        "recid": 983404
+      },
+      "control_number": 1507775,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2009-3"
+        }
+      ],
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Characteristic Evolution and Matching"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "0810.1903"
+        }
+      ]
+    },
+    "updated": "2023-03-09T17:26:20.371631+00:00",
+    "id": "1507775",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1507775?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1507775?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1507775?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1507775?format=json",
+      "cv": "https://inspirehep.net/api/literature/1507775?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1507775"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Heusler, Markus",
+          "last_name": "Heusler"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "6",
+          "year": 1998,
+          "page_start": "6",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "value": "The spectrum of known black hole solutions to the stationary Einstein equations has increased in an unexpected way during the last decade. In particular, it has turned out that not all black hole equilibrium configurations are characterized by their mass, angular momentum and global charges. Moreover, the high degree of symmetry displayed by vacuum and electro-vacuum black hole space-times ceases to exist in self-gravitating non-linear field theories. This text aims to review some of the recent developments and to discuss them in the light of the uniqueness theorem for the Einstein-Maxwell system."
+        }
+      ],
+      "first_author": {
+        "full_name": "Heusler, Markus",
+        "last_name": "Heusler",
+        "first_name": "Markus",
+        "recid": 1006090
+      },
+      "control_number": 467091,
+      "dois": [
+        {
+          "value": "10.12942/lrr-1998-6"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Stationary black holes: Uniqueness and beyond"
+        }
+      ]
+    },
+    "updated": "2023-08-08T17:41:04.690118+00:00",
+    "id": "467091",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467091?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467091?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467091?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467091?format=json",
+      "cv": "https://inspirehep.net/api/literature/467091?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467091"
+    }
+  },
+  {
+    "created": "2001-02-21T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Winicour, Jeffrey",
+          "last_name": "Winicour"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "4",
+          "artid": "3",
+          "year": 2001,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress is traced from the early stage of 1D feasibility studies to current 3D black codes that simulate binary black holes. A prime application of characteristic evolution is Cauchy-characteristic matching, which is also reviewed.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "emails": [
+          "jeff@einstein.phyast.pitt.edu"
+        ],
+        "full_name": "Winicour, Jeffrey",
+        "last_name": "Winicour",
+        "first_name": "Jeffrey",
+        "recid": 983404
+      },
+      "control_number": 553300,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2001-3"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0102085"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Characteristic evolution and matching"
+        },
+        {
+          "source": "arXiv",
+          "title": "Characteristic Evolution and Matching"
+        }
+      ]
+    },
+    "updated": "2023-03-06T20:02:05.668057+00:00",
+    "id": "553300",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/553300?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/553300?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/553300?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/553300?format=json",
+      "cv": "https://inspirehep.net/api/literature/553300?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A553300"
+    }
+  },
+  {
+    "created": "2000-01-18T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Gundlach, Carsten",
+          "last_name": "Gundlach"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "2",
+          "artid": "4",
+          "year": 1999,
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Gundlach, Carsten",
+        "last_name": "Gundlach",
+        "first_name": "Carsten",
+        "recid": 1007247
+      },
+      "control_number": 513238,
+      "titles": [
+        {
+          "title": "Critical phenomena in gravitational collapse"
+        },
+        {
+          "source": "arXiv",
+          "title": "Critical phenomena in gravitational collapse - Living Reviews"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0001046"
+        }
+      ]
+    },
+    "updated": "2023-03-06T17:28:46.759174+00:00",
+    "id": "513238",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/513238?format=json",
+      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
+    }
+  },
+  {
+    "created": "2005-10-17T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Will, Clifford M.",
+          "last_name": "Will"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "9",
+          "artid": "3",
+          "year": 2006,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "The status of experimental tests of general relativity and of theoretical frameworks for analysing them is reviewed. Einstein's equivalence principle (EEP) is well supported by experiments such as the Eotvos experiment, tests of special relativity, and the gravitational redshift experiment. Future tests of EEP and of the inverse square law are searching for new interactions arising from unification or quantum gravity. Tests of general relativity at the post-Newtonian level have reached high precision, including the light deflection, the Shapiro time delay, the perihelion advance of Mercury, and the Nordtvedt effect in lunar motion. Gravitational-wave damping has been detected in an amount that agrees with general relativity to better than half a percent using the Hulse-Taylor binary pulsar, and other binary pulsar systems have yielded other tests, especially of strong-field effects. When direct observation of gravitational radiation from astrophysical sources begins, new tests of general relativity will be possible.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Will, Clifford M.",
+        "last_name": "Will",
+        "first_name": "Clifford M.",
+        "recid": 983523
+      },
+      "control_number": 695239,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2006-3"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0510072"
+        }
+      ],
+      "titles": [
+        {
+          "title": "The Confrontation between general relativity and experiment"
+        },
+        {
+          "source": "arXiv",
+          "title": "The confrontation between general relativity and experiment."
+        },
+        {
+          "source": "arXiv",
+          "title": "The Confrontation between General Relativity and Experiment"
+        }
+      ]
+    },
+    "updated": "2024-10-01T16:33:30.463564+00:00",
+    "id": "695239",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/695239?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/695239?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/695239?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/695239?format=json",
+      "cv": "https://inspirehep.net/api/literature/695239?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A695239"
+    }
+  },
+  {
+    "created": "1998-05-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Stergioulas, Nikolaos",
+          "last_name": "Stergioulas"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "8",
+          "year": 1998,
+          "page_start": "8",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "Rotating relativistic stars are receiving significant attention in recent years, because of the information they can yield about the equation of state of matter at extremely high densities and because they are one of the more possible sources of detectable gravitational waves. We review the latest theoretical and numerical methods for modeling rotating relativistic stars, including stars with a strong magnetic field and hot proto-neutron stars. We also review nonaxisymmetric oscillations and instabilities in rotating stars and summarize the latest developments regarding the gravitational wave-driven (CFS) instability in both polar and axial quasi-normal modes.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Stergioulas, Nikolaos",
+        "last_name": "Stergioulas",
+        "first_name": "Nikolaos",
+        "recid": 987552
+      },
+      "control_number": 470081,
+      "dois": [
+        {
+          "value": "10.12942/lrr-1998-8"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/9805012"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Rotating stars in relativity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Rotating stars in relativity."
+        },
+        {
+          "source": "arXiv",
+          "title": "Rotating Stars in Relativity"
+        }
+      ]
+    },
+    "updated": "2024-02-16T11:35:55.269259+00:00",
+    "id": "470081",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/470081?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/470081?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/470081?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/470081?format=json",
+      "cv": "https://inspirehep.net/api/literature/470081?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A470081"
+    }
+  },
+  {
+    "created": "2002-09-12T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Lorimer, D.R.",
+          "last_name": "Lorimer"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "4",
+          "artid": "5",
+          "year": 2001,
+          "page_start": "5",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "We review the properties and applications of binary and millisecond pulsars. Our knowledge of these exciting objects has greatly increased in recent years, mainly due to successful surveys which have brought the known pulsar population to over 1300. There are now 56 binary and millisecond pulsars in the Galactic disk and a further 47 in globular clusters. This review is concerned primarily with the results and spin-offs from these surveys which are of particular interest to the relativity community.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Lorimer, D.R.",
+        "last_name": "Lorimer",
+        "first_name": "D.R.",
+        "recid": 1025325
+      },
+      "control_number": 574608,
+      "dois": [
+        {
+          "source": "ADS",
+          "value": "10.12942/lrr-2001-5"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Binary and millisecond pulsars at the new millennium"
+        },
+        {
+          "source": "arXiv",
+          "title": "Binary and Millisecond Pulsars at the New Millennium"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "astro-ph"
+          ],
+          "value": "astro-ph/0104388"
+        }
+      ]
+    },
+    "updated": "2023-03-07T00:15:47.022250+00:00",
+    "id": "574608",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/574608?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/574608?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/574608?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/574608?format=json",
+      "cv": "https://inspirehep.net/api/literature/574608?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A574608"
+    }
+  },
+  {
+    "created": "2002-02-07T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Blanchet, Luc",
+          "last_name": "Blanchet"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "5",
+          "artid": "3",
+          "year": 2002,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "The article reviews the current status of a theoretical approach to the problem of the emission of gravitational waves by isolated systems in the context of general relativity. Part A of the article deals with general post-Newtonian sources. The exterior field of the source is investigated by means of a combination of analytic post-Minkowskian and multipolar approximations. The physical observables in the far-zone of the source are described by a specific set of radiative multipole moments. By matching the exterior solution to the metric of the post-Newtonian source in the near-zone we obtain the explicit expressions of the source multipole moments. The relationships between the radiative and source moments involve many non-linear multipole interactions, among them those associated with the tails (and tails-of-tails) of gravitational waves. Part B of the article is devoted to the application to compact binary systems. We present the equations of binary motion, and the associated Lagrangian and Hamiltonian, at the third post-Newtonian (3PN) order beyond the Newtonian acceleration. The gravitational-wave energy flux, taking consistently into account the relativistic corrections in the binary moments as well as the various tail effects, is derived through 3.5PN order with respect to the quadrupole formalism. The binary's orbital phase, whose prior knowledge is crucial for searching and analyzing the signals from inspiralling compact binaries, is deduced from an energy balance argument.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Blanchet, Luc",
+        "last_name": "Blanchet",
+        "first_name": "Luc",
+        "recid": 1016196
+      },
+      "control_number": 582619,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2002-3"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0202016"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Gravitational radiation from postNewtonian sources and inspiraling compact binaries"
+        },
+        {
+          "source": "arXiv",
+          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries."
+        },
+        {
+          "source": "arXiv",
+          "title": "Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries"
+        }
+      ]
+    },
+    "updated": "2025-01-14T09:05:29.781689+00:00",
+    "id": "582619",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/582619?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/582619?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/582619?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/582619?format=json",
+      "cv": "https://inspirehep.net/api/literature/582619?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A582619"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -2110,15 +1925,10 @@
       "publication_info": [
         {
           "journal_volume": "1",
-          "artid": "2",
+          "artid": "9",
           "year": 1998,
-          "page_start": "2",
+          "page_start": "9",
           "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "value": "In order to account for the observable Universe, any comprehensive theory or model of cosmology must draw from many disciplines of physics, including gauge theories of strong and weak interactions, the hydrodynamics and microphysics of baryonic matter, electromagnetic fields, and spacetime curvature, for example. Although it is difficult to incorporate all these physical elements into a single complete model of our Universe, advances in computing methods and technologies have contributed significantly towards our understanding of cosmological models, the Universe, and astrophysical processes within them. A sample of numerical calculations addressing specific issues in cosmology are reviewed in this article: from the Big Bang singularity dynamics to the fundamental interactions of gravitational waves; from the quark--hadron phase transition to the large scale structure of the Universe. The emphasis, although not exclusively, is on those calculations designed to test different models of cosmology against the observed Universe."
         }
       ],
       "first_author": {
@@ -2127,31 +1937,458 @@
         "first_name": "Peter",
         "recid": 1018311
       },
-      "control_number": 1252889,
+      "control_number": 467223,
+      "titles": [
+        {
+          "title": "Computational cosmology: From the early universe to the large scale structure"
+        }
+      ]
+    },
+    "updated": "2023-03-06T15:07:33.241125+00:00",
+    "id": "467223",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467223?format=json",
+      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
+    }
+  },
+  {
+    "created": "2002-06-25T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Andreasson, Hakan",
+          "last_name": "Andreasson"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "5",
+          "artid": "7",
+          "year": 2002,
+          "page_start": "7",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "value": "The main purpose of this article is to provide a guide to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades in which the main focus has been on nonrelativistic and special relativistic physics, i.e., to model the dynamics of neutral gases, plasmas, and Newtonian self-gravitating systems. In 1990, Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically, and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models (i.e., fluid models). This paper gives introductions to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental to good comprehension of kinetic theory in general relativity."
+        },
+        {
+          "source": "arXiv",
+          "value": "The main purpose of this article is to guide the reader to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades where the main focus has been on nonrelativistic- and special relativistic physics, e.g. to model the dynamics of neutral gases, plasmas and Newtonian self-gravitating systems. In 1990 Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models (e.g. fluid models). The first part of this paper gives an introduction to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental in order to get a good comprehension of kinetic theory in general relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Andreasson, Hakan",
+        "last_name": "Andreasson",
+        "first_name": "Hakan",
+        "recid": 1031038
+      },
+      "control_number": 589039,
       "dois": [
         {
-          "value": "10.12942/lrr-1998-2"
+          "value": "10.12942/lrr-2002-7"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0206069"
         }
       ],
       "titles": [
         {
-          "title": "Physical and Relativistic Numerical Cosmology"
+          "title": "The Einstein-Vlasov System/Kinetic Theory"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Einstein-Vlasov sytem/Kinetic theory"
         }
       ]
     },
-    "created": "2013-09-06T00:00:00+00:00",
+    "updated": "2023-03-06T14:30:43.369684+00:00",
+    "id": "589039",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1252889?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1252889?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1252889?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1252889?format=json",
-      "cv": "https://inspirehep.net/api/literature/1252889?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252889"
-    },
-    "updated": "2023-03-06T13:39:43.048772+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/589039?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/589039?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/589039?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/589039?format=json",
+      "cv": "https://inspirehep.net/api/literature/589039?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A589039"
+    }
   },
   {
-    "id": "553944",
+    "created": "2013-04-15T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Yunes, Nicol\u00e1s",
+          "last_name": "Yunes"
+        },
+        {
+          "full_name": "Siemens, Xavier",
+          "last_name": "Siemens"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "16",
+          "artid": "9",
+          "year": 2013,
+          "page_start": "9",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "MPI Grav. Phys., Potsdam",
+          "value": "This review is focused on tests of Einstein's theory of general relativity with gravitational waves that are detectable by ground-based interferometers and pulsar-timing experiments. Einstein's theory has been greatly constrained in the quasi-linear, quasi-stationary regime, where gravity is weak and velocities are small. Gravitational waves will allow us to probe a complimentary, yet previously unexplored regime: the non-linear and dynamical strong-field regime. Such a regime is, for example, applicable to compact binaries coalescing, where characteristic velocities can reach fifty percent the speed of light and gravitational fields are large and dynamical. This review begins with the theoretical basis and the predicted gravitational-wave observables of modified gravity theories. The review continues with a brief description of the detectors, including both gravitational-wave interferometers and pulsar-timing arrays, leading to a discussion of the data analysis formalism that is applicable for such tests. The review ends with a discussion of gravitational-wave tests for compact binary systems.",
+          "abstract_source_suggest": {
+            "input": "MPI Grav. Phys., Potsdam"
+          }
+        },
+        {
+          "source": "arXiv",
+          "value": "This review is focused on tests of Einstein's theory of General Relativity with gravitational waves that are detectable by ground-based interferometers and pulsar timing experiments. Einstein's theory has been greatly constrained in the quasi-linear, quasi-stationary regime, where gravity is weak and velocities are small. Gravitational waves will allow us to probe a complimentary, yet previously unexplored regime: the non-linear and dynamical strong-field regime. Such a regime is, for example, applicable to compact binaries coalescing, where characteristic velocities can reach fifty percent the speed of light and compactnesses can reach a half. This review begins with the theoretical basis and the predicted gravitational wave observables of modified gravity theories. The review continues with a brief description of the detectors, including both gravitational wave interferometers and pulsar timing arrays, leading to a discussion of the data analysis formalism that is applicable for such tests. The review ends with a discussion of gravitational wave tests for compact binary systems.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "emails": [
+          "nyunes@physics.montana.edu"
+        ],
+        "full_name": "Yunes, Nicol\u00e1s",
+        "last_name": "Yunes",
+        "first_name": "Nicol\u00e1s",
+        "recid": 1031700
+      },
+      "control_number": 1228165,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2013-9"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc",
+            "astro-ph.CO",
+            "astro-ph.HE",
+            "hep-ph",
+            "hep-th"
+          ],
+          "value": "1304.3473"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Gravitational-Wave Tests of General Relativity with Ground-Based Detectors and Pulsar Timing-Arrays"
+        },
+        {
+          "source": "arXiv",
+          "title": "Gravitational Wave Tests of General Relativity with Ground-Based Detectors and Pulsar Timing Arrays"
+        }
+      ]
+    },
+    "updated": "2025-02-18T07:39:25.294413+00:00",
+    "id": "1228165",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1228165?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1228165?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1228165?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1228165?format=json",
+      "cv": "https://inspirehep.net/api/literature/1228165?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1228165"
+    }
+  },
+  {
+    "created": "2006-01-22T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Bojowald, Martin",
+          "last_name": "Bojowald"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "8",
+          "artid": "11",
+          "year": 2005,
+          "page_start": "11",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "Quantum gravity is expected to be necessary in order to understand situations where classical general relativity breaks down. In particular in cosmology one has to deal with initial singularities, i.e. the fact that the backward evolution of a classical space-time inevitably comes to an end after a finite amount of proper time. This presents a breakdown of the classical picture and requires an extended theory for a meaningful description. Since small length scales and high curvatures are involved, quantum effects must play a role. Not only the singularity itself but also the surrounding space-time is then modified. One particular realization is loop quantum cosmology, an application of loop quantum gravity to homogeneous systems, which removes classical singularities. Its implications can be studied at different levels. Main effects are introduced into effective classical equations which allow to avoid interpretational problems of quantum theory. They give rise to new kinds of early universe phenomenology with applications to inflation and cyclic models. To resolve classical singularities and to understand the structure of geometry around them, the quantum description is necessary. Classical evolution is then replaced by a difference equation for a wave function which allows to extend space-time beyond classical singularities. One main question is how these homogeneous scenarios are related to full loop quantum gravity, which can be dealt with at the level of distributional symmetric states. Finally, the new structure of space-time arising in loop quantum gravity and its application to cosmology sheds new light on more general issues such as time.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Bojowald, Martin",
+        "last_name": "Bojowald",
+        "first_name": "Martin",
+        "recid": 1015941
+      },
+      "control_number": 708972,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2005-11"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0601085"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Loop quantum cosmology"
+        },
+        {
+          "source": "arXiv",
+          "title": "Loop quantum cosmology."
+        },
+        {
+          "source": "arXiv",
+          "title": "Loop Quantum Cosmology"
+        }
+      ]
+    },
+    "updated": "2023-03-09T22:54:35.625637+00:00",
+    "id": "708972",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/708972?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/708972?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/708972?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/708972?format=json",
+      "cv": "https://inspirehep.net/api/literature/708972?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A708972"
+    }
+  },
+  {
+    "created": "2005-02-22T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Andreasson, Hakan",
+          "last_name": "Andreasson"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "8",
+          "artid": "2",
+          "year": 2005,
+          "page_start": "2",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "The main purpose of this article is to provide a guide to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades in which the main focus has been on nonrelativistic and special relativistic physics, {\\it i.e.} to model the dynamics of neutral gases, plasmas, and Newtonian self-gravitating systems. In 1990, Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models ({\\it i.e.} fluid models). This paper gives introductions to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental to good comprehension of kinetic theory in general relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Andreasson, Hakan",
+        "last_name": "Andreasson",
+        "first_name": "Hakan",
+        "recid": 1031038
+      },
+      "control_number": 677178,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2005-2"
+        }
+      ],
+      "titles": [
+        {
+          "title": "The Einstein-Vlasov system / kinetic theory"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Einstein-Vlasov system/Kinetic theory"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0502091"
+        }
+      ]
+    },
+    "updated": "2023-03-06T16:24:25.214739+00:00",
+    "id": "677178",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/677178?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/677178?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/677178?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/677178?format=json",
+      "cv": "https://inspirehep.net/api/literature/677178?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A677178"
+    }
+  },
+  {
+    "created": "2002-02-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Benacquista, Matthew J.",
+          "last_name": "Benacquista"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "5",
+          "artid": "2",
+          "year": 2002,
+          "page_start": "2",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "The galactic population of globular clusters are old, dense star systems, with a typical cluster containing $10^4 - 10^6$ stars. As an old population of stars, globular clusters contain many collapsed and degenerate objects. As a dense population of stars, globular clusters are the scene of many interesting close dynamical interactions between stars. These dynamical interactions can alter the evolution of individual stars and can produce tight binary systems containing one or two compact objects. In this review, we discuss the theoretical models of globular cluster evolution and binary evolution, techniques for simulating this evolution which lead to relativistic binaries, and current and possible future observational evidence for this population. Globular cluster evolution will focus on the properties that boost the production of hard binary systems and on the tidal interactions of the galaxy with the cluster, which tend to alter the structure of the globular cluster with time. The interaction of the components of hard binary systems alters the evolution of both bodies and can lead to exotic objects. Direct $N$-body integrations and Fokker-Planck simulations of the evolution of globular clusters that incorporate tidal interactions and lead to predictions of relativistic binary populations are also discussed. We discuss the current observational evidence for cataclysmic variables, millisecond pulsars, and low-mass X-ray binaries as well as possible future detection of relativistic binaries with gravitational radiation.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Benacquista, Matthew J.",
+        "last_name": "Benacquista",
+        "first_name": "Matthew J.",
+        "recid": 1016798
+      },
+      "control_number": 582570,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2002-2"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "astro-ph"
+          ],
+          "value": "astro-ph/0202056"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Relativistic binaries in globular clusters"
+        },
+        {
+          "source": "arXiv",
+          "title": "Relativistic binaries in globular clusters."
+        },
+        {
+          "source": "arXiv",
+          "title": "Relativistic Binaries in Globular Clusters"
+        }
+      ]
+    },
+    "updated": "2023-03-06T19:42:18.800583+00:00",
+    "id": "582570",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/582570?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/582570?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/582570?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/582570?format=json",
+      "cv": "https://inspirehep.net/api/literature/582570?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A582570"
+    }
+  },
+  {
+    "created": "2002-03-05T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Rendall, Alan D.",
+          "last_name": "Rendall"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "5",
+          "artid": "6",
+          "year": 2002,
+          "page_start": "6",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "This article is a guide to theorems on existence and global dynamics of solutions of the Einstein equations. It draws attention to open questions in the field. The local in time Cauchy problem, which is relatively well understood, is surveyed. Global results for solutions with various types of symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. Treatments of global results in the case of small data and results on constructing spacetimes with prescribed singularity structure are given. A conjectural picture of the asymptotic behaviour of general cosmological solutions of the Einstein equations is built up. Some miscellaneous topics connected with the main theme are collected in a separate section.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Rendall, Alan D.",
+        "last_name": "Rendall",
+        "first_name": "Alan D.",
+        "recid": 991974
+      },
+      "control_number": 583592,
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0203012"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Theorems on existence and global dynamics for the Einstein equations"
+        },
+        {
+          "source": "arXiv",
+          "title": "Theorems on existence and global dynamics for the Einstein equations."
+        }
+      ]
+    },
+    "updated": "2023-03-06T18:55:00.637468+00:00",
+    "id": "583592",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/583592?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/583592?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/583592?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/583592?format=json",
+      "cv": "https://inspirehep.net/api/literature/583592?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
+    }
+  },
+  {
+    "created": "2001-03-13T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -2211,7 +2448,8 @@
         }
       ]
     },
-    "created": "2001-03-13T00:00:00+00:00",
+    "updated": "2023-03-10T10:05:27.150462+00:00",
+    "id": "553944",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/553944?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/553944?format=latex-eu",
@@ -2219,142 +2457,200 @@
       "json": "https://inspirehep.net/api/literature/553944?format=json",
       "cv": "https://inspirehep.net/api/literature/553944?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A553944"
-    },
-    "updated": "2023-03-10T10:05:27.150462+00:00"
+    }
   },
   {
-    "id": "583592",
+    "created": "2016-11-24T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Rendall, Alan D.",
-          "last_name": "Rendall"
+          "full_name": "Winicour, Jeffrey",
+          "last_name": "Winicour"
         }
       ],
       "publication_info": [
         {
-          "journal_volume": "5",
-          "artid": "6",
-          "year": 2002,
-          "page_start": "6",
+          "journal_volume": "8",
+          "artid": "10",
+          "year": 2005,
+          "page_start": "10",
           "journal_title": "Living Rev.Rel."
         }
       ],
       "abstracts": [
         {
           "source": "arXiv",
-          "value": "This article is a guide to theorems on existence and global dynamics of solutions of the Einstein equations. It draws attention to open questions in the field. The local in time Cauchy problem, which is relatively well understood, is surveyed. Global results for solutions with various types of symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. Treatments of global results in the case of small data and results on constructing spacetimes with prescribed singularity structure are given. A conjectural picture of the asymptotic behaviour of general cosmological solutions of the Einstein equations is built up. Some miscellaneous topics connected with the main theme are collected in a separate section.",
+          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black spacetime. A prime application of characteristic evolution is to compute waveforms via Cauchy-characteristic matching, which is also reviewed.",
           "abstract_source_suggest": {
             "input": "arXiv"
           }
         }
       ],
       "first_author": {
-        "full_name": "Rendall, Alan D.",
-        "last_name": "Rendall",
-        "first_name": "Alan D.",
-        "recid": 991974
+        "full_name": "Winicour, Jeffrey",
+        "last_name": "Winicour",
+        "first_name": "Jeffrey",
+        "recid": 983404
       },
-      "control_number": 583592,
+      "control_number": 1499873,
+      "dois": [
+        {
+          "value": "10.12942/lrr-2005-10"
+        }
+      ],
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Characteristic Evolution and Matching"
+        }
+      ],
       "arxiv_eprints": [
         {
           "categories": [
             "gr-qc"
           ],
-          "value": "gr-qc/0203012"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Theorems on existence and global dynamics for the Einstein equations"
-        },
-        {
-          "source": "arXiv",
-          "title": "Theorems on existence and global dynamics for the Einstein equations."
+          "value": "gr-qc/0508097"
         }
       ]
     },
-    "created": "2002-03-05T00:00:00+00:00",
+    "updated": "2023-03-06T19:23:25.985497+00:00",
+    "id": "1499873",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/583592?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/583592?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/583592?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/583592?format=json",
-      "cv": "https://inspirehep.net/api/literature/583592?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
-    },
-    "updated": "2023-03-06T18:55:00.637468+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/1499873?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1499873?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1499873?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1499873?format=json",
+      "cv": "https://inspirehep.net/api/literature/1499873?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1499873"
+    }
   },
   {
-    "id": "677178",
+    "created": "2015-07-22T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Andreasson, Hakan",
-          "last_name": "Andreasson"
+          "full_name": "Harms, Jan",
+          "last_name": "Harms"
         }
       ],
       "publication_info": [
         {
-          "journal_volume": "8",
+          "journal_volume": "18",
+          "artid": "3",
+          "year": 2015,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "MPI Grav. Phys., Potsdam",
+          "value": "Different forms of fluctuations of the terrestrial gravity field are observed by gravity experiments. For example, atmospheric pressure fluctuations generate a gravity-noise foreground in measurements with super-conducting gravimeters. Gravity changes caused by high-magnitude earthquakes have been detected with the satellite gravity experiment GRACE, and we expect high-frequency terrestrial gravity fluctuations produced by ambient seismic fields to limit the sensitivity of ground-based gravitational-wave (GW) detectors. Accordingly, terrestrial gravity fluctuations are considered noise and signal depending on the experiment. Here, we will focus on ground-based gravimetry. This field is rapidly progressing through the development of GW detectors. The technology is pushed to its current limits in the advanced generation of the LIGO and Virgo detectors, targeting gravity strain sensitivities better than 10^-23 Hz^-1/2 above a few tens of a Hz. Alternative designs for GW detectors evolving from traditional gravity gradiometers such as torsion bars, atom interferometers, and superconducting gradiometers are currently being developed to extend the detection band to frequencies below 1 Hz. The goal of this article is to provide the analytical framework to describe terrestrial gravity perturbations in these experiments. Models of terrestrial gravity perturbations related to seismic fields, atmospheric disturbances, and vibrating, rotating or moving objects, are derived and analyzed. The models are then used to evaluate passive and active gravity noise mitigation strategies in GW detectors, or alternatively, to describe their potential use in geophysics. The article reviews the current state of the field, and also presents new analyses especially with respect to the impact of seismic scattering on gravity perturbations, active gravity noise cancellation, and time-domain models of gravity perturbations from atmospheric and seismic point sources. Our understanding of terrestrial gravity fluctuations will have great impact on the future development of GW detectors and high-precision gravimetry in general, and many open questions need to be answered still as emphasized in this article.",
+          "abstract_source_suggest": {
+            "input": "MPI Grav. Phys., Potsdam"
+          }
+        },
+        {
+          "source": "arXiv",
+          "value": "The article reviews the current state of the field, and also presents new analyses especially with respect to the impact of seismic scattering on gravity perturbations, active gravity noise cancellation, and time-domain models of gravity perturbations from atmospheric and seismic point sources. Our understanding of terrestrial gravity fluctuations will have great impact on the future development of GW detectors and high-precision gravimetry in general, and many open questions need to be answered still as emphasized in this article.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Harms, Jan",
+        "last_name": "Harms",
+        "first_name": "Jan",
+        "recid": 1055779
+      },
+      "control_number": 1384109,
+      "dois": [
+        {
+          "source": "ADS",
+          "value": "10.1007/lrr-2015-3"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "1507.05850"
+        }
+      ],
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Terrestrial Gravity Fluctuations"
+        }
+      ]
+    },
+    "updated": "2025-01-06T11:10:38.117123+00:00",
+    "id": "1384109",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1384109?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1384109?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1384109?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1384109?format=json",
+      "cv": "https://inspirehep.net/api/literature/1384109?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1384109"
+    }
+  },
+  {
+    "created": "2013-09-06T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Anninos, Peter",
+          "last_name": "Anninos"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
           "artid": "2",
-          "year": 2005,
+          "year": 1998,
           "page_start": "2",
           "journal_title": "Living Rev.Rel."
         }
       ],
       "abstracts": [
         {
-          "source": "arXiv",
-          "value": "The main purpose of this article is to provide a guide to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein's equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades in which the main focus has been on nonrelativistic and special relativistic physics, {\\it i.e.} to model the dynamics of neutral gases, plasmas, and Newtonian self-gravitating systems. In 1990, Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models ({\\it i.e.} fluid models). This paper gives introductions to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental to good comprehension of kinetic theory in general relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
+          "value": "In order to account for the observable Universe, any comprehensive theory or model of cosmology must draw from many disciplines of physics, including gauge theories of strong and weak interactions, the hydrodynamics and microphysics of baryonic matter, electromagnetic fields, and spacetime curvature, for example. Although it is difficult to incorporate all these physical elements into a single complete model of our Universe, advances in computing methods and technologies have contributed significantly towards our understanding of cosmological models, the Universe, and astrophysical processes within them. A sample of numerical calculations addressing specific issues in cosmology are reviewed in this article: from the Big Bang singularity dynamics to the fundamental interactions of gravitational waves; from the quark--hadron phase transition to the large scale structure of the Universe. The emphasis, although not exclusively, is on those calculations designed to test different models of cosmology against the observed Universe."
         }
       ],
       "first_author": {
-        "full_name": "Andreasson, Hakan",
-        "last_name": "Andreasson",
-        "first_name": "Hakan",
-        "recid": 1031038
+        "full_name": "Anninos, Peter",
+        "last_name": "Anninos",
+        "first_name": "Peter",
+        "recid": 1018311
       },
-      "control_number": 677178,
+      "control_number": 1252889,
       "dois": [
         {
-          "value": "10.12942/lrr-2005-2"
+          "value": "10.12942/lrr-1998-2"
         }
       ],
       "titles": [
         {
-          "title": "The Einstein-Vlasov system / kinetic theory"
-        },
-        {
-          "source": "arXiv",
-          "title": "The Einstein-Vlasov system/Kinetic theory"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0502091"
+          "title": "Physical and Relativistic Numerical Cosmology"
         }
       ]
     },
-    "created": "2005-02-22T00:00:00+00:00",
+    "updated": "2023-03-06T13:39:43.048772+00:00",
+    "id": "1252889",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/677178?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/677178?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/677178?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/677178?format=json",
-      "cv": "https://inspirehep.net/api/literature/677178?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A677178"
-    },
-    "updated": "2023-03-06T16:24:25.214739+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/1252889?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1252889?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1252889?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1252889?format=json",
+      "cv": "https://inspirehep.net/api/literature/1252889?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1252889"
+    }
   },
   {
-    "id": "658664",
+    "created": "2004-09-09T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -2423,7 +2719,8 @@
         }
       ]
     },
-    "created": "2004-09-09T00:00:00+00:00",
+    "updated": "2023-12-07T19:18:20.821001+00:00",
+    "id": "658664",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/658664?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/658664?format=latex-eu",
@@ -2431,11 +2728,103 @@
       "json": "https://inspirehep.net/api/literature/658664?format=json",
       "cv": "https://inspirehep.net/api/literature/658664?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A658664"
-    },
-    "updated": "2023-12-07T19:18:20.821001+00:00"
+    }
   },
   {
-    "id": "1117419",
+    "created": "2016-11-01T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Metzger, Brian D.",
+          "last_name": "Metzger"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "20",
+          "artid": "3",
+          "year": 2017,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "Springer",
+          "value": "The mergers of double neutron star (NS\u2013NS) and black hole (BH)\u2013NS binaries are promising gravitational wave (GW) sources for Advanced LIGO and future GW detectors. The neutron-rich ejecta from such merger events undergoes rapid neutron capture (r-process) nucleosynthesis, enriching our Galaxy with rare heavy elements like gold and platinum. The radioactive decay of these unstable nuclei also powers a rapidly evolving, supernova-like transient known as a \u201ckilonova\u201d (also known as \u201cmacronova\u201d). Kilonovae are an approximately isotropic electromagnetic counterpart to the GW signal, which also provides a unique and direct probe of an important, if not dominant, r-process site. I review the history and physics of kilonovae, leading to the current paradigm of week-long emission with a spectral peak at near-infrared wavelengths. Using a simple light curve model to illustrate the basic physics, I introduce potentially important variations on this canonical picture, including: $\\sim $ day-long optical (\u201cblue\u201d) emission from lanthanide-free components of the ejecta, $\\sim $ hour-long precursor UV/blue emission, powered by the decay of free neutrons in the outermost ejecta layers, and enhanced emission due to energy input from a long-lived central engine, such as an accreting BH or millisecond magnetar. I assess the prospects of kilonova detection following future GW detections of NS\u2013NS/BH\u2013NS mergers in light of the recent follow-up campaign of the LIGO binary BH\u2013BH mergers.",
+          "abstract_source_suggest": {
+            "input": "Springer"
+          }
+        },
+        {
+          "source": "arXiv",
+          "value": "The mergers of double neutron star (NS-NS) and black hole (BH)-NS binaries are promising gravitational wave (GW) sources for Advanced LIGO and future GW detectors. The neutron-rich ejecta from such merger events undergoes rapid neutron capture (r-process) nucleosynthesis, enriching our Galaxy with rare heavy elements like gold and platinum. The radioactive decay of these unstable nuclei also powers a rapidly evolving, supernova-like transient known as a \"kilonova\". Kilonovae provide an approximately isotropic electromagnetic counterpart to the GW signal, which also provides a unique and direct probe of an important, if not dominant, r-process site. This handbook reviews the history and physics of kilonovae, leading to the current paradigm of week-long emission with a spectral peak at near-infrared wavelengths. Using a simple light curve model to illustrate the basic physics, I introduce potentially important variations on this canonical picture, including: ~day-long optical (\"blue\") emission from lanthanide-free components of the ejecta; ~hours-long precursor UV/blue emission, powered by the decay of free neutrons in the outermost ejecta layers; and enhanced emission due to energy input from a long-lived central engine, such as an accreting BH or millisecond magnetar. I assess the prospects of detecting kilonovae following future GW detections of NS-NS/BH-NS mergers in light of the recent follow-up campaign of the LIGO binary BH-BH mergers.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "affiliations_identifiers": [
+          {
+            "schema": "GRID",
+            "value": "grid.21729.3f"
+          }
+        ],
+        "full_name": "Metzger, Brian D.",
+        "last_name": "Metzger",
+        "ids": [
+          {
+            "schema": "ORCID",
+            "value": "0000-0002-4670-7509"
+          },
+          {
+            "schema": "INSPIRE BAI",
+            "value": "B.D.Metzger.1"
+          }
+        ],
+        "first_name": "Brian D.",
+        "recid": 1038918
+      },
+      "control_number": 1495184,
+      "dois": [
+        {
+          "value": "10.1007/s41114-017-0006-z"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "astro-ph.HE",
+            "gr-qc"
+          ],
+          "value": "1610.09381"
+        }
+      ],
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Kilonovae"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Kilonova Handbook"
+        }
+      ]
+    },
+    "updated": "2023-12-12T10:56:30.303511+00:00",
+    "id": "1495184",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/1495184?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/1495184?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/1495184?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/1495184?format=json",
+      "cv": "https://inspirehep.net/api/literature/1495184?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1495184"
+    }
+  },
+  {
+    "created": "2012-06-06T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -2746,7 +3135,8 @@
         }
       ]
     },
-    "created": "2012-06-06T00:00:00+00:00",
+    "updated": "2025-03-19T13:31:03.384508+00:00",
+    "id": "1117419",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/1117419?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/1117419?format=latex-eu",
@@ -2754,310 +3144,6 @@
       "json": "https://inspirehep.net/api/literature/1117419?format=json",
       "cv": "https://inspirehep.net/api/literature/1117419?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1117419"
-    },
-    "updated": "2023-12-13T10:51:53.739204+00:00"
-  },
-  {
-    "id": "1495184",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Metzger, Brian D.",
-          "last_name": "Metzger"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "20",
-          "artid": "3",
-          "year": 2017,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "Springer",
-          "value": "The mergers of double neutron star (NS\u2013NS) and black hole (BH)\u2013NS binaries are promising gravitational wave (GW) sources for Advanced LIGO and future GW detectors. The neutron-rich ejecta from such merger events undergoes rapid neutron capture (r-process) nucleosynthesis, enriching our Galaxy with rare heavy elements like gold and platinum. The radioactive decay of these unstable nuclei also powers a rapidly evolving, supernova-like transient known as a \u201ckilonova\u201d (also known as \u201cmacronova\u201d). Kilonovae are an approximately isotropic electromagnetic counterpart to the GW signal, which also provides a unique and direct probe of an important, if not dominant, r-process site. I review the history and physics of kilonovae, leading to the current paradigm of week-long emission with a spectral peak at near-infrared wavelengths. Using a simple light curve model to illustrate the basic physics, I introduce potentially important variations on this canonical picture, including: $\\sim $ day-long optical (\u201cblue\u201d) emission from lanthanide-free components of the ejecta, $\\sim $ hour-long precursor UV/blue emission, powered by the decay of free neutrons in the outermost ejecta layers, and enhanced emission due to energy input from a long-lived central engine, such as an accreting BH or millisecond magnetar. I assess the prospects of kilonova detection following future GW detections of NS\u2013NS/BH\u2013NS mergers in light of the recent follow-up campaign of the LIGO binary BH\u2013BH mergers.",
-          "abstract_source_suggest": {
-            "input": "Springer"
-          }
-        },
-        {
-          "source": "arXiv",
-          "value": "The mergers of double neutron star (NS-NS) and black hole (BH)-NS binaries are promising gravitational wave (GW) sources for Advanced LIGO and future GW detectors. The neutron-rich ejecta from such merger events undergoes rapid neutron capture (r-process) nucleosynthesis, enriching our Galaxy with rare heavy elements like gold and platinum. The radioactive decay of these unstable nuclei also powers a rapidly evolving, supernova-like transient known as a \"kilonova\". Kilonovae provide an approximately isotropic electromagnetic counterpart to the GW signal, which also provides a unique and direct probe of an important, if not dominant, r-process site. This handbook reviews the history and physics of kilonovae, leading to the current paradigm of week-long emission with a spectral peak at near-infrared wavelengths. Using a simple light curve model to illustrate the basic physics, I introduce potentially important variations on this canonical picture, including: ~day-long optical (\"blue\") emission from lanthanide-free components of the ejecta; ~hours-long precursor UV/blue emission, powered by the decay of free neutrons in the outermost ejecta layers; and enhanced emission due to energy input from a long-lived central engine, such as an accreting BH or millisecond magnetar. I assess the prospects of detecting kilonovae following future GW detections of NS-NS/BH-NS mergers in light of the recent follow-up campaign of the LIGO binary BH-BH mergers.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "affiliations_identifiers": [
-          {
-            "schema": "GRID",
-            "value": "grid.21729.3f"
-          }
-        ],
-        "full_name": "Metzger, Brian D.",
-        "ids": [
-          {
-            "schema": "ORCID",
-            "value": "0000-0002-4670-7509"
-          },
-          {
-            "schema": "INSPIRE BAI",
-            "value": "B.D.Metzger.1"
-          }
-        ],
-        "last_name": "Metzger",
-        "first_name": "Brian D.",
-        "recid": 1038918
-      },
-      "control_number": 1495184,
-      "dois": [
-        {
-          "value": "10.1007/s41114-017-0006-z"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "astro-ph.HE",
-            "gr-qc"
-          ],
-          "value": "1610.09381"
-        }
-      ],
-      "titles": [
-        {
-          "source": "arXiv",
-          "title": "Kilonovae"
-        },
-        {
-          "source": "arXiv",
-          "title": "The Kilonova Handbook"
-        }
-      ]
-    },
-    "created": "2016-11-01T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1495184?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1495184?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1495184?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1495184?format=json",
-      "cv": "https://inspirehep.net/api/literature/1495184?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1495184"
-    },
-    "updated": "2023-12-12T10:56:30.303511+00:00"
-  },
-  {
-    "id": "1499873",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Winicour, Jeffrey",
-          "last_name": "Winicour"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "8",
-          "artid": "10",
-          "year": 2005,
-          "page_start": "10",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black spacetime. A prime application of characteristic evolution is to compute waveforms via Cauchy-characteristic matching, which is also reviewed.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Winicour, Jeffrey",
-        "last_name": "Winicour",
-        "first_name": "Jeffrey",
-        "recid": 983404
-      },
-      "control_number": 1499873,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2005-10"
-        }
-      ],
-      "titles": [
-        {
-          "source": "arXiv",
-          "title": "Characteristic Evolution and Matching"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0508097"
-        }
-      ]
-    },
-    "created": "2016-11-24T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1499873?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1499873?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1499873?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1499873?format=json",
-      "cv": "https://inspirehep.net/api/literature/1499873?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1499873"
-    },
-    "updated": "2023-03-06T19:23:25.985497+00:00"
-  },
-  {
-    "id": "582570",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Benacquista, Matthew J.",
-          "last_name": "Benacquista"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "5",
-          "artid": "2",
-          "year": 2002,
-          "page_start": "2",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "The galactic population of globular clusters are old, dense star systems, with a typical cluster containing $10^4 - 10^6$ stars. As an old population of stars, globular clusters contain many collapsed and degenerate objects. As a dense population of stars, globular clusters are the scene of many interesting close dynamical interactions between stars. These dynamical interactions can alter the evolution of individual stars and can produce tight binary systems containing one or two compact objects. In this review, we discuss the theoretical models of globular cluster evolution and binary evolution, techniques for simulating this evolution which lead to relativistic binaries, and current and possible future observational evidence for this population. Globular cluster evolution will focus on the properties that boost the production of hard binary systems and on the tidal interactions of the galaxy with the cluster, which tend to alter the structure of the globular cluster with time. The interaction of the components of hard binary systems alters the evolution of both bodies and can lead to exotic objects. Direct $N$-body integrations and Fokker-Planck simulations of the evolution of globular clusters that incorporate tidal interactions and lead to predictions of relativistic binary populations are also discussed. We discuss the current observational evidence for cataclysmic variables, millisecond pulsars, and low-mass X-ray binaries as well as possible future detection of relativistic binaries with gravitational radiation.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Benacquista, Matthew J.",
-        "last_name": "Benacquista",
-        "first_name": "Matthew J.",
-        "recid": 1016798
-      },
-      "control_number": 582570,
-      "dois": [
-        {
-          "value": "10.12942/lrr-2002-2"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "astro-ph"
-          ],
-          "value": "astro-ph/0202056"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Relativistic binaries in globular clusters"
-        },
-        {
-          "source": "arXiv",
-          "title": "Relativistic binaries in globular clusters."
-        },
-        {
-          "source": "arXiv",
-          "title": "Relativistic Binaries in Globular Clusters"
-        }
-      ]
-    },
-    "created": "2002-02-06T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/582570?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/582570?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/582570?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/582570?format=json",
-      "cv": "https://inspirehep.net/api/literature/582570?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A582570"
-    },
-    "updated": "2023-03-06T19:42:18.800583+00:00"
-  },
-  {
-    "id": "1384109",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Harms, Jan",
-          "last_name": "Harms"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "18",
-          "artid": "3",
-          "year": 2015,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "MPI Grav. Phys., Potsdam",
-          "value": "Different forms of fluctuations of the terrestrial gravity field are observed by gravity experiments. For example, atmospheric pressure fluctuations generate a gravity-noise foreground in measurements with super-conducting gravimeters. Gravity changes caused by high-magnitude earthquakes have been detected with the satellite gravity experiment GRACE, and we expect high-frequency terrestrial gravity fluctuations produced by ambient seismic fields to limit the sensitivity of ground-based gravitational-wave (GW) detectors. Accordingly, terrestrial gravity fluctuations are considered noise and signal depending on the experiment. Here, we will focus on ground-based gravimetry. This field is rapidly progressing through the development of GW detectors. The technology is pushed to its current limits in the advanced generation of the LIGO and Virgo detectors, targeting gravity strain sensitivities better than 10^-23 Hz^-1/2 above a few tens of a Hz. Alternative designs for GW detectors evolving from traditional gravity gradiometers such as torsion bars, atom interferometers, and superconducting gradiometers are currently being developed to extend the detection band to frequencies below 1 Hz. The goal of this article is to provide the analytical framework to describe terrestrial gravity perturbations in these experiments. Models of terrestrial gravity perturbations related to seismic fields, atmospheric disturbances, and vibrating, rotating or moving objects, are derived and analyzed. The models are then used to evaluate passive and active gravity noise mitigation strategies in GW detectors, or alternatively, to describe their potential use in geophysics. The article reviews the current state of the field, and also presents new analyses especially with respect to the impact of seismic scattering on gravity perturbations, active gravity noise cancellation, and time-domain models of gravity perturbations from atmospheric and seismic point sources. Our understanding of terrestrial gravity fluctuations will have great impact on the future development of GW detectors and high-precision gravimetry in general, and many open questions need to be answered still as emphasized in this article.",
-          "abstract_source_suggest": {
-            "input": "MPI Grav. Phys., Potsdam"
-          }
-        },
-        {
-          "source": "arXiv",
-          "value": "The article reviews the current state of the field, and also presents new analyses especially with respect to the impact of seismic scattering on gravity perturbations, active gravity noise cancellation, and time-domain models of gravity perturbations from atmospheric and seismic point sources. Our understanding of terrestrial gravity fluctuations will have great impact on the future development of GW detectors and high-precision gravimetry in general, and many open questions need to be answered still as emphasized in this article.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Harms, Jan",
-        "last_name": "Harms",
-        "first_name": "Jan",
-        "recid": 1055779
-      },
-      "control_number": 1384109,
-      "dois": [
-        {
-          "source": "ADS",
-          "value": "10.1007/lrr-2015-3"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "1507.05850"
-        }
-      ],
-      "titles": [
-        {
-          "source": "arXiv",
-          "title": "Terrestrial Gravity Fluctuations"
-        }
-      ]
-    },
-    "created": "2015-07-22T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/1384109?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/1384109?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/1384109?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/1384109?format=json",
-      "cv": "https://inspirehep.net/api/literature/1384109?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1384109"
-    },
-    "updated": "2025-01-06T11:10:38.117123+00:00"
+    }
   }
 ]

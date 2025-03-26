@@ -1,90 +1,6 @@
 [
   {
-    "id": "467223",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Anninos, Peter",
-          "last_name": "Anninos"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "9",
-          "year": 1998,
-          "page_start": "9",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Anninos, Peter",
-        "last_name": "Anninos",
-        "first_name": "Peter",
-        "recid": 1018311
-      },
-      "control_number": 467223,
-      "titles": [
-        {
-          "title": "Computational cosmology: From the early universe to the large scale structure"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467223?format=json",
-      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
-    },
-    "updated": "2023-03-06T15:07:33.241125+00:00"
-  },
-  {
-    "id": "467102",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Berger, Beverly K.",
-          "last_name": "Berger"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "7",
-          "year": 1998,
-          "page_start": "7",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Berger, Beverly K.",
-        "last_name": "Berger",
-        "first_name": "Beverly K.",
-        "recid": 1016665
-      },
-      "control_number": 467102,
-      "titles": [
-        {
-          "title": "Numerical approaches to space-time singularities"
-        }
-      ]
-    },
-    "created": "2000-10-10T00:00:00+00:00",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467102?format=json",
-      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
-    },
-    "updated": "2023-03-10T05:25:53.877150+00:00"
-  },
-  {
-    "id": "741066",
+    "created": "2008-11-13T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -114,7 +30,8 @@
         }
       ]
     },
-    "created": "2008-11-13T00:00:00+00:00",
+    "updated": "2023-03-06T13:39:39.151188+00:00",
+    "id": "741066",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/741066?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/741066?format=latex-eu",
@@ -122,11 +39,94 @@
       "json": "https://inspirehep.net/api/literature/741066?format=json",
       "cv": "https://inspirehep.net/api/literature/741066?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
-    },
-    "updated": "2023-03-06T13:39:39.151188+00:00"
+    }
   },
   {
-    "id": "534814",
+    "created": "2000-10-10T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Berger, Beverly K.",
+          "last_name": "Berger"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "7",
+          "year": 1998,
+          "page_start": "7",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "first_author": {
+        "full_name": "Berger, Beverly K.",
+        "last_name": "Berger",
+        "first_name": "Beverly K.",
+        "recid": 1016665
+      },
+      "control_number": 467102,
+      "titles": [
+        {
+          "title": "Numerical approaches to space-time singularities"
+        }
+      ]
+    },
+    "updated": "2023-03-10T05:25:53.877150+00:00",
+    "id": "467102",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467102?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467102?format=json",
+      "cv": "https://inspirehep.net/api/literature/467102?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467102"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
+    "metadata": {
+      "authors": [
+        {
+          "full_name": "Lorimer, D.R.",
+          "last_name": "Lorimer"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "artid": "10",
+          "year": 1998,
+          "page_start": "10",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "first_author": {
+        "full_name": "Lorimer, D.R.",
+        "last_name": "Lorimer",
+        "first_name": "D.R.",
+        "recid": 1025325
+      },
+      "control_number": 467231,
+      "titles": [
+        {
+          "title": "Binary and millisecond pulsars"
+        }
+      ]
+    },
+    "updated": "2023-03-06T14:05:57.644184+00:00",
+    "id": "467231",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467231?format=json",
+      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -175,7 +175,7 @@
         "full_name": "Rowan, Sheila",
         "last_name": "Rowan",
         "first_name": "Sheila",
-        "recid": 2129857
+        "recid": 1055816
       },
       "control_number": 534814,
       "dois": [
@@ -199,7 +199,8 @@
         }
       ]
     },
-    "created": "2000-10-10T00:00:00+00:00",
+    "updated": "2025-03-21T21:45:45.823934+00:00",
+    "id": "534814",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/534814?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/534814?format=latex-eu",
@@ -207,11 +208,10 @@
       "json": "https://inspirehep.net/api/literature/534814?format=json",
       "cv": "https://inspirehep.net/api/literature/534814?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
-    },
-    "updated": "2023-03-07T03:21:51.131269+00:00"
+    }
   },
   {
-    "id": "513238",
+    "created": "2000-01-18T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -262,7 +262,8 @@
         }
       ]
     },
-    "created": "2000-01-18T00:00:00+00:00",
+    "updated": "2023-03-06T17:28:46.759174+00:00",
+    "id": "513238",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
@@ -270,53 +271,52 @@
       "json": "https://inspirehep.net/api/literature/513238?format=json",
       "cv": "https://inspirehep.net/api/literature/513238?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
-    },
-    "updated": "2023-03-06T17:28:46.759174+00:00"
+    }
   },
   {
-    "id": "467231",
+    "created": "2000-10-10T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
-          "full_name": "Lorimer, D.R.",
-          "last_name": "Lorimer"
+          "full_name": "Anninos, Peter",
+          "last_name": "Anninos"
         }
       ],
       "publication_info": [
         {
           "journal_volume": "1",
-          "artid": "10",
+          "artid": "9",
           "year": 1998,
-          "page_start": "10",
+          "page_start": "9",
           "journal_title": "Living Rev.Rel."
         }
       ],
       "first_author": {
-        "full_name": "Lorimer, D.R.",
-        "last_name": "Lorimer",
-        "first_name": "D.R.",
-        "recid": 1025325
+        "full_name": "Anninos, Peter",
+        "last_name": "Anninos",
+        "first_name": "Peter",
+        "recid": 1018311
       },
-      "control_number": 467231,
+      "control_number": 467223,
       "titles": [
         {
-          "title": "Binary and millisecond pulsars"
+          "title": "Computational cosmology: From the early universe to the large scale structure"
         }
       ]
     },
-    "created": "2000-10-10T00:00:00+00:00",
+    "updated": "2023-03-06T15:07:33.241125+00:00",
+    "id": "467223",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467231?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467231?format=json",
-      "cv": "https://inspirehep.net/api/literature/467231?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467231"
-    },
-    "updated": "2023-03-06T14:05:57.644184+00:00"
+      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467223?format=json",
+      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
+    }
   },
   {
-    "id": "583592",
+    "created": "2002-03-05T00:00:00+00:00",
     "metadata": {
       "authors": [
         {
@@ -367,7 +367,8 @@
         }
       ]
     },
-    "created": "2002-03-05T00:00:00+00:00",
+    "updated": "2023-03-06T18:55:00.637468+00:00",
+    "id": "583592",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/583592?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/583592?format=latex-eu",
@@ -375,7 +376,6 @@
       "json": "https://inspirehep.net/api/literature/583592?format=json",
       "cv": "https://inspirehep.net/api/literature/583592?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
-    },
-    "updated": "2023-03-06T18:55:00.637468+00:00"
+    }
   }
 ]
