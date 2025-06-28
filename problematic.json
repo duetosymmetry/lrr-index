@@ -1,55 +1,113 @@
 [
   {
-    "created": "2008-11-13T00:00:00+00:00",
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "467223",
     "metadata": {
-      "authors": [
-        {
-          "full_name": "Blanchet, Luc",
-          "last_name": "Blanchet"
-        }
-      ],
       "publication_info": [
         {
-          "journal_volume": "9",
+          "journal_volume": "1",
+          "artid": "9",
+          "year": 1998,
+          "page_start": "9",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "authors": [
+        {
+          "full_name": "Anninos, Peter",
+          "last_name": "Anninos"
+        }
+      ],
+      "first_author": {
+        "full_name": "Anninos, Peter",
+        "last_name": "Anninos",
+        "first_name": "Peter",
+        "recid": 1018311
+      },
+      "control_number": 467223,
+      "titles": [
+        {
+          "title": "Computational cosmology: From the early universe to the large scale structure"
+        }
+      ]
+    },
+    "updated": "2023-03-06T15:07:33.241125+00:00",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/467223?format=json",
+      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
+    }
+  },
+  {
+    "created": "2000-01-18T00:00:00+00:00",
+    "id": "513238",
+    "metadata": {
+      "publication_info": [
+        {
+          "journal_volume": "2",
           "artid": "4",
-          "year": 2006,
+          "year": 1999,
           "page_start": "4",
           "journal_title": "Living Rev.Rel."
         }
       ],
+      "authors": [
+        {
+          "full_name": "Gundlach, Carsten",
+          "last_name": "Gundlach"
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
       "first_author": {
-        "full_name": "Blanchet, Luc",
-        "last_name": "Blanchet",
-        "first_name": "Luc",
-        "recid": 1016196
+        "full_name": "Gundlach, Carsten",
+        "last_name": "Gundlach",
+        "first_name": "Carsten",
+        "recid": 1007247
       },
-      "control_number": 741066,
+      "control_number": 513238,
       "titles": [
         {
-          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries"
+          "title": "Critical phenomena in gravitational collapse"
+        },
+        {
+          "source": "arXiv",
+          "title": "Critical phenomena in gravitational collapse - Living Reviews"
+        }
+      ],
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0001046"
         }
       ]
     },
-    "updated": "2023-03-06T13:39:39.151188+00:00",
-    "id": "741066",
+    "updated": "2023-03-06T17:28:46.759174+00:00",
     "links": {
-      "bibtex": "https://inspirehep.net/api/literature/741066?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/741066?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/741066?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/741066?format=json",
-      "cv": "https://inspirehep.net/api/literature/741066?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
+      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/513238?format=json",
+      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
     }
   },
   {
     "created": "2000-10-10T00:00:00+00:00",
+    "id": "467102",
     "metadata": {
-      "authors": [
-        {
-          "full_name": "Berger, Beverly K.",
-          "last_name": "Berger"
-        }
-      ],
       "publication_info": [
         {
           "journal_volume": "1",
@@ -57,6 +115,12 @@
           "year": 1998,
           "page_start": "7",
           "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "authors": [
+        {
+          "full_name": "Berger, Beverly K.",
+          "last_name": "Berger"
         }
       ],
       "first_author": {
@@ -73,7 +137,6 @@
       ]
     },
     "updated": "2023-03-10T05:25:53.877150+00:00",
-    "id": "467102",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/467102?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/467102?format=latex-eu",
@@ -84,14 +147,51 @@
     }
   },
   {
-    "created": "2000-10-10T00:00:00+00:00",
+    "created": "2008-11-13T00:00:00+00:00",
+    "id": "741066",
     "metadata": {
-      "authors": [
+      "publication_info": [
         {
-          "full_name": "Lorimer, D.R.",
-          "last_name": "Lorimer"
+          "journal_volume": "9",
+          "artid": "4",
+          "year": 2006,
+          "page_start": "4",
+          "journal_title": "Living Rev.Rel."
         }
       ],
+      "authors": [
+        {
+          "full_name": "Blanchet, Luc",
+          "last_name": "Blanchet"
+        }
+      ],
+      "first_author": {
+        "full_name": "Blanchet, Luc",
+        "last_name": "Blanchet",
+        "first_name": "Luc",
+        "recid": 1016196
+      },
+      "control_number": 741066,
+      "titles": [
+        {
+          "title": "Gravitational radiation from post-Newtonian sources and inspiralling compact binaries"
+        }
+      ]
+    },
+    "updated": "2023-03-06T13:39:39.151188+00:00",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/741066?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/741066?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/741066?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/741066?format=json",
+      "cv": "https://inspirehep.net/api/literature/741066?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A741066"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "467231",
+    "metadata": {
       "publication_info": [
         {
           "journal_volume": "1",
@@ -99,6 +199,12 @@
           "year": 1998,
           "page_start": "10",
           "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "authors": [
+        {
+          "full_name": "Lorimer, D.R.",
+          "last_name": "Lorimer"
         }
       ],
       "first_author": {
@@ -115,7 +221,6 @@
       ]
     },
     "updated": "2023-03-06T14:05:57.644184+00:00",
-    "id": "467231",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/467231?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/467231?format=latex-eu",
@@ -126,8 +231,88 @@
     }
   },
   {
-    "created": "2000-10-10T00:00:00+00:00",
+    "created": "2002-03-05T00:00:00+00:00",
+    "id": "583592",
     "metadata": {
+      "publication_info": [
+        {
+          "journal_volume": "5",
+          "artid": "6",
+          "year": 2002,
+          "page_start": "6",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
+      "authors": [
+        {
+          "full_name": "Rendall, Alan D.",
+          "last_name": "Rendall"
+        }
+      ],
+      "abstracts": [
+        {
+          "source": "arXiv",
+          "value": "This article is a guide to theorems on existence and global dynamics of solutions of the Einstein equations. It draws attention to open questions in the field. The local in time Cauchy problem, which is relatively well understood, is surveyed. Global results for solutions with various types of symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. Treatments of global results in the case of small data and results on constructing spacetimes with prescribed singularity structure are given. A conjectural picture of the asymptotic behaviour of general cosmological solutions of the Einstein equations is built up. Some miscellaneous topics connected with the main theme are collected in a separate section.",
+          "abstract_source_suggest": {
+            "input": "arXiv"
+          }
+        }
+      ],
+      "first_author": {
+        "full_name": "Rendall, Alan D.",
+        "last_name": "Rendall",
+        "first_name": "Alan D.",
+        "recid": 991974
+      },
+      "control_number": 583592,
+      "arxiv_eprints": [
+        {
+          "categories": [
+            "gr-qc"
+          ],
+          "value": "gr-qc/0203012"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Theorems on existence and global dynamics for the Einstein equations"
+        },
+        {
+          "source": "arXiv",
+          "title": "Theorems on existence and global dynamics for the Einstein equations."
+        }
+      ]
+    },
+    "updated": "2023-03-06T18:55:00.637468+00:00",
+    "links": {
+      "bibtex": "https://inspirehep.net/api/literature/583592?format=bibtex",
+      "latex-eu": "https://inspirehep.net/api/literature/583592?format=latex-eu",
+      "latex-us": "https://inspirehep.net/api/literature/583592?format=latex-us",
+      "json": "https://inspirehep.net/api/literature/583592?format=json",
+      "cv": "https://inspirehep.net/api/literature/583592?format=cv",
+      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
+    }
+  },
+  {
+    "created": "2000-10-10T00:00:00+00:00",
+    "id": "534814",
+    "metadata": {
+      "publication_info": [
+        {
+          "journal_volume": "3",
+          "artid": "3",
+          "year": 2000,
+          "page_start": "3",
+          "journal_title": "Living Rev.Rel."
+        },
+        {
+          "journal_volume": "25",
+          "artid": "5",
+          "year": 2022,
+          "page_start": "5",
+          "journal_title": "Living Rev.Rel."
+        }
+      ],
       "authors": [
         {
           "full_name": "Rowan, Sheila",
@@ -144,22 +329,6 @@
         {
           "full_name": "Hough, Jim",
           "last_name": "Hough"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "3",
-          "artid": "3",
-          "year": 2000,
-          "page_start": "3",
-          "journal_title": "Living Rev.Rel."
-        },
-        {
-          "journal_volume": "25",
-          "artid": "5",
-          "year": 2022,
-          "page_start": "5",
-          "journal_title": "Living Rev.Rel."
         }
       ],
       "first_author": {
@@ -200,7 +369,6 @@
       ]
     },
     "updated": "2025-03-21T21:45:45.823934+00:00",
-    "id": "534814",
     "links": {
       "bibtex": "https://inspirehep.net/api/literature/534814?format=bibtex",
       "latex-eu": "https://inspirehep.net/api/literature/534814?format=latex-eu",
@@ -208,174 +376,6 @@
       "json": "https://inspirehep.net/api/literature/534814?format=json",
       "cv": "https://inspirehep.net/api/literature/534814?format=cv",
       "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A534814"
-    }
-  },
-  {
-    "created": "2000-01-18T00:00:00+00:00",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Gundlach, Carsten",
-          "last_name": "Gundlach"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "2",
-          "artid": "4",
-          "year": 1999,
-          "page_start": "4",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term ``critical phenomena''. They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Gundlach, Carsten",
-        "last_name": "Gundlach",
-        "first_name": "Carsten",
-        "recid": 1007247
-      },
-      "control_number": 513238,
-      "titles": [
-        {
-          "title": "Critical phenomena in gravitational collapse"
-        },
-        {
-          "source": "arXiv",
-          "title": "Critical phenomena in gravitational collapse - Living Reviews"
-        }
-      ],
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0001046"
-        }
-      ]
-    },
-    "updated": "2023-03-06T17:28:46.759174+00:00",
-    "id": "513238",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/513238?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/513238?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/513238?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/513238?format=json",
-      "cv": "https://inspirehep.net/api/literature/513238?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A513238"
-    }
-  },
-  {
-    "created": "2000-10-10T00:00:00+00:00",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Anninos, Peter",
-          "last_name": "Anninos"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "1",
-          "artid": "9",
-          "year": 1998,
-          "page_start": "9",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "first_author": {
-        "full_name": "Anninos, Peter",
-        "last_name": "Anninos",
-        "first_name": "Peter",
-        "recid": 1018311
-      },
-      "control_number": 467223,
-      "titles": [
-        {
-          "title": "Computational cosmology: From the early universe to the large scale structure"
-        }
-      ]
-    },
-    "updated": "2023-03-06T15:07:33.241125+00:00",
-    "id": "467223",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/467223?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/467223?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/467223?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/467223?format=json",
-      "cv": "https://inspirehep.net/api/literature/467223?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A467223"
-    }
-  },
-  {
-    "created": "2002-03-05T00:00:00+00:00",
-    "metadata": {
-      "authors": [
-        {
-          "full_name": "Rendall, Alan D.",
-          "last_name": "Rendall"
-        }
-      ],
-      "publication_info": [
-        {
-          "journal_volume": "5",
-          "artid": "6",
-          "year": 2002,
-          "page_start": "6",
-          "journal_title": "Living Rev.Rel."
-        }
-      ],
-      "abstracts": [
-        {
-          "source": "arXiv",
-          "value": "This article is a guide to theorems on existence and global dynamics of solutions of the Einstein equations. It draws attention to open questions in the field. The local in time Cauchy problem, which is relatively well understood, is surveyed. Global results for solutions with various types of symmetry are discussed. A selection of results from Newtonian theory and special relativity which offer useful comparisons is presented. Treatments of global results in the case of small data and results on constructing spacetimes with prescribed singularity structure are given. A conjectural picture of the asymptotic behaviour of general cosmological solutions of the Einstein equations is built up. Some miscellaneous topics connected with the main theme are collected in a separate section.",
-          "abstract_source_suggest": {
-            "input": "arXiv"
-          }
-        }
-      ],
-      "first_author": {
-        "full_name": "Rendall, Alan D.",
-        "last_name": "Rendall",
-        "first_name": "Alan D.",
-        "recid": 991974
-      },
-      "control_number": 583592,
-      "arxiv_eprints": [
-        {
-          "categories": [
-            "gr-qc"
-          ],
-          "value": "gr-qc/0203012"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Theorems on existence and global dynamics for the Einstein equations"
-        },
-        {
-          "source": "arXiv",
-          "title": "Theorems on existence and global dynamics for the Einstein equations."
-        }
-      ]
-    },
-    "updated": "2023-03-06T18:55:00.637468+00:00",
-    "id": "583592",
-    "links": {
-      "bibtex": "https://inspirehep.net/api/literature/583592?format=bibtex",
-      "latex-eu": "https://inspirehep.net/api/literature/583592?format=latex-eu",
-      "latex-us": "https://inspirehep.net/api/literature/583592?format=latex-us",
-      "json": "https://inspirehep.net/api/literature/583592?format=json",
-      "cv": "https://inspirehep.net/api/literature/583592?format=cv",
-      "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A583592"
     }
   }
 ]
