@@ -43,6 +43,39 @@ def _multi_paper_find_best(entry):
 
     return possibilities[-1]
 
+def _multi_title_find_best(entry):
+    """A helper function to find which title entry is best, when there is more
+    than one option.
+
+    I don't know if the title entries are added in some particular order.
+    Issues I've noticed so far:
+    1. The "Author Correction" notice for
+       https://inspirehep.net/literature/2729982 added a title entry, but it
+       starts off as "Author Correction: ...", which is not what we want.  Just
+       get the actual title itself, instead of the correction.
+
+    We will filter out known issues from the list above, and prefer arXiv titles
+    over others.
+    """
+
+    possibilities = entry['metadata']['titles']
+    possibilities = list(
+        filter( lambda p: ('title' in p.keys())
+                and
+                'Author Correction' not in p['title'],
+                possibilities))
+
+    arXiv_possibilities = list(
+        filter( lambda p: ('source' in p.keys())
+                and
+                p['source'] == 'arXiv',
+                possibilities))
+
+    if any(arXiv_possibilities):
+        possibilities = arXiv_possibilities
+
+    return possibilities[-1]['title']
+
 def _doi_filter(entry):
     """A helper function to only allow certain DOIs.
     One (or more?) INSPIRE entry has multiple DOIs, and one comes from
@@ -55,6 +88,11 @@ def _doi_filter(entry):
                     if any([doi_entry['value'].startswith(start)
                             for start in allowed_doi_starts]) ]
 
+    # Remove the DOIs for the errata
+    allowed_dois = list(
+        filter( lambda p: p.get('material','') != 'erratum',
+                allowed_dois ))
+
     return allowed_dois[-1]['value']
 
 class Paper:
@@ -66,7 +104,7 @@ class Paper:
         md = entry['metadata']
 
         self.iid      = entry['id']
-        self.title    = md['titles'][-1]['title']
+        self.title    = _multi_title_find_best(entry)
 
         try:
             self.doi      = _doi_filter(entry)
@@ -76,7 +114,7 @@ class Paper:
             self.doi = 'missing'
 
         best_pub_info = _multi_paper_find_best(entry)
-        
+
         try:
             self.year     = best_pub_info['year']
         except:
